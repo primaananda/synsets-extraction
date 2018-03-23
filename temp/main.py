@@ -4,7 +4,7 @@ created by : Prima Ananda
 import json
 
 #untuk membaca data tesaurus
-file_tesaurus = open('resources/tesaurus2008.json','r')
+file_tesaurus = open('tesaurus2008.json','r')
 #untuk baca file json tesaurus
 with file_tesaurus as jsonf:
     tesaurus = json.load(jsonf)
