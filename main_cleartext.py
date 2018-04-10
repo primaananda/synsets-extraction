@@ -1,7 +1,6 @@
 #created by primaananda
-import re
-file = open('hasil/final/finaltesaurus.txt','r')
-files = open('hasil/final/tesaurus.txt','w')
+file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
+files = open('hasil/final/tesaurus_clear_text.txt','w')
 
 lines = file.readline()
 
@@ -26,19 +25,6 @@ for x in range(0,len(dicts)):
             temp += dicts[x+1]
             x =  x+1
         dicts2.append(temp)
-
-'''
-
-for x in range(0,len(dicts)):
-    test = ''
-    print(dicts[x])
-    if (dicts[x].startswith('#')) or (dicts[x].endswith(',')) or (dicts[x].endswith('-')):
-        temp = ''
-        while dicts[x].endswith(',') or dicts[x].endswith('-') :
-            temp += dicts[x]
-            x = x+1
-        dicts2.append(temp)
-'''
 
 for x in dicts2:
     files.write(x+'\n')
