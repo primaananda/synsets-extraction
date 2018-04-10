@@ -1,26 +1,21 @@
-aba-aba n arahan, instruksi,
-	 isyarat, kode, komando, pe	 rintah, petunjuk, seruan, su	 ruhan, tanda, titah
-abad n era, kala, kurun, masa,
-periode, sepuluh dasawarsa, sepuluh dekade, seratus tahun, zaman;
+#A
+aba-aba n arahan, instruksi, isyarat, kode, kom  ando, pe	 rintah, petunjuk, seruan, su	 ruhan, tanda, titah
+abad n era, kala, kurun, masa, periode, sepuluh dasawarsa, sepuluh dekade, seratus tahun, zaman;
 	 seabad n seera, sekurun, sezaman;
 	 berabad-abad adv beratus-ratus tahun,
 berkurun-kurun, bertahun-tahun, berzaman-zaman
 abadi a awet, baka, daim, infinit, kekal, langgeng, langsung, lestari, qadim, samad, tetap, wujud;
 	 ant sementara
-	 mengabadikan v 1 melanggengkan, melestarikan, membakakan, meneruskan,
-menetapkan, mengawetkan, mengekalkan; 2 memfilmkan, memfoto, memotret,
-memvideokan, mencatat, mendokumentasikan, menjepret (cak), menyimpan, merekam;
+	 mengabadikan v 1 melanggengkan, melestarikan, membakakan, meneruskan, menetapkan, mengawetkan, mengekalkan; 2 memfilmkan, memfoto, memotret, memvideokan, mencatat, mendokumentasikan, menjepret (cak), menyimpan, merekam;
 	 ant memusnahkan
 	 pengabadian n 1 pelanggengan, pelestarian, penerusan, pengekalan; 2 pemotretan, pendokumentasian, penjepretan (cak);
 	 ant pemusnahan
 	 keabadian n kebakaan, kebaqaan, keberterusan, kekekalan, kelanggengan, kelanjutan, kelestarian, kesinambungan;
 	 ant kefanaan
 	 terabadikan v tercatat, terdokumentasikan, terekam, tersimpan
-abah n arah, depan, hadap, haluan, jurus,
-tuju;
+abah n arah, depan, hadap, haluan, jurus, tuju;
 	 mengabah v mendatangi, mendekati, menentang, mengarah, mengedepan, menghadap, menjurus, menuju;
-	 mengabahkan v menentangkan, mengarahkan, menghadapkan, mengiblatkan,
-menujukan
+	 mengabahkan v menentangkan, mengarahkan, menghadapkan, mengiblatkan, menujukan
 abai a alpa, cabar, ceroboh, cuai, gegabah,
 kelipar, khilaf, lalai, leler, lengah, lupa,
 sembarangan, sembrono, serampangan,
@@ -64,11 +59,6 @@ mendaulat, mengaki, menghamba, patuh;
 	 ant pembangkangan
 aben, mengaben v membakar , memperabukan, mengkremasi;
 	 pengabenan n kremasi, pembakaran mayat, pengabuan, plebon
-
-
-
-abjad • acak
-
 abjad n abc, abece, aksara, alfabet, alif-bata, fonem, hiroglif, huruf, ideograf, kritogram, piktograf, tulisan;
 	 mengabjadkan v mengabecekan, mengalfabetkan;
 	 berabjad v beralfabet
@@ -144,10 +134,7 @@ serampangan, sewenang-wenang;
 	 mengacak-acak v memberai-berai, membongkar-bongkar, memberantakkan, memorakporandakan, menceraberaikan, mengacaukan, mengaduk-aduk;
 	 ant merapikan
 	 acak-acakan a 1 awut-awutan, berantakan,
-berarakan, berpesai-pesai, bersepah, berserakan, bongkar-bangkir, centang-pere-
-
-acap • ada
-nang, cerai-berai, kacau, kacau-balau,
+berarakan, berpesai-pesai, bersepah, berserakan, bongkar-bangkir, centang-pere-nang, cerai-berai, kacau, kacau-balau,
 kelut-melut, keruntang-pukang, kibangkibut, morat-marit, porak-parik, porakporanda, sembarangan, semrawut, serabutan, serampangan, serbah-serbih, serobeh, tersara-bara; 2 cepat-cepat, lekaslekas, terburu-buru, tergesa-gesa
 	 ant rapi
 acap a  kerap, rajin, selalu, sering, suka; bangat, cepat, lekas, segera;
@@ -180,9 +167,6 @@ acu, mengacu v 1 melewa, membega, membidik, mengamang, mengarahkan, menggugat, m
 menganjurkan, mengarahkan, menodongkan,
 menujukan,
 menyasarkan;
-
-
-
 2 mendasarkan, mengacukan, menumpukan, menyandarkan, merujukkan;
 	 acuan n 1 referensi, rujukan, tumpuan;
 2 anteseden, anutan, arketipe, cermin,
@@ -214,13 +198,7 @@ menyimpan; 4 a benar, betul, boleh;
 	 mengadakan v melahirkan, melaksanakan, melakukan, melangsungkan, memasang, membangun, membentuk, membikin, membuahkan, membuat, membuatkan, mempersiapkan, menciptakan,
 mendatangkan, mendirikan, menempatkan, menerbitkan, mengarang, mengatur, mengakibatkan, mengeluarkan,
 menggelar, menghadirkan, menghasilkan,
-menimbulkan, menjadikan, menjelmakan, menubuhkan, menurunkan, menyebabkan, menyediakan, menyelenggarakan, menyiapkan, menyusun, mewu-
-
-
-
-adab • adi
-
-judkan;
+menimbulkan, menjadikan, menjelmakan, menubuhkan, menurunkan, menyebabkan, menyediakan, menyelenggarakan, menyiapkan, menyusun, mewu-judkan;
 	 ant meniadakan
 	 berada 1 v berharta, berkecukupan, berpengaruh, berpunya, beruang; 2 bakir,
 kaya, makmur, mampu, rani, sugih;
@@ -300,8 +278,6 @@ sepi, stagnan (cak)
 adi- a besar, julung, pertama, rafi, tinggi,
 unggul, utama
 adi a biasa, lazim, teradat, terpakai, umum
-
-adibintang • adu
 adibintang n bintang lapangan, mahabintang, megabintang, superstar, diva,
 primadona, sripanggung
 adicita n ajaran, aliran, fikrah, filsafat, haluan (ki), ideologi, paham, pandangan, pemikiran
@@ -342,9 +318,6 @@ adiwangsa n aristokrat, bangsawan, darah
 biru, menak, ningrat, priyayi
 adiwarna a bagus, cantik, elok, indah, jelita,
 memesona, menawan, molek, rupawan
-
-
-
 adjektiva n kata keadaan, kata sifat
 administrasi n manajemen, tadbir, tata laksana, tata usaha
 administrator n direktur, eksekutif, manajer;
@@ -372,11 +345,6 @@ mendakwa, mengabung, menggugat,
 menghasut, mengipasi, mengocok, mengompori; 3 mengantukkan, menyentuhkan, menyenggolkan; 4 melapor, mengeluh, mengemukakan, mengetengahkan;
 	 mengadukan v melaporkan, memberitahukan, memerkarakan, mengacarakan,
 mengelah, mengutarakan, menyampaikan
-
-
-
-adu domba • agak-agih
-
 	 peraduan n pertandingan, sayembara, musabaqah, perlawanan, perlombaan, persaingan, pertarungan;
 	 aduan n 1 kompetisi, kontes, perlagaan,
 perlawanan, perlombaan, persabungan,
@@ -447,8 +415,6 @@ ingat-ingat, waspada
 agak-agih, mengagak-agihkan v memaparkan, membeberkan, membentangkan,
 mencatat, mencuraikan, menerangkan,
 mengecam, menggambarkan, menghamparkan, mengkritik, menguraikan, menjabarkan, menjelajahkan, menjelaskan
-
-agama • 1ahli
 agama n ajaran, akidah, anutan, din, keimanan, kepercayaan, ketuhanan, keyakinan, pedoman, pegangan, petunjuk, religi, tuntunan;
 	 beragama v berakidah, beribadat, beriktikad, beriman, berkepercayaan, berkeyakinan, berpedoman, bertakwa, mematuhi,
 memeluk, menganut, taat;
@@ -483,9 +449,6 @@ agresor n penyerang, penyerbu
 agun n cagar, garansi, jaminan, sandar, tagan, tanggungan, teban;
 	 menggagunkan v mempertaruhkan, mencagarkan, menggadaikan, menyandarkan,
 merungguhkan;
-
-
-
 	 agunan n andalan, cagaran, gadaian, jaminan, petaruh, runggu, sandar, sandaran,
 tajak kebat, tanggungan, taruhan, tendon;
 	 mengagunkan v mempertanggungkan,
@@ -519,13 +482,6 @@ ustaz, ustazah;
 	 -- grafis desainer, perancang;
 	 -- hukum yuris;
 	 -- ilmu seks seksolog;
-
-
-
-ahli • ajar
-
-2
-
 	 -- kamus leksikograf, pekamus;
 	 -- nujum astrolog, juru ramal, paranormal,
 penelah, penilik, peramal; dukun;
@@ -571,14 +527,6 @@ uap;
 	 -- muka ekspresi, roman, rona, seri muka,
 tampang;
 	 -- najis air kencing, air kotor;
-
-	
-	
-	
-	
-	
-	
-
 -- perak tinta perak;
 -- raksa merkurium;
 -- seni air kemih, air kencing, urine;
@@ -619,8 +567,6 @@ maut
 ajang n 1 arena, gelanggang, kancah, medan,
 palagan, panggung; 2 bekas, tempat, wadah
 ajar n asuh, belasah, beri tahu, bimbing, didik, gasak, hukum, jaga, latih, pelihara;
-
-ajar-ajar • akal
 	 mengajar v 1 melatih, membentuk, membimbing, memimpin, menangani, menasihati, menatar, mendidik, mengarahkan, mengasuh, mengemong, menggembleng, menggodok, menggurui, mengomeli, menguliahi, menunjuki, menuntun,
 menyuluh; 2 membiasakan, membudayakan;
 	 ant mempelajari
@@ -657,9 +603,6 @@ meninjau, menjajaki, menyelami, menyelidiki, menyidik, menyimak;
 kadet, mahasiswa, mahasiswi, murid, penuntut, praja, siswa, siswi, studen (cak);
 	 ant pengajar
 	 pelajaran n bidang, disiplin, ilmu, kajian, kursus, pengajian, pengetahuan;
-
-
-
 	 terpelajar 1 a  akil, arif, bakir, bestari, bijaksana, cendekia; 2 v beradab, berbudaya,
 berbudi, berilmu, berpendidikan, berpengetahuan; 3 n cendekiawan, cerdik pandai, ilmuwan, sarjana
 ajar-ajar n begawan, biarawan, biarawati,
@@ -691,11 +634,6 @@ janji
 akademi n perguruan, perguruan tinggi, sekolah tinggi
 akal n budi, dalih, daya pikir, daya upaya,
 daya usaha, helat, ikhtiar, ingatan, inisiatif, intelek, kebijaksanaan, kecerdikan,
-
-10
-
-akan• akhlak
-
 kelicikan, kiat, mantik, muslihat, nalar,
 otak, pikiran, prakarsa, rasio, renungan,
 slah, taktik, tipu daya, tipu muslihat, trik;
@@ -766,10 +704,7 @@ kang, termuda, ujung;
 akhirat n alam baka, darul baka
 akhirulkalam n akhir kata, kata penutup,
 wasalam (cak)
-akhlak n adab, budi bahasa, budi pekerti, eti-
-
-akibat • aktivis
-ka, integritas, karakter, kelakuan, moral,
+akhlak n adab, budi bahasa, budi pekerti, eti-ka, integritas, karakter, kelakuan, moral,
 perangai, sila, sopan santun, susila, tabiat,
 watak;
 	 berakhlak v adib, beradab, berbudi pekerti, beriman, bermoral, bersopan santun,
@@ -838,11 +773,6 @@ usaha
 	 ant kepasifan
 aktivis n motor (ki), organisator, otak (ki),
 pegiat, pekerja, pelopor, pemrakarsa, pen-
-
-12
-
-aktivitas • 1alam
-
 cetus, penggagas, penggerak, pentolan
 (cak), praktisi, tokoh
 aktivitas n acara, aksi, denyut, keaktifan, kegiatan, kehidupan, kesibukan, pekerjaan
