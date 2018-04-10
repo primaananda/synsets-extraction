@@ -22,7 +22,6 @@ sembarangan, sembrono, serampangan,
 silap, taksir, teledor;
 	 ant hirau
 	 mengabaikan v 1 melalaikan, melambatlambatkan, melanyak, melecehkan, melengahkan, melengah-lengahkan, melupakan, memasabodohkan, membelakangi,
-
 membenamkan, membengkalaikan, membiarkan, membuang, memetieskan, memicakan, memperkecil, memunggungi,
 mencampak, mencuaikan, mendiamkan,
 meneledorkan,
@@ -846,11 +845,6 @@ alam baka, alam kelanggengan;
 	 -- barzakh alam kubur; alam samar;
 	 -- raya alam besar, alamin, alam kabir, alam
 semesta, jagat raya, makrokosmos, universum
-
-alam • alem
-
-2
-
 alam, mengalami v melakoni, menanggung, mendapati, menderita, menemui,
 mengarungi, mengecapi, mengenyami,
 menghadapi, menikmati, meniti, menjalani,
@@ -928,13 +922,7 @@ sejarah
 alegori n parabel; ibarat, kias, metafor, misal,
 pemisalan, perumpamaan, tamsil
 alegoris a asosiatif, figuratif, konotatif, metaforis, simbolis
-alem, mengalem v cak 1 melantan, memanjakan, memberi hati, mengempenak; 2 melambungkan, memuji, mengambungambung, mengangkat-angkat, mengan-
-
-14
-
-aleman • 1alir
-
-jung-anjung, menghargai, menongkat (ki),
+alem, mengalem v cak 1 melantan, memanjakan, memberi hati, mengempenak; 2 melambungkan, memuji, mengambungambung, mengangkat-angkat, menganjung-anjung, menghargai, menongkat (ki),
 menyanjung-nyanjung
 	 ant 2 mencela
 aleman a cak beranja-anja, bermanja-manja,
@@ -998,13 +986,7 @@ memancar, mencair, mencerat, menerus,
 menetes, mengarus, menggabak, mengiler, mengucur, menitik, menjelejeh, merabas, merebak, meremang, merembah
 (air mata), merembes, meresap; 2 ki beramai-ramai, berbanyak-banyak, berbondong-bondong, berderai-derai, berduyunduyun;
 	 mengalirkan v melelehkan, membandarkan,	 meneteskan, mengarahkan, menghanyutkan, menitikkan, menjalir, menyalurkan;
-	 aliran n 1 arus, cucuran, deraian, gelom-
-
-alit • aman
-
-1
-
-bang, gerakan, imbasan, jalan, lelehan,
+	 aliran n 1 arus, cucuran, deraian, gelombang, gerakan, imbasan, jalan, lelehan,
 pancaran, pancuran, peredaran, perputaran, rembesan, sirkulasi (udara); 2 adicita, ajaran, anutan, fikrah, filsafat, golongan, haluan, ideologi, isme, keyakinan,
 mazhab, pandangan, pegangan, pemikiran,
 pendapat, sekte, tarekat;
@@ -1043,9 +1025,6 @@ mengabaikan, mengancaikan, meninggalkan;
 	 kealpaan n gaflat, keabaian, kecuaian, kekhilafan, kelalaian, kelengahan, kelupaan,
 keteledoran, taksir
 alternasi n pergantian, permutasi, perputaran, pertukaran, suksesi
-
-15
-
 alternatif n 1 opsi, pilihan, preferensi, seleksi;
 2 pengganti, substitusi, surogat
 alu n anak gobek, anak lesung, antan, antarantar, lenjing, muntu, pelantak, pelocok,
@@ -1088,13 +1067,7 @@ mengusahakan, menjalankan, menunaikan, merealisasi, mewujudkan;
 pengerjaan, perwujudan, praktik, realisasi;
 	 amalan n ibadah, kebajikan, kebiasaan, wiritan;
 	 beramal v bersedekah, menyumbang
-aman a 1 bahagia, damai, hening, jernih
-
-16
-
-amanah • 1ambisi
-
-(suasana), lega, reda, rukun, sejahtera,
+aman a 1 bahagia, damai, hening, jernih (suasana), lega, reda, rukun, sejahtera,
 senang, sentosa, tenang, tenteram; 2 selamat, sip (cak), terjaga, terjamin, terlindung, tersembunyi; 3 mantap, meyakinkan, pasti;
 	 ant 1 huru-hara
 	 mengamankan v 1 menenteramkan,
@@ -1167,13 +1140,7 @@ iring-iringan, kirab, konvoi, parade, pasukan, pawai, perarakan, prosesi
 ambang n 1 alang, belan, kayu palang, lawa,
 rimbat, sengkang; 2 ki babak, fase, periode,
 stadium, tahap, taraf, tingkat;
-	 mengambang v membendung, menahan,
-
-ambang • ambisi
-
-2
-
-mencegah, mengalangi, menghalangi,
+	 mengambang v membendung, menahan,mencegah, mengalangi, menghalangi,
 menghambat, menopang, menyangga,
 menyekat, merintangi
 	 ant melepaskan
@@ -1323,8 +1290,6 @@ main, luar biasa tobat;
 	 pengampun n pemaaf, pengasih, penyayang;
 	 pengampunan n pemaafan, pengurangan,
 remisi;
-
-amputasi • ancam
 	 ampunan n abolisi, absolusi, amnesti, belas kasihan, izin, lepas, maaf, magfirah,
 pemaafan, pembebasan
 amputasi, mengamputasi v memotong
@@ -1401,11 +1366,6 @@ ancam, mengancam v melagak, melasikan, mempertakuti, menakut-nakuti, meneror, me
 menggertak,
 menggugat,
 mengintimidasi, mengugut;
-
-20
-
-ancang • aneksasi
-
 	 pengancam n pendesak, pengganggu,
 penggertak, penggugat;
 	 pengancaman n penggertakan, penggugatan;
@@ -1476,10 +1436,7 @@ plural, puspa-warna;
 	 keanekaragaman n diversitas, heterogenitas, keberbagaian, kebinekaan, kemajemukan, keragaman, pluralitas, variabilitas;
 anekdot n cerita, kisah (lucu)
 aneksasi n pencaplokan, pendudukan, penguasaan, penyerobotan, perebutan (wilayah);
-	 menganeksasi v menaklukkan, menapak-
-
-angan • anggut
-kan kaki, mencaplok (cak), mencengkeram,
+	 menganeksasi v menaklukkan, menapakkan kaki, mencaplok (cak), mencengkeram,
 menduduki, menguasai, merebut
 angan n abun-abun, cipta, cita, fantasi, harapan, hasrat, impian, ingatan, khayalan,
 lamunan, maksud, niat, pikiran, rancangan, reka-rekaan, rencana, renungan;
@@ -1550,13 +1507,7 @@ tidak bekerja, ongkang-ongkang;
 anggut, beranggut v menganggut;
 	 menganggut v mengangguk;
 	 menganggut-anggut v anggung-anggip,
-kolang-kaling, mengangguk-angguk, ter-
-
-22
-
-angin • angkat
-
-kulai-kulai, tersengguk-sengguk, turun
+kolang-kaling, mengangguk-angguk, terkulai-kulai, tersengguk-sengguk, turun
 naik
 angin n 1 aliran udara, arus udara, badai,
 bayu, gas, hawa, kentut, pawana, siklon,
@@ -1633,10 +1584,7 @@ pembaiatan, pengukuhan, penobatan, penunjukan;
 	 angkatan n 1 armada, bala, barisan, laskar, legiun, militer, pasukan, tentara;
 2 generasi, tingkatan;
 	 ~ bersenjata bala tentara, militer, paramiliter
-	 seangkatan a sealiran, sebaya, seleting
-
-angker • anjlok
-(cak), seperjuangan, setingkatan, sezaman;
+	 seangkatan a sealiran, sebaya, seleting(cak), seperjuangan, setingkatan, sezaman;
 	 terangkat v ki mencuat, mengemuka, menyembul, muncul, timbul;
 angker a berhantu, menakutkan, mengerikan, menyeramkan, sangar
 angket n daftar pertanyaan, kuesioner; jajak
@@ -1675,11 +1623,7 @@ angsur v cicil, kredit;
 	 ant tunai
 	 mengangsur v mencicil, mengkredit;
 	 angsuran n cicilan, kredit;
-	 berangsur(-angsur) v 1 berantara, berdikitdikit (cak), beroncet-roncet, bertahap, lama-
-
-23
-
-kelamaan, lama-lama, lambat-laun, perlahan-lahan, sedikit demi sedikit; 2 beralih, beranjak, bergeser, beringsut, berpindah, mengesak, menggeremet, menyesar, merangkak, merayap, merembet
+	 berangsur(-angsur) v 1 berantara, berdikitdikit (cak), beroncet-roncet, bertahap, lama-kelamaan, lama-lama, lambat-laun, perlahan-lahan, sedikit demi sedikit; 2 beralih, beranjak, bergeser, beringsut, berpindah, mengesak, menggeremet, menyesar, merangkak, merayap, merembet
 ani-ani n ketam, pengetam, penuai, tamin
 aniaya n kebengisan, kekejaman, kezaliman, penindasan, siksa;
 	 menganiaya v membantai, memermak
@@ -1715,11 +1659,6 @@ anjing n asu;
 	 -- tanah gakang, orong-orong
 anjlok v ambruk, drop (cak), jatuh, jebluk
 (ki), merosot, roboh, runtuh, terban, turun
-
-24
-
-anjung • antariksawan
-
 anjung, menganjung-anjung v ki melambungkan, memuji-muji, mengalem (cak),
 mengangkat-angkat, menongkat (ki), menyanjung-sanjung;
 	 anjungan n 1 angklung, paviliun, ruang
@@ -1787,8 +1726,6 @@ pengadil, penyelang, pialang, wasit, wasitah;
 	 perantaraan n bantuan, hubungan, mediasi, pemisahan, penyambungan, perhubungan, pertalian, pertolongan;
 	 memperantarai v mempertemukan, menghubungkan, menjembatani (ki), mewakili;
 antariksawan n angkasawan, astronaut, kosmonaut
-
-antek • anyam
 antek n agen, anak buah, bawahan, budak,
 kaki tangan (ki), pengikut, pion
 antem, berantem v cak adu jotos, beradu
@@ -1821,11 +1758,7 @@ antuk, berantuk v beradu, berbenturan, berlaga, berlanggar, berlawan, bersabung,
 bertarung, bertemu, bertumbuk;
 	 mengantuk v 1 melanggar, membentur,
 menabrak, menarung, menubruk, menumbuk, menyampuk; 2 mendorong, menyandung, menyaruk; 3 mengenai, menggoleng, menyenggol, menyentuh, menyerempet, menyinggung;
-	 mengantukkan v melanggarkan, membentrokkan, membenturkan, menabrak-
-
-25
-
-kan, menubrukkan, menumbukkan, menyampukkan;
+	 mengantukkan v melanggarkan, membentrokkan, membenturkan, menabrakkan, menubrukkan, menumbukkan, menyampukkan;
 	 berantukan v berbenturan, berlanggaran,
 bersinggungan, bertabrakan, bertubrukan,
 bertumbukan;
@@ -1859,13 +1792,7 @@ pengikut;
 	 anutan n 1 acuan, contoh, figur, ikutan, jejak (ki), panutan, patron, pelajaran, teladan, turutan; 2 agama, ajaran, aliran, kepercayaan, keyakinan, pegangan
 anyam v jalin, kepang, pilin, pintal, rajut,
 rangkai;
-	 menganyam v memilin, memintal, me-
-
-26
-
-anyelir• aplikasi
-
-ngelabang, mengepang, menjalin, menyusun, merajut;
+	 menganyam v memilin, memintal, mengelabang, mengepang, menjalin, menyusun, merajut;
 	 anyam-menganyam v jalin-menjalin, rajutmerajut, silang-menyilang;
 	 penganyam n pengelabang, pengepang,
 penjalin, perajut, perangkai;
@@ -1937,10 +1864,7 @@ mengedrop, menyingkirkan, menyisihkan;
 kerdak, loakan, reruntuk, rombengan, romong, rongsokan
 aplaus n apresiasi, penghargaan, pujian, tepuk tangan
 aplikasi n 1 operasi, pelaksanaan, penerapan, penggunaan, praktik, rekayasa; 2 lamaran, permintaan, permohonan;
-	 mengaplikasikan v melaksanakan, menerapkan, mengamalkan, menggunakan,
-
-apologi • aral
-mengimplementasikan, mengoperasikan,
+	 mengaplikasikan v melaksanakan, menerapkan, mengamalkan, menggunakan, mengimplementasikan, mengoperasikan,
 menjalankan
 apologi n pembelaan, pledoi
 apotek n rumah obat, toko obat
@@ -2011,11 +1935,6 @@ rondah-randih, ropak-rapik, semrawut,
 tersara-bara
 aral n gangguan, ganjalan, halangan, hambatan, kendala, larangan, rintangan, sandungan, sekatan, tegahan;
 	 mengaralkan n mengendalakan, menghalangi, menghambat, menyekat, merintangi
-
-28
-
-aram • artifisial
-
 aram, aram-temaram a buram, gelap, ka
 bur, kabut, kelam, kusam, malis, muram,
 pirau, sebam, subam, suram, taram-taram,
@@ -2097,8 +2016,6 @@ signifikan
 artifisial a bikinan, buatan, fiktif, sintetis,
 lancung, palsu, tiruan, pura-pura
 	 ant asli, tulen
-
-artikel • asas
 artikel n 1 esai, karangan, kolom, makalah,
 risalah, tulisan; 2 pasal, ayat, bab, butir,
 perkara, poin
@@ -2174,11 +2091,6 @@ cara;
 pemula, perintis;
 	 berasas v beralas(an), berdasar, berlapik,
 berprinsip, berterima, masuk akal;
-
-30
-
-asasi • aspek
-
 	 berasaskan v berdasarkan, berlandaskan,
 bersandarkan, bersendikan, berteraskan,
 bertonggakkan, bertunjangkan
@@ -2249,8 +2161,6 @@ aspal n belangkin, pek (cak), ter
 asparagus n akar parsi, sapersi
 aspek n arah, bagian, dimensi, faset, gatra,
 perspektif, segi, sudut
-
-aspiran • ateis
 aspiran n bakal, calon, kader, kadet, kandidat
 aspirasi n ambisi, angan-angan, cita-cita,
 dambaan, hajat, harapan, hasrat, iktikad,
@@ -2324,11 +2234,6 @@ ternama, terpilih, tertinggi, terunggul, terutama, top; 2 terala, termulia;
 	 teratasi v terkendali, terlewati, terpecahkan, terselesaikan, tertangani, tertanggulangi
 atau p alias, ataupun, maupun
 ateis n dahriah, kafir, kufur
-
-32
-
-atensi • awak
-
 atensi n minat, perhatian
 atlas n denah, kar, peta
 atlet n olahragawan
@@ -2398,8 +2303,6 @@ sarira, tubuh; 4 n anak buah, personel;
 kerabat kerja, kru, satuan kerja, satuan
 tugas, tim;
 	 -- kapal anak kapal, kelasi, matros;
-
-awal • ayah
 	 perawakan n bangun, bentuk badan,
 bentuk tubuh, bodi (cak), postur, potongan
 tubuh, sosok, takah, tampan, tokoh
@@ -2476,13 +2379,7 @@ kusut, morat-marit, porak-parik, porakporanda, semrawut, serbah-serbih, serobeh,
 seenaknya, sembarangan, sembrono, serampangan
 	 ant  1 rapi; 2 hati-hati
 ayah n aba, abah, abi, abu, aya, ayahanda,
-bapa, bapak, bapanda, bapang, papa, papi,
-
-34
-
-ayak • aziz
-
-rama, ramanda;
+bapa, bapak, bapanda, bapang, papa, papi, rama, ramanda;
 	 ant ibu
 	 -- bunda ibu bapak, orang tua
 ayak, mengayak v memfilter, menampi,
@@ -2546,172 +2443,7 @@ penangkal, pencacau, pepunden, pripih,
 susuk, uduh
 aziz a teragung, terhormat, termulia
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-B
+#B
 
 bab n ayat, babak, bagian, bi	 dang, hal, ihwal, perihal, juz,
 	 masalah, pasal, perkara, seksi,
@@ -2787,11 +2519,6 @@ tusuk;
 tajam);
 	 bacokan n hunjaman, pancungan, potongan, tikaman, tusukan
 bacot n 1 congor, mulut (ki); 2 perkataan, tuturan, ucapan
-
-36
-
-bacut • 1bagi
-
 bacut, kebacut adv cak bablas, teranjur, terlanjur, terlantas
 1
 badai n angin besar, angin kencang, angin
@@ -2872,11 +2599,7 @@ memotong;
 	 pembagian n klasifikasi, pemaruhan, pem
 babakan, pembelahan, pemecahan, pemenggalan, pemisahan, penahapan, pencabangan, pengelompokan, penggolongan, pengkhususan, penguraian, penjatahan, penjurusan, penyekatan, perincian,
 periodisasi;
-	 bagian n 1 belahan, cuilan, kepingan, ke-
-
-2
-
-ratin, paruhan, pecahan, penggalan, potongan, serpihan; 2 anasir, anggota, elemen, faktor, komponen, konstituen, partikel, segmen, unsur, zat; 3 artikel, ayat,
+	 bagian n 1 belahan, cuilan, kepingan, keratin, paruhan, pecahan, penggalan, potongan, serpihan; 2 anasir, anggota, elemen, faktor, komponen, konstituen, partikel, segmen, unsur, zat; 3 artikel, ayat,
 butir, poin; 4 afdeling, bidang, biro, dapur
 (ki), departemen, divisi, front, organ, seksi,
 sektor, unit; 5 adegan, babak, episode,
@@ -2916,13 +2639,7 @@ menyempurnakan, merapikan
 	 kebagusan n kecantikan, keelokan, keindahan, kemolekan
 	 ant kejelekan
 bah n ampuh, bandang, empoh, gelora
-bahadur 1 n hero, jagoan, johan, pahlawan,
-
-bagi • bahan
-
-37
-
-pendekar, satria, wira; 2 a bagak, berani,
+bahadur 1 n hero, jagoan, johan, pahlawan, pendekar, satria, wira; 2 a bagak, berani,
 gagah berani, jantan (ki), perkasa, perwira
 bahaduri a heroik, jantan, pemberani
 bahagia a aman, baik, beruntung, cerah, ceria, enak, gembira, girang, lega, makmur,
@@ -2956,15 +2673,7 @@ uranium, yodium, zeolit;
 pembicaraan, buah bibir, buah cakap,
 buah mulut, buah tutur, topik pembicaraan
 2
-bahan n 1 congkong, pecahan kayu, selumbar, serpihan kayu, suban, tahi ketam,
-
-38
-
-bahana • baik
-
-1
-
-tarahan kayu, tatal; 2 bumbu, ramuan,
+bahan n 1 congkong, pecahan kayu, selumbar, serpihan kayu, suban, tahi ketam, tarahan kayu, tatal; 2 bumbu, ramuan,
 resep
 1
 bahana n dengung, gaung, gelegar, gema,
@@ -3040,8 +2749,6 @@ berdaya guna, berfaedah, berguna, bermanfaat, efektif, efisien, manjur, mujarab,
 mustajab, produktif, tokcer (cak); 6 asri,
 patut; 7 oke, setuju, ya;
 	 ant 1 buruk
-
-bait • baki
 	 baik-baik a 1 hati-hati, waspada; 2 serius,
 sungguh-sungguh;
 	 membaik v pulih, sehat, sembuh;
@@ -3076,9 +2783,6 @@ penyamun, perampas, perampok, perompak ;
 	 pembajakan n pemalsuan, pencurian,
 penggandaan, penjiplakan, penyamunan,
 perampokan
-
-39
-
 bajik, kebajikan n amal, derma, jasa, kebaikan, keelokan, kemurahan hati, sedekah
 bajing n tupai;
 	 -- loncat alap-alap, bajingan, bajul, bandit, bromocorah, cecunguk, maling, pencoleng, pencuri, penjahat, preman
@@ -3113,13 +2817,7 @@ bakat n 1 anugerah, fitrah, karunia, kebolehan, kemampuan, kodrat, talen, talent
 2 bekas, kesan, tanda-tanda, tikas; 3 alamat, faal, gejala, gelagat, indikasi, isyarat,
 pertanda, petunjuk, sinyal, tanda-tanda;
 	 berbakat a berpembawaan; berdarah
-baki n dulang, kerikal, lenggangan, lim-
-
-40
-
-bakiak • balas
-
-bangan, nampan (cak), nyiru, penampan,
+baki n dulang, kerikal, lenggangan, limbangan, nampan (cak), nyiru, penampan,
 semberip, tabak, talam, tampah, tetampan
 bakiak n gapyak, gamparan, kasut, kelom,
 kelompen, sandal, teklek, terompah
@@ -3199,8 +2897,6 @@ mengembalikan, mengganjar, mengimbangi;
 respons, sahutan, sambutan, tanggapan,
 tangkisan; 2 akibat, bayaran, ganjaran,
 hukuman, imbalan, kisas, pahala;
-
-balela • balut
 	 berbalas v berjawab, bersambut;
 	 berbalasan 1 v bersahutan, bersambutan,
 bertimbalan, timbal balik; 2 a resiprokal
@@ -3234,9 +2930,6 @@ menjengkolet, menyungsang, terjungkir,
 tersuling, tertunggang, tertuntung, tengkurap, terlangkup, tertelungkup, tertuntung; 2 berlawanan, bertentangan, kontradiktif, paradoksal;
 	 ~ akal berubah akal, gendeng, gila, majenun, miring, sakit ingatan, sedeng, sinting,
 terganggu;
-
-41
-
 	 berbalik v berbelok, berganti arah, berpaling haluan, berputar, putar balik, berubah letak, ingkar, pusing keling;
 	 sebaliknya p 1 lagi pula, malahan, melainkan, meskipun, padahal, sedangkan,
 sekalipun, tetapi, walaupun; 2 adv kebalikannya, lawannya
@@ -3272,11 +2965,6 @@ menyaluti;
 	 ant penanggalan;
 	 balutan n bebatan, bingkisan, bungkusan,
 saduran, salutan
-
-42
-
-bambu • bandit
-
 bambu n ampel, aur, awi, betung, buluh, petung;
 	 -- muda rebung
 1
@@ -3357,10 +3045,7 @@ bergajul, bromocorah, cecunguk, durjana,
 gergajul, jagoan, koruptor, mafia, napi,
 pembantai, pembunuh, pemerkosa, pencoleng, pencopet, pencuri, pengacau,
 penipu, penjahat, penjambret, penjarah,
-penyamun, penyerobot, perampok, pe-
-
-bando • bangkrut
-rompak, perusak, perusuh, preman, provokator, provokatur, residivis
+penyamun, penyerobot, perampok, perompak, perusak, perusuh, preman, provokator, provokatur, residivis
 bando n ikat rambut, jepit, perhiasan, pita;
 bandot n buaya darat, gila perempuan,
 hidung belang (ki), mata keranjang, tukang
@@ -3396,11 +3081,7 @@ bangkai n 1 buntang, fosil, jenazah, kunarpa,
 layon, mayat, mayit, mumi; 2 apkiran,
 (barang) bekas, besi tua, kerdak, loakan,
 rombengan, romong, rongsokan
-bangkang, membangkang v melawan, melintangi, membalah, membalela, membantah, memberontak, memprotes, menampik, menangkis, menantang, mendagi, mendebat, menegah, menentang,
-
-43
-
-menepis, menghalangi, menolak, menyanggah, menyangkak, menyangkal;
+bangkang, membangkang v melawan, melintangi, membalah, membalela, membantah, memberontak, memprotes, menampik, menangkis, menantang, mendagi, mendebat, menegah, menentang, menepis, menghalangi, menolak, menyanggah, menyangkak, menyangkal;
 	 ant menurut
 	 pembangkang 1 n disiden, lawan, musuh,
 oposan, oposisi, pelanggar, pembalela,
@@ -3433,13 +3114,7 @@ bangkot a (cak) berlumut (ki), gaek, karat
 (ki), karatan (ki), lumutan (ki), tua
 bangkrut a ambruk, bapet (cak), benjut, berantakan, boyak, gulung tikar, jeblok,
 kantong kering, melarat, miskin, pai	 lit, remuk, seman, terpuruk;
-	 kebangkrutan n deklinasi, kehancuran,
-
-44
-
-bangku • bantah
-
-kejatuhan, kemerosotan, kemunduran,
+	 kebangkrutan n deklinasi, kehancuran, kejatuhan, kemerosotan, kemunduran,
 keruntuhan
 bangku n amben, dingklik, dipan, gerai,
 kedera, kursi, lincak, meja, rehal, seliri,
@@ -3526,10 +3201,7 @@ bankir n 1 pengelola bank; 2 cak cukong
 bantah, membantah v berkilah, bertengkar,
 melawan, membalah, membangkang,
 memberontak, memprotes, memusuhi,
-menampik, menangkis, mendaga, men-
-
-bantai • bantu
-dagi, mendebat, menegah, menengkar,
+menampik, menangkis, mendaga, men dagi, mendebat, menegah, menengkar,
 menengkari, menentang, menepis, menggugat, menghujat, mengingkari, menolak,
 menyanggah, menyangkal, menyenta;
 	 ant menurut
@@ -3570,11 +3242,7 @@ meradak; 2 ki melenyapkan, meluluhlantakkan,
 melumatkan,
 membasmi,
 membersihkan, membinasakan, memusnahkan, menghancurkan; 3 ki melalap,
-melibas, melumatkan, membabat, me-
-
-45
-
-naklukkan, mencukur, menewaskan, mengalahkan, mengganyang, menggilas,
+melibas, melumatkan, membabat, menaklukkan, mencukur, menewaskan, mengalahkan, mengganyang, menggilas,
 menggulung, menghabisi, menghancurkan, menundukkan;
 	 pembantai n algojo, eksekutor, penjagal,
 penyembelih;
@@ -3612,13 +3280,7 @@ tunjang;
 menyantuni, menyokong, menyumbang,
 meringankan; 2 a kondusif, kontributif,
 membangun, positif, sehat;
-	 bantu-membantu v bahu-membahu, bergotong-royong, berkolaborasi, berpegangan tangan, bersama-sama, bersan-
-
-46
-
-banyak • 2barang
-
-dingan bahu, bersendel bahu, gotong
+	 bantu-membantu v bahu-membahu, bergotong-royong, berkolaborasi, berpegangan tangan, bersama-sama, bersandingan bahu, bersendel bahu, gotong
 royong, tolong-menolong;
 	 pembantu v abdi, ajudan, ajun, asisten, babu, bedinde, bibi, budak, bujang,
 caraka, duta, hamba, inang, jongos, kacung, kawan, kawula, kurir, naib, pekerja, pelayan, pendamping, pengawal,
@@ -3696,8 +3358,6 @@ perabot, peralatan, peranti, perkakas, perlengkapan, produk, sesuatu, zat;
 barang adv agak, kira-kira, kurang lebih,
 sekitar;
 	 -- apa apa saja, segala sesuatu;
-
-barangkali • 1barut
 barangkali adv agaknya, bisa jadi, boleh
 jadi, jangan-jangan, kalau-kalau, kali (cak),
 kira-kira, mana tahu, mentak, mudahmudahan, mungkin, siapa tahu, takuttakut
@@ -3737,11 +3397,7 @@ baris n 1 alur, banjar, derek, deret, garis,
 jajar, jalur, jejer, lajur, lapis, larik, leret,
 rangkaian, saf, untaian, urutan; 2 n
 garis, strip; 3 v cak berbaris;
-	 membariskan v meleretkan, menderetkan,
-
-47
-
-menjajarkan, menjejerkan, merendengkan;
+	 membariskan v meleretkan, menderetkan, menjajarkan, menjejerkan, merendengkan;
 	 barisan n 1 arakan, bala, banjaran,
 defile, deretan, grup, jajaran, jalur, jejeran,
 kaum, kelompok, kesatuan, lapisan, legiun,
@@ -3781,15 +3437,7 @@ baruh n dataran rendah, kaki bukit, kaki gunung, lembah, lembang, lurah, ngarai
 barut n 1 balut, bebat, perban; 2 bedung;
 	 membarut v 1 melilit, memalut, mem
 balut, membebat, membungkus, memerban, mengebat; 2 membedung;
-
-48
-
-barut • batang
-
-2
-
-	 pembarut n pembalut, pembebat, tali
-barut
+	 pembarut n pembalut, pembebat, tali barut
 2
 barut v balur, lumas, oles;
 	 membarut v melumas, membalur, mengoles, menyapu;
@@ -3864,8 +3512,6 @@ korps, korsa, pasukan, peleton, regu, resimen, rombongan;
 batang n 1 baur, cabang, dahan, pokok kayu,
 ranting,gagang,tangkai;2 hulu,lengan,lonjor,
 pangkal tangan; rangka;
-
-batara • batu
 	 -- air bengawan, kali, sungai, wai;
 	 -- tubuh badan, torso; diri, pribadi;
 diktum, isi;
@@ -3906,9 +3552,6 @@ eksklusif, definit, khusus, spesifik, terpilih,
 tertentu; 3 ala kadarnya, kurang, seadanya, sedikit; 4 kerdil, sempit; cupet, kurang pikir, parokial, pendek akal, picik,
 sektarian, singkat akal, suntuk;
 	 berbatas v berhad, berhingga, bersekat;
-
-49
-
 	 perbatasan n pinggiran, tapal batas, tepian;
 	 sebatas p hingga, sampai, setakat
 baterai n 1 aki; 2 lampu (senter)
@@ -6824,172 +6467,7 @@ buyung n boncong, jun
 buyut n eyang, nenek;
 	 bebuyutan v turun-temurun;
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-C
+#C
 
 cabai cabe, cili, lombok;
 cabang n 1 agen, badal, bagian,
@@ -9220,173 +8698,7 @@ prasangka, purbasangka, syak, waham
 cuti n kelepasan, libur, perlop (cak), vakansi;
 	 bercuti v bebas, beristirahat, berlibur, bervakansi, mengaso, prei
 	 ant bertugas
-
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-D
+#D
 
 dabik, mendabik v memu	 kul;
 	 -- dada 1 memukul dada,
@@ -11413,173 +10725,7 @@ berjuak-juak, berjujuk-jujuk, berkelompok-kelompok, berkusu-kusu, bertundatunda,
 dwi- num dua, duet, duo, ganda, sepasang
 dwibahasa n bilingual, dua bahasa
 	 ant ekabahasa
-
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-E
+#E
 
 ebi n udang kering
 eceng n genjer, kelayan
@@ -12137,175 +11283,10 @@ evaporasi n penguapan
 evolusi n kemajuan, perkembangan, pertumbuhan, perubahan;
 eyang n embah, kakek-nenek
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
+#F
 
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-F
-
-	 fabula n drama, sandiwara
-	 faali a kodrati, otomatis
+fabula n drama, sandiwara
+faali a kodrati, otomatis
 fabel n cerita binatang
 faedah n arti, fungsi, guna,
 kebaikan, keefektifan, keistimewaan, kekuatan, kelebihan, kemujaraban,
@@ -12620,176 +11601,7 @@ perhubungan, persatuan, persenyawaan
 futur n kala nanti, masa depan
 	 ant lampau
 
-154
-
-fungsionaris • 2futur
-
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-G
+#G
 
 gabah n antah, butir padi
 gabung v balut, bebat, berkas,
@@ -14778,172 +13590,7 @@ guyur, mengguyur v membanjur, menggebyur, mendirus, mengucuri, menyiram,
 membasahi, mengairi
 	 terguyur v terbanjur, tersiram
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-H
+#H
 
 	 habib n buah hati, kekasih, sa-
 
@@ -16484,172 +15131,7 @@ huyung, terhuyung-huyung v bergoyanggoyang, bersenoyong, gelayaran, goyang,
 meloyong, olang-aling, sempoyongan,
 terkemut-kemut, tersendeng-sendeng
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-I
+#I
 
 	 1ia pron beliau, dia, sira
 
@@ -17829,174 +16311,8 @@ mengakuri,
 mengamini, mengiyakan, mengijabkan,
 menyepakati, menyetujui, merestui;
 	 ant melarang
-	
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-J
+#J
 
 	 1jabal n ancala, ardi, argo, bukit,
 
@@ -19114,172 +17430,7 @@ jutawan n hartawan, miliuner
 juz n bab, bagian
 1
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-K
+#K
 
 kabar n berita, informasi, maklumat, pemberitahuan, pengumuman, warta;
 	 -- angin angin lalu, desas
@@ -23359,172 +21510,7 @@ meralip, redup, rudu, sayu, suram
 kuyup a basah, lembap
 kwartir n markas
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-L
+#L
 
 	laba n keuntungan, kelebihan, mar		 gin, profit, surplus; arti, faedah,
 		 guna, manfaat;
@@ -25902,172 +23888,7 @@ elastis, fleksibel, plastis; supel; 2 elok, patut;
 luyu a kuyu, layuh, melipu, membawat (ki),
 meralip, redup, rudu, ruyup, sayu, suram
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-M
+#M
 
 	 maaf n ampun;
 	 	 memaafkan v mengam	 	 puni, menenggang, me		 noleransi;
@@ -28340,172 +26161,7 @@ terus-menerus
 	 ant berantara, berselang
 muzaki n pezakat, wajib zakat
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-N
+#N
 
 	nabi n rasul, utusan Tuhan
 	nada n 1 aksen, bunyi, intona-
@@ -29123,172 +26779,7 @@ nyunyut v berdenyut, mengembut
 nyut n denyut;
 	 nyut-nyutan v berdenyut-denyut
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-O
+#O
 
 	oasis n oase, wahah
 	obat n penawar, remedi;
@@ -29683,174 +27174,8 @@ oyong a goyang, goyah
 oyot n akar, tumbuhan merambat
 ozon n udara murni, O3;
 pengozonan n ozonisasi
-	
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-P
+#P
 
 	 pabean n bea cukai, duane, kan		 tor pelabuhan, perbandaran
 	 pabrik n bengkel, kilang;
@@ -33827,172 +31152,7 @@ mandam, mumet, pening, pitam, pusing,
 sakit kepala, teler
 puyuh n pikau
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-Q
+#Q
 
 qada n hukum (Allah), keten	 tuan(Allah),peraturan(Allah),
 	 takdir
@@ -34015,172 +31175,7 @@ meringkas
 qiamulail n salat malam
 Quran n Alquran
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-R
+#R
 
 raba v 1 jamah, pegang, sentuh;
 2 duga, terka; 3 cari, gagar, geladah;
@@ -35690,172 +32685,7 @@ surut, turun;
 	 meruyupkan v mengejamkan, memejamkan, menutup
 1
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-S
+#S
 
 saat n 1 detik, era, jam; jangka
 		 kala, kali, kesempatan, ketika,
@@ -40971,172 +37801,7 @@ syukur n terima kasih;
 syur n anjuran, nasihat, saran;
 	 mensyurkan v mengajurkan, menyarankan
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-T
+#T
 
 taat a alim, berpegang teguh, betah, fanatik, kuat (beribadah),
 loyal, pasrah, patih, patuh, saleh,
@@ -45485,172 +42150,7 @@ ucapan, perkataan; firman, kalam, sabda;
 	 bertutur v berbicara, bercakap, berkata,
 bersuara, berucap, berujar, mengomong
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-U
+#U
 
 	 uang n 1 arta, doku (cak), duit
 
@@ -46400,174 +42900,7 @@ wreda; 3 n anca, aral, batu penarung, batu
 sandungan (ki), gangguan, ganjalan, halangan, hambatan, kendala, rintangan, taazur
 	 ant belia
 
-550   uzur • uzur
-
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-V
+#V
 
 	 vagina n faraj, farji, kelentit,
 kemaluan, memek, nonok,
@@ -46668,172 +43001,7 @@ vulgar a 1 cabul, carut, jorok, kotor, lucah, mesum, porno, saru; 2 barbar, brut
 memalukan, norak (cak), rendah
 	 ant sopan
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-W
+#W
 
 	 wabah n endemi, epidemi,
 
@@ -47190,350 +43358,13 @@ wuku n pekan
 wuwungan n atap, bubung, puncak rumah,
 rabung
 
-wreda • wuwungan 557
-
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-X
-
-	
-
-	
-	
+#X
 
 xilan n getah kayu
 xilem n pembuluh kayu
 xister n raspatorium
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-Y
+#Y
 
 	ya p 1 akur, baiklah, begitulah,
 betul, iya, oke, setuju, sungguh; 2 gerangan, tah
@@ -47570,172 +43401,7 @@ yuris n ahli hukum, sarjana hukum
 yuridiksi n dominasi, kekuasaan, kontrol,
 otoritas, pengaruh, pengaturan, supremasi
 
-Tim Redaksi
-TESAURUS BAHASA INDONESIA
-PUSAT BAHASA
-
-Pemimpin Redaksi
-Dendy Sugono
-Penyelia
-Sugiyono
-Yeyen Maryani
-Redaksi Pelaksana
-Ketua
-Dra. Meity Taqdir Qodratillah
-Anggota
-Adi Budiwiyanto
-Dewi Puspita
-Dora Amalia
-Teguh Santoso
-
-PUSAT BAHASA
-DEPARTEMEN PENDIDIKAN NASIONAL
-
-KATA PENGANTAR
-Sejak dikumandangkan sebagai bahasa persatuan bangsa Indonesia,
-penggunaan bahasa Indonesia makin meluas ke berbagai bidang kehidupan,
-bahkan berpeluang menjadi bahasa ilmu pengetahuan. Peluang itu makin
-nyata setelah bahasa Indonesia diangkat sebagai bahasa negara (UUD
-1945, Pasal 36) yang menempatkan bahasa itu sebagai bahasa resmi dalam
-penyelenggaraan pemerintahan dan bahasa pengantar pendidikan serta
-bahasa dalam pengembangan ilmu dan teknologi. Untuk itulah, diperlukan
-pengembangan kosakata bahasa Indonesia dalam berbagai bidang ilmu,
-terutama untuk kepentingan pendidikan anak bangsa.
-Kekayaan kosakata suatu bahasa dapat menjadi indikasi kemajuan
-peradaban bangsa pemilik bahasa itu karena kosakata merupakan sarana
-pengungkap ilmu dan teknologi serta seni. Sejalan dengan perkembangan
-yang terjadi dalam kehidupan masyarakat Indonesia dari waktu ke waktu,
-perkembangan kosakata terus menunjukkan kemajuan. Kemajuan itu makin
-dipacu oleh perkembangan teknologi informasi yang mampu menerobos
-batas ruang dan waktu. Dalam perkembangan yang begitu cepat telah tersedia
-Kamus Bahasa Indonesia yang memuat kosakata bahasa Indonesia. Sebagaimana
-kita ketahui, kamus itu membantu pengguna bahasa dalam memahami
-makna kata. Sebaliknya, pengguna bahasa telah memiliki konsep, tetapi dia
-tidak menemukan kata yang tepat untuk mengungkapkan konsep itu. Nah, di
-situlah diperlukan tesaurus. Kini Pusat Bahasa telah mengeluarkan tesaurus
-bahasa Indonesia yang disusun berdasarkan penelitian dalam berbagai ranah
-penggunaan bahasa Indonesia. Tesaurus ini menyediakan deret kata yang
-memiliki makna yang sama atau mendekati kesamaan.
-Penerbitan Tesaurus Bahasa Indonesia Pusat Bahasa ini dapat membantu
-pengguna bahasa Indonesia dalam mengungkapkan pikiran, gagasan,
-pengalaman, dan perasaannya ke dalam bahasa Indonesia yang tepat.
-Atas penerbitan Tesaurus ini saya menyampaikan terima kasih kepada
-para penyusun yang telah melakukan penelitian, pengolahan, dan akhirnya
-penyajian dalam bentuk buku ini.
-Jakarta, 28 Oktober 2008
-
-Dr. Dendy Sugono
-Kepala Pusat Bahasa
-
-DAFTAR ISI
-Tim Redaksi
-Sambutan Mendiknas
-
-iii
-
-v
-
-Kata Pengantar
-
-vii
-
-Daftar Isi
-
-ix
-
-Petunjuk Pemakaian
-
-xi
-
-A—Z 1—560
-
-PETUNJUK PEMAKAIAN
-TESAURUS ALFABETIS PUSAT BAHASA
-EDISI PERTAMA
-
-Tesaurus
-Kata tesaurus berasal dari kata thesauros, bahasa Yunani, yang bermakna ‘khazanah’.Lambat
-laun, kata tersebut mengalami perkembangan makna, yakni ‘buku yang dijadikan sumber
-informasi’. Tesaurus berisi seperangkat kata yang saling bertalian maknanya. Pada dasarnya,
-tesaurus merupakan sarana untuk mengalihkan gagasan ke dalam sebuah kata, atau sebaliknya.
-Oleh karena itu, lazimnya tesaurus disusun berdasarkan gagasan atau tema. Namun, untuk
-memudahkan pengguna dalam pencarian kata, penyusunan tesaurus pun berkembang, kini
-banyak tesaurus yang dikemas berdasarkan abjad.
-Tesaurus dibedakan dari kamus. Di dalam kamus dapat dicari informasi tentang
-makna kata, sedangkan di dalam tesaurus dapat dicari kata yang akan digunakan untuk
-mengungkapkan gagasan pengguna. Dengan demikian, tesaurus dapat membantu
-penggunanya dalam mengungkapkan atau mengekspresikan gagasan sesuai dengan apa
-yang dimaksud. Misalnya, pencarian kata lain untuk kata hewan, pengguna tesaurus dapat
-mencarinya pada lema hewan.
-	
-
-hewan n binatang, dabat, fauna, sato, satwa
-
-Sederet kata yang terdapat pada lema hewan tersebut menunjukkan bahwa kata tersebut
-bersinonim sehingga dapat saling menggantikan sesuai dengan konteksnya. Tesaurus ini
-berguna dalam pengajaran bahasa sehingga dapat dimanfaatkan oleh pengajar dan pelajar.
-Di dalam tesaurus ini, pada sebagian lema dicantumkan pula antonimnya, dengan label
-ant.
-haram a 1 gelap (ki), ilegal, liar, pantang, sumbang, tabu, terlarang; 2 mulia, suci;
-ant 1 halal
-mengharamkan v melarang, memantang, mencegah, menegah, menolak;
-ant menghalalkan
-pengharaman n pencegahan, pelarangan, penegahan;
-ant penghalalan
-jaka n bujang, cowok (cak), jejaka, lajang, laki-laki, pemuda, perjaka, terunaant dara
-Kesinoniman dalam lema-lema disusun berdasarkan abjad. Lema-lema itu merupakan
-lema yang memiliki kesamaan makna yang berjalinan di antara kata dasar, kata turunan,
-dan kelompok kata atau frasa. Lema yang bersinonim digunakan tanda koma (,). Lema
-yang bersinonim mencakup kata-kata dari ragam baku, ragam percakapan sehari-hari,
-kontemporer, ataupun arkais. Di dalam tesaurus ini hanya label ragam percakapan dan kiasan
-yang dicantumkan, sedangkan label ragam yang lain tidak. Hal itu dilakukan agar kata-kata
-dapat dimanfaatkan kembali dalam percakapan sehari-hari.
-Dalam tesaurus ini, hiponim dicantumkan pula karena di dalam tesaurus lazimnya memuat
-makna yang saling bertalian. Dengan demikian, pengguna dapat dengan mudah memperoleh
-kata yang tepat sesuai dengan yang dikehendaki sehingga pengguna dapat memanfaatkan
-kata itu untuk keperluan pragmatis.
-
-xii
-jahit v bordir, jelujur, kelim, obras, tisik, setik, sulam, suji, tekat
-Satuan leksikal bordir, jelujur, kelim, dan seterusnya merupakan hiponim dari lema jahit.
-Akronim yang sudah lazim disertakan pula sebagai lema dalam tesaurus ini karena
-akronim tersebut sudah menjadi hal biasa dan sering digunakan dalam komunikasi seharihari.
-radar n pencari, pengesan, peninjau
-Singkatan
-a
-adv
-ant
-cak
-	
-	
-
-	
-	
-
-adjektiva
-adverbia
-antonim
-cakapan
-
-dsb
-ki
-
-dan sebagainya
-kiasan
-
-n
-num
-p
-pron
-v
-
-nomina
-numeralia
-partikel
-pronomina
-verba
-
-Z
+#Z
 
 zabib n kismis, anggur kering
 zaim n imam, pemimpin, pemuka, rais
@@ -47791,5 +43457,3 @@ zuhur n tengah hari
 zuriah n anak cucu, bakal, benih, bibit,
 keturunan, semai
 zus n cak jeng, neng, nona
-
-
