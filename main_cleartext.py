@@ -1,4 +1,5 @@
 #created by primaananda
+import re
 
 #perulangan untuk menghilangkan baris tab dan hanya mengambil yang tidak ada tabnya dan dimasukan kedalam tampungan dicts
 def clear_tab(file):
@@ -37,17 +38,18 @@ def add_specific_text(dicts):
 def delete_specific_char(dicts):
     dicts2 = []
     temp = ''
-    
     for k in dicts:
-        temp = k.replace('  ','')
-        dicts2.append(temp)
-    '''
-    for k in dicts:
-        for ch in ['   ','  ']:
+        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)','adv ', '3 ', 'ki ', 'pron ']:
             if ch in k:
-                temp = k.replace(ch,'')
-                dicts2.append(temp)
-    '''
+                k = k.replace(ch,'')
+        for ch2 in [';']:
+            if k.endswith(ch2):
+                k = k.replace(ch2,'')
+            else:
+                k = k.replace(ch2,',')
+        temp = k
+        dicts2.append(temp)
+
     return dicts2
     
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
