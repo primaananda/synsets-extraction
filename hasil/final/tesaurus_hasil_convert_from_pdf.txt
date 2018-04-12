@@ -1579,8 +1579,7 @@ riak, sok, sombong, takabur, terangkakangkak, tinggi hati, uju;
 	 keangkuhan n kecongkakan, kejemawaan,
 kepongahan, kesombongan, ketakaburan
 	 ant kerendahan hati
-angkup n (peng)apit, capit, cunam, (pen)
-jepit, kempa, sapit, sepit;
+angkup n (peng)apit, capit, cunam, (pen) jepit, kempa, sapit, sepit;
 	 angkup-angkup n injap, katup, klep, lidah;
 	 mengangkup v menjepit, menyepit
 angkut, mengangkut v 1 membawa, memindahkan, memuat, mengambil, mengangkat, mengantarkan, mengirim, menggotong;

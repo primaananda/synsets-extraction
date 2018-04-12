@@ -38,8 +38,22 @@ def add_specific_text(dicts):
 def delete_specific_char(dicts):
     dicts2 = []
     temp = ''
+    stopwords = ['  ',
+    '    ',
+    ' (cak)',
+    '1 ',
+    '2 ',
+    ' (ki)',
+    'pron ',
+    '(kan) ',
+    '(pen) ',
+    '(an)']
+    
+    print stopwords
+    
+    '''
     for k in dicts:
-        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)','adv ', '3 ', 'ki ', 'pron ']:
+        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)','adv ', '3 ', 'ki ', 'pron ', '(kan) ', '(pen) ', '(an)']:
             if ch in k:
                 k = k.replace(ch,'')
         for ch2 in [';']:
@@ -49,7 +63,7 @@ def delete_specific_char(dicts):
                 k = k.replace(ch2,',')
         temp = k
         dicts2.append(temp)
-
+    '''
     return dicts2
     
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
