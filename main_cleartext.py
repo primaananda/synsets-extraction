@@ -38,6 +38,7 @@ def add_specific_text(dicts):
 def delete_specific_char(dicts):
     dicts2 = []
     temp = ''
+    '''
     stopwords = ['  ',
     '    ',
     ' (cak)',
@@ -63,7 +64,7 @@ def delete_specific_char(dicts):
                 k = k.replace(ch2,',')
         temp = k
         dicts2.append(temp)
-    '''
+    
     return dicts2
     
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
