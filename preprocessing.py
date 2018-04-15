@@ -101,6 +101,6 @@ def main():
     
     
     file.close()
-    files.close()
+    file_text.close()
 
 main()
