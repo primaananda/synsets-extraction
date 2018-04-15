@@ -1,5 +1,6 @@
 #created by primaananda
 import re
+import csv
 
 #perulangan untuk menghilangkan baris tab dan hanya mengambil yang tidak ada tabnya dan dimasukan kedalam tampungan dicts
 def clear_tab(file):
@@ -71,16 +72,33 @@ def delete_specific_char(dicts):
 def add_file(dicts2, files):
     for x in dicts2:
         files.write(x+'\n')
+    
+#merubah ke csv
+def txt_to_csv(file, files):
+    dicts = []
+    for line in file:
+        dicts = line.split()
+        
+        #print dicts
+        writer = csv.writer(files)
+        writer.writerow(line)
 
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
-    files = open('hasil/final/tesaurus_clear_text.txt','w')
+    file_text = open('hasil/final/tesaurus_clear_text.txt','r+')
+    file_csv = open('hasil/final/tesaurus.csv','w')
+    
+    
     
     d_clear = clear_tab(file)
     d_add = add_specific_text(d_clear)
     d_specific = delete_specific_char(d_add)
     
-    add_file(d_specific, files)
+    add_file(d_specific, file_text)
+    
+    #txt to csv
+    hasil = txt_to_csv(file_text, file_csv)
+    
     
     file.close()
     files.close()

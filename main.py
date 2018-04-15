@@ -6,8 +6,10 @@ def txt_to_csv(file, files):
     dicts = []
     for line in file:
         dicts = line.split()
-        #writer = csv.write(files)
-        print dicts
+        
+        #print dicts
+        writer = csv.writer(files)
+        writer.writerow(line)
 
 def main():
     file_text = open('hasil/final/tesaurus_clear_text.txt','r')
