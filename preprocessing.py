@@ -78,18 +78,14 @@ def txt_to_csv(file, files):
     dicts = []
     for line in file:
         dicts = line.split()
-        
-        print dicts
-        writer = csv.writer(files, delimiter=',')
+        writer = csv.writer(files, delimiter=' ')
         writer.writerow(line)
-
+        print dicts
+    
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
     file_text_write = open('hasil/final/tesaurus_clear_text.txt','w')
-    file_text = open('hasil/final/tesaurus_clear_text.txt','r')
     file_csv = open('hasil/final/tesaurus.csv','w')
-    
-    
     
     d_clear = clear_tab(file)
     d_add = add_specific_text(d_clear)
@@ -98,11 +94,10 @@ def main():
     add_file(d_specific, file_text_write)
     
     #txt to csv
-    hasil = txt_to_csv(file_text, file_csv)
+    txt_to_csv(d_specific, file_csv)
     
     
     file.close()
-    file_textr.close()
-    file_text.close()
+    file_text_write.close()
 
 main()
