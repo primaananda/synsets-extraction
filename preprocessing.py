@@ -28,6 +28,7 @@ def add_specific_text(dicts):
             temp += dicts[x]
             while(dicts[x].endswith(',')) or (dicts[x].endswith('-')):
                 if(dicts[x].endswith(',')): #kalau diakhiri ',' maka kata/kalimat digabung dengan kata/kalimat berikutnya
+                    temp = temp + ' '
                     temp += dicts[x+1]
                     x =  x+1
                 elif(dicts[x].endswith('-')): #kalau diakhiri '-' maka huruf terakhir yaitu - dihilangkan lalu digabungkan dengan kata berikutnya
@@ -57,7 +58,7 @@ def delete_specific_char(dicts):
     
     '''
     for k in dicts:
-        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)','adv ', '3 ', 'ki ', 'pron ', '(kan) ', '(pen) ', '(an)']:
+        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)', '3 ', 'ki ', 'pron ', '(kan) ', '(pen) ', '(an)']:
             if ch in k:
                 k = k.replace(ch,'')
         for ch2 in [';']:
@@ -99,7 +100,7 @@ def get_type_index(types, line):
 def txt_to_csv(file, files):
     dicts = []
     writer = csv.writer(files)
-    writer.writerow(["Katas","Noun","Verb","Adjektiva","Adverb"])
+    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
     for line in file:
         dicts = [x.rstrip(',') for x in line.split()]
         word = dicts[0:get_lowest_type_index(dicts)]
