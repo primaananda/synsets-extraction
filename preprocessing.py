@@ -106,11 +106,11 @@ def txt_to_csv(file, files):
         dicts = [x.rstrip(',') for x in line.split()]
         print dicts
         #####
-        '''
+        
         for x in range(0, len(dicts)):
             if dicts[x] == 0:
                 word = dicts[0:get_lowest_type_index(dicts)]
-            elif dicts[] == types:
+            elif dicts[x] == types:
                 dicts = dicts[get_lowest_type_index(dicts):]
                 
         #####
@@ -124,7 +124,7 @@ def txt_to_csv(file, files):
             type.append(dicts[index_sequence[x]:index_sequence[x+1]])
         print type
         writer.writerow(dicts)
-        '''
+        
     
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
