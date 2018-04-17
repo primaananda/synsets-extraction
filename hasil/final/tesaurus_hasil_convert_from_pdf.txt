@@ -9040,8 +9040,7 @@ definitif a pasti, tentu, tetap
 	 ant taktentu
 defisit n kekurangan, kerugian, minus
 	 ant surplus
-deflasi n pelambungan, penaikan (nilai mata
-uang)
+deflasi n pelambungan, penaikan (nilai mata uang)
 	 ant inflasi
 deformasi n canggaan, transformasi
 degam, mendegam-degam v bertagar,
@@ -36113,8 +36112,7 @@ terhambat, terhenti, tersangkut, tersekat, tersendat, tersumbat, tersuntuk, tert
 3 terkekang, terkendali;
 ant 1 terbebas, terlepas
 tertahan-tahan v tersendat-sendat;
-tertahankan v terderita, tertanggung (rasa
-sakit);
+tertahankan v terderita, tertanggung (rasa sakit);
 mempertahankan v melindungi, membela,
 membentengi, menegakkan; mengawal,
 menjaga;
@@ -36155,9 +36153,7 @@ tahkik 1 n pembuktian; 2 a sah, valid;
 	 menahkikkan v memastikan, menetapkan,
 mengesahkan
 tahu 1 v ingat, kenal, mafhum, maklum,
-mengerti, mengetahui, paham, pirsa; 2 v
-acuh, ingat, peduli; 3 a cakap, pandai; 4 adv
-cak pernah, sempat;
+mengerti, mengetahui, paham, pirsa; 2 v acuh, ingat, peduli; 3 a cakap, pandai; 4 adv cak pernah, sempat;
 	 -- adat beradab, berakhlak, berbudi, bermoral, bersusila, elegan, santun, sopan,
 tahu aturan, tahu etiket;
 
@@ -36196,13 +36192,9 @@ tajak n bajak, cangkul, pacul, pangkur, rimbas, sekop, sodok, sungkur, tenggala;
 	 -- kebat agunan, andalan, boreh (cak), cagaran, cengkeram, gadai, jaminan, panjar, petaruh, rungguh(an), sandar, tanggungan;
 	 menajak v memacul, membajak, mencangkul, menyekop, menyiangi, menyodok, menyungkur, merimbas
 tajam a 1 cerucup, lancip, rancap, rancung,
-runcing, tuding; 2 galak, garang, sengit; 3
-bengis, berbisa, bersanding, calak, cempala
-mulut, cencala, keras, ketus, lancang mulut, menusuk (ki), menyakitkan, menyengat (ki), nyelekit (cak), pedas; 4 drastis,
-intens, kuat, mencolok; 5 brilian, cemerlang (ki), cendekia, cerdas, cerdik, encer
-(ki), genial, genius, intelek, inteligen,
-lantip, pandai, perseptif, pintar, ringan
-kepala, tajam otak, terang akal; 6 kontras;
+runcing, tuding; 2 galak, garang, sengit; 3 bengis, berbisa, bersanding, calak, cempala mulut, cencala, keras, ketus, lancang mulut, menusuk (ki), menyakitkan, menyengat (ki), nyelekit (cak), pedas; 4 drastis,
+intens, kuat, mencolok; 5 brilian, cemerlang (ki), cendekia, cerdas, cerdik, encer (ki), genial, genius, intelek, inteligen,
+lantip, pandai, perseptif, pintar, ringan kepala, tajam otak, terang akal; 6 kontras;
 	 ant 1 tumpul;
 	 -- mata awas, cermat, jeli, tajam penglihatan, tajam tilikan, telik, teliti
 	 menajam v ki memanas, menegang, mengeruh, meruncing;

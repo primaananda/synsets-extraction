@@ -58,7 +58,8 @@ def delete_specific_char(dicts):
     
     '''
     for k in dicts:
-        for ch in ['  ','	 ', ' (cak)', '1 ', '2 ', ' (ki)', '3 ', 'ki ', 'pron ', '(kan) ', '(pen) ', '(an)']:
+        k = re.sub(r'\(.+\)',r'',k) #menghilangkan kata yang dalam '(kata)'
+        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', 'ki ', 'pron ']:
             if ch in k:
                 k = k.replace(ch,'')
         for ch2 in [';']:
@@ -100,9 +101,19 @@ def get_type_index(types, line):
 def txt_to_csv(file, files):
     dicts = []
     writer = csv.writer(files)
-    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
+    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb","None"])
     for line in file:
         dicts = [x.rstrip(',') for x in line.split()]
+        print dicts
+        #####
+        '''
+        for x in range(0, len(dicts)):
+            if dicts[x] == 0:
+                word = dicts[0:get_lowest_type_index(dicts)]
+            elif dicts[] == types:
+                dicts = dicts[get_lowest_type_index(dicts):]
+                
+        #####
         word = dicts[0:get_lowest_type_index(dicts)]
         dicts = dicts[get_lowest_type_index(dicts):]
         sequence = get_type_sequence(dicts)
@@ -113,7 +124,7 @@ def txt_to_csv(file, files):
             type.append(dicts[index_sequence[x]:index_sequence[x+1]])
         print type
         writer.writerow(dicts)
-        #print dicts
+        '''
     
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
@@ -130,8 +141,16 @@ def main():
     #txt to csv
     txt_to_csv(d_specific, file_csv)
     
-    
     file.close()
     file_text_write.close()
 
+    #testing
+    '''
+    s = 'abcd (aaaa) efgh'
+    abcd = re.sub(r'\(.+\)','',s)
+    print abcd
+    x='dasdasdsafs[image : image name : image]vvfd gvdfvg dfvgd'
+    hsak = re.sub(r'\[.+\]','',x)
+    print hsak
+    '''
 main()
