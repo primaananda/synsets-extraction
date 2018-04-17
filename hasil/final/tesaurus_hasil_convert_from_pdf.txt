@@ -136,7 +136,7 @@ serampangan, sewenang-wenang;
 berarakan, berpesai-pesai, bersepah, berserakan, bongkar-bangkir, centang-pere-nang, cerai-berai, kacau, kacau-balau,
 kelut-melut, keruntang-pukang, kibangkibut, morat-marit, porak-parik, porakporanda, sembarangan, semrawut, serabutan, serampangan, serbah-serbih, serobeh, tersara-bara; 2 cepat-cepat, lekaslekas, terburu-buru, tergesa-gesa
 	 ant rapi
-acap a  kerap, rajin, selalu, sering, suka; bangat, cepat, lekas, segera;
+acap a kerap, rajin, selalu, sering, suka; bangat, cepat, lekas, segera;
 	 ant  jarang
 	 -- kali adv acap-acap, acapkali, berkalikali, berulang kali, berulang-ulang, kerap,
 kerapkali, kerap-kerap, sering, seringkali;
