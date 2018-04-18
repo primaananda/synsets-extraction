@@ -58,7 +58,7 @@ def delete_specific_char(dicts):
     
     '''
     for k in dicts:
-        #k = re.sub(r'\(.+\)','',k) #menghilangkan kata yang dalam '(kata)'
+        k = re.sub(r'\(.+\)','',k) #menghilangkan kata yang dalam '(kata)'
         for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6']:
             if ch in k:
                 k = k.replace(ch,'')
@@ -103,6 +103,7 @@ def txt_to_csv(file, files):
     writer = csv.writer(files)
     writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
     for line in file:
+        #if len(line) >= 1
         dicts = [x.rstrip(',') for x in line.split()]
         #print dicts
         #####
@@ -114,6 +115,7 @@ def txt_to_csv(file, files):
                 dicts = dicts[get_lowest_type_index(dicts):]
         '''
         #####
+        #edit wordnya
         word = dicts[0:get_lowest_type_index(dicts)]
         dicts = dicts[get_lowest_type_index(dicts):]
         sequence = get_type_sequence(dicts)
