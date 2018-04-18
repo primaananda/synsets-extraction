@@ -2,7 +2,7 @@
 import re
 import csv
 
-types = ['v','a','n','adv']
+types = ['v','a','n','adv', 'p', 'pron', 'num']
 
 #perulangan untuk menghilangkan baris tab dan hanya mengambil yang tidak ada tabnya dan dimasukan kedalam tampungan dicts
 def clear_tab(file):
@@ -58,8 +58,8 @@ def delete_specific_char(dicts):
     
     '''
     for k in dicts:
-        k = re.sub(r'\(.+\)',r'',k) #menghilangkan kata yang dalam '(kata)'
-        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', 'ki ', 'pron ']:
+        #k = re.sub(r'\(.+\)','',k) #menghilangkan kata yang dalam '(kata)'
+        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6']:
             if ch in k:
                 k = k.replace(ch,'')
         for ch2 in [';']:
@@ -101,18 +101,18 @@ def get_type_index(types, line):
 def txt_to_csv(file, files):
     dicts = []
     writer = csv.writer(files)
-    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb","None"])
+    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
     for line in file:
         dicts = [x.rstrip(',') for x in line.split()]
-        print dicts
+        #print dicts
         #####
-        
+        '''
         for x in range(0, len(dicts)):
             if dicts[x] == 0:
                 word = dicts[0:get_lowest_type_index(dicts)]
             elif dicts[x] == types:
                 dicts = dicts[get_lowest_type_index(dicts):]
-                
+        '''
         #####
         word = dicts[0:get_lowest_type_index(dicts)]
         dicts = dicts[get_lowest_type_index(dicts):]
@@ -122,7 +122,7 @@ def txt_to_csv(file, files):
         type = []
         for x in range(0, len(index_sequence)-1):
             type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-        print type
+        print word
         writer.writerow(dicts)
         
     
