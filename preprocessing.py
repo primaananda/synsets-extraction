@@ -58,15 +58,18 @@ def delete_specific_char(dicts):
     
     '''
     for k in dicts:
-        k = re.sub(r'\(.+\)','',k) #menghilangkan kata yang dalam '(kata)'
-        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6']:
+        k = re.sub('\(.*?\)','',k) #menghilangkan kata yang dalam '(kata)'
+        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', '7']:
             if ch in k:
                 k = k.replace(ch,'')
         for ch2 in [';']:
+            k = re.sub(';',',',k)
+            '''
             if k.endswith(ch2):
                 k = k.replace(ch2,'')
             else:
                 k = k.replace(ch2,',')
+            '''
         temp = k
         dicts2.append(temp)
     
