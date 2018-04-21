@@ -6632,7 +6632,6 @@ nekara n genderang, kobah, lengkara, tabuh
 nekat a bedegong, berani, bersikeras, dakar, dangkar, degil, deging, kepala batu, keras hati, keras kepala, mengotot, senggang, tegar hati, tegar tengkuk, tegar, ungkal
 neko-neko adv aneh-aneh, macam-macam
 nenek n aki, datuk, emak, embah, engkong, eyang, kakek, nenekanda, nenenda, nini, ninik, ninik mamak, oma, opa,
-ninik, ninik mamak, oma, opa,
 nenen v cak menetek, menyusu, netek 
 nenes, menenes v meleleh, menetes, menitik, mengalir
 neolitikum n zaman batu baru
@@ -6641,7 +6640,6 @@ net n jaring, jala, rajut, sarang
 neto a bersih, net 
 netra n ain, alat penglihatan, indra penglihatan, mata
 netral a adil, objektif, bebas, independen, nonblok,
-nonblok,
 netralisasi n penetralan
 netralitas n kenetralan, keobjektifan, objektivitas
 ngarai n baruh, dataran rendah, kaki bukit, kaki gunung, kanyon, lembah, lembang, lurah, tahang
@@ -6653,11 +6651,8 @@ nia n kalar, kerah, leher baju
 niagawan n pedagang
 nian adv amat, begitu, benar, betul, sangat, sekali, sungguh, terlalu, terlampau
 niat n angan-angan, cita-cita, hajat, harapan, hasrat, ikrar, iktikad, ingatan, intensi, janji, karsa, kasad, kaul, kecenderungan, kehendak, keinginan, kemauan, maksud, nazar, rencana, tekad, tujuan,
-nazar, rencana, tekad, tujuan,
 nifak a hipokrit, inkonsistensi, munafik, pura-pura
 nikah, menikah v berbaur , beristri, berjodoh, berkawin, berkeluarga, bersemenda, bersuami, berumah tangga, duduk, janji, kawin, menempuh hidup baru, mengikat, naik ke pelaminan,
-naik ke pelaminan,
-nikah, perbauran, perikatan, perjodohan, perkawinan, pertalian, pertemuan
 nila n tarum, biru
 nila n nilam, safir
 nilai n angka, biji, harga, harkat, jumlah, kadar, karat, kelas, kualitas, kuantitas, kurs, mutu, perhitungan, peringkat, poin , ponten, skala, taksiran, taraf, timbangan, tingkat, ukuran,
@@ -6681,7 +6676,6 @@ nitrogren n zat lemas
 nobat n genderang, kobah, lengkara, nekara, tabuh,
 nocat v melompat, meloncat
 noda n aib, belang, bercak, bintik, borok, cacat, calit, cela, keburukan, kejelekan, kotoran, nista, noktah, telau, titik, tumpasan,
-niduri , menjahatkan, menjamah , menjelek-jelekkan, menjelekkan, menjimak , menyetubuhi, menyodok, menyorong , merodok, merogol, merusak,
 noktah n bintik, titik, tutul
 nol n kosong , zero, a hampa, nihil
 nomad n badui, batak, pengembara
@@ -6733,7 +6727,6 @@ nyamik, nyamikan n camilan, kudapan, makanan kecil
 nyampang, senyampang adv justru, kebetulan, sementang, telanjurkan, jika, kalaukalau, sekiranya, selagi, sementara
 nyampang-nyampang adv hanya karena, mentang-mentang, barangkali, boleh jadi, jangan-jangan, kalau-kalau, mungkin, sekiranya
 nyamuk n nyamuk anopeles, nyamuk gajah, nyamuk harimau, nyamuk malaria, nyamuk serampang,
-nyamuk serampang,
 nyamur n embun, ibun, uap air
 nyanyang a asan tak asan, bingung, cemas, empot-empotan , gamam, gelisah, harap-harap cemas, kelesah, khawatir, mamang, pusang, renyang, resah, risau, takut, was-was
 nyanyar a benyek, bonyok, gambut, gembur, lenyet, lodoh, lunak, nyanyi, menyanyi v bernyanyi, bersenandung, berkidung, berdendang, menembang, bersuara, berlagu, melantun, merinai,
@@ -6748,7 +6741,6 @@ nyendih v bersandar, duduk bersangga
 nyengir v menyeringai, menyernyih, meringis
 nyenyai n bersela-sela, jarang, renggang, serau
 nyenyak a cendera, enak , jenak, lelap, nidera, pulas, renyap, senyap, terlena
-nidera, pulas, renyap, senyap, terlena
 nyenyat a hening, senyap, sepi, sunyi
 nyenyeh, menyenyeh a nyinyir, ringan lidah
 nyentrik v cak eksentrik
@@ -6782,7 +6774,6 @@ obstetri n ilmu kebidanan
 obstulen n bunyi
 obstruksi n hambatan, rintangan, kendala
 oceh, mengoceh v berceloteh, meleter, mencacau, mencerabih, menceracau, mengacau, mengigau, meraban , meracau, meranyau, merayan, meremet, merepet, mericau, meronyeh, berkicau,
-omongan, tuturan, ucapan, ujaran, bualan, cakap angin, igauan , isapan jempol, kecap , omong kosong
 ocok, mengocok v mengobor, menghasut, mengacum, mengupak, mencucuk, mencundang, menggunjung, mengoja
 odokolonye n deklonyo , minyak wangi, parfum
 odoh a buruk, jelek, keji, bebal, bodoh, pusung, sementung, tolol
@@ -6809,7 +6800,6 @@ okultisme n klenik , mistik, perdukunan
 olah n ulah,
 olah a akal, cara, daya, gaya, laku, lagu, muslihat, ragam, canda, kelakuan, perangai, tingkah laku,
 olahraga n gerak badan, latihan jasmani, olah tubuh, sport
-olah tubuh, sport
 olahragawan n atlet
 olak, olakan n kisaran, pual, pusaran, putaran,
 olak n hilir, v kembali, ulang
@@ -6926,7 +6916,6 @@ pabrik n bengkel, kilang,
 pabrikan n pengusaha, pemanufaktur
 pacak a ahli, berpengalaman, cakap, campin, kawakan, kompeten, kuat, lihai, mahir, pandai, piawai, pintar, profesional, terampil, ulung
 pacak n cocok, tusukan, cancang, cagak, pancang, patok, rambu, tapal, tonggak, tunggak, turus,
-pancang, patok, rambu, tapal, tonggak, tunggak, turus,
 pacak n percik, recik, renjis, rintik,
 pacangan n tunangan
 pacar n belahan diri, belahan jiwa, biji mata, buah hati, bunga hati, cahaya mata, gacoan
@@ -6970,9 +6959,7 @@ pagu n palas-palas, panggar, para-para, loteng, langit-langit, lelangit, plafon,
 pagupon n kandang, sarang
 pagut, memagut v mematuk, mencagut, mencatuk, mencekit, mencotok,
 pagut, memagut v melekap, memalun, memaut, memeluk, mencangkum, mendekap, merangkul, merangkum,
-pelukan, rangkulan,
 paha n pukang,
-per
 pahala n balasan, ganjaran
 paham n pengertian, n anggapan, asumsi, kesimpulan, opini, pendapat, pendirian, pikiran, simpulan, suara, v bangun, engah, grahita, insaf, mafhum, maklum, mengerti, pirsa, sadar, tahu a ahli, cakap, kompeten, mahir, pintar,  n adicita, ajaran, aliran, doktrin, fikrah, filsafat, haluan, ideologi, mazhab, pan-dangan, prinsip,
 pemahaman n apresiasi, interpretasi, keinsafan, kesadaran, kognisi, konstruksi, pembacaan, penafsiran, penangkapan, pengertian, pengetahuan, resepsi, signifikansi, wawasan,
@@ -6991,8 +6978,6 @@ pajang, memajang v memamerkan, memampangkan, mempertontonkan, mempertunjukkan, m
 pajuh a lahap, rakus,
 pak n bungkus, slof, bandela, peti kemas,
 pakai cak v memakai, mengenakan, membubuhkan,
-pengguna,
-penggunaan
 pakan n makanan
 pakar n ahli, empu, juru, maestro, master, spesialis,
 pakcik n emang, engku, mamak, mamanda, om, paklik, paman
@@ -7008,7 +6993,6 @@ paksa, memaksa v mendesak, menekan, mengerasi, meminta, mengharuskan, mengikat, 
 paksi n gandar roda, inden, poros
 paksina n lor, utara
 pakta n kesepakatan, kontrak, konvensi, perjanjian, permufakatan, persetujuan, traktat, aliansi, koalisi, konfederasi
-perjanjian, permufakatan, persetujuan, traktat, aliansi, koalisi, konfederasi
 paku n pasak,
 paku n pakis
 pakuncen n juru kunci
@@ -7017,17 +7001,14 @@ pal n batu, tonggak
 palagan n ajang, arena, gelanggang, kancah, medan
 palai n pais, pepes,
 palak a beringsang, gerah, panas, benci, berang, dongkol, gemas, geram, gondok, gregetan, gusar, jengkel, keki , kesal, mangkel, marah, masygul, mengkal, murka, naik darah, naik pitam, pedar, pegal hati, salah hati, redut, rongseng, sebal sewot
-penodong, preman
 palam n ganjal, sekang, sumbat, tutup,
 palamarta a baik hati, ramah
 palang n alang, ambang, selak, sengkang, portal ,
-portal ,
 palang n salib, silang,
 palang-memalang v bersilangan, saling-silang, silang-menyilang
 palar, memalarkan v mendambakan, mengharapkan, mengidamkan, mengkhayalkan, menginginkan, menantikan
 palas n geladak, anjungan
-palas-palas n panggar, para-para, menara
-pengawas
+palas-palas n panggar, para-para, menara pengawas
 paldu n dinding, tabir, tembok, tirai
 paleolitikum n zaman batu tua
 paling, memalingkan v membelokkan, memutar, mengelokkan, menyesatkan, menyimpangkan,
@@ -7039,7 +7020,6 @@ palka n peraka, petak, ruang
 palmin n lemak kelapa
 palmistri n nujum, ramalan
 palsu a artifisial, bikinan, buatan, imitasi, kuasi, lancung, pseudo, semu, sintetis, tiruan, samaran, bohong-bohongan, ecekecek, gadungan, ilegal,
-penjiplakan
 palu n martil, pemukul, pengetuk, pukul
 palun, memalun v membelit, memagut, memaut, memeluk, mencangkum, mendekap, merangkul, merangkum, merangkup
 palung n genangan, lubuk, paluh, bak, kolam
@@ -7048,7 +7028,6 @@ paman n mamak, mamanda, om, pakcik
 pamer, memamerkan v memajang, memperagakan, memperlihatkan, mempertontonkan, mempertunjukkan, menampakkan, mendemonstrasikan, mengekspos, menonjolkan,
 pamflet n brosur, edaran, risalah, sebaran, selebaran, sirkuler, tebaran
 pamit, berpamitan v minta diri, mohon diri, permisi
-permisi
 pamong n patron, pelindung, pengasuh, pengayom, pengurus, protektor
 pamor n gengsi, karisma, kemuliaan, merek
 pampang, memampang v memajang, memasang,
@@ -7066,27 +7045,21 @@ pancamuka a bersegi banyak, multidimensi, multifaset
 pancang n cancang, cerocok, pacak, patok, rambu, tapal, tonggak, tunggak, turus, tambang, tambatan, terucuk,
 pancar, memancar v bersimbur, memancur, membasut, membesut, membura, memuncrat, mencerat, mengalir, mengucur, menyembur, menyemprot, mencorong, menggelimantang, menyorot,
 pancaragam a aneka macam, aneka ragam, pernak-pernik, rupa-rupa, serba-serbi, warna-warni
-pernak-pernik, rupa-rupa, serba-serbi, warna-warni
 pancaroba n peralihan, perubahan
 pancarona a berwarna-warni, pancawarna
 pancawarna a beraneka warna, berwarnawarni, pancarona
 pancawarsa n lustrum
 panci n kuali besi, manci
 pancing n kail, pepas,
-pemikat, perangkap,
 pancit, memancit v memercik, menciprat, mengiprat, menjeprat, menyemprot, merenjis
 pancung, memancung v memenggal, memotong, menebas
 pancur, memancur v memancar, memuncrat, mencerat, mengucur, menyembur, menyemprot,
-pandai a akil, alim, arif, bakir, berakal, berilmu, berpendidikan, berpengetahuan, bestari, brilian, cemerlang , cerdas, cerdik, genial, genius, intelek, inteligen, lantip, mahardika, pintar, ringan kepala, tajam
-piawai, terampil, ulung, bisa, dapat, mampu, sanggup,
-petah lidah,
+pandai a akil, alim, arif, bakir, berakal, berilmu, berpendidikan, berpengetahuan, bestari, brilian, cemerlang , cerdas, cerdik, genial, genius, intelek, inteligen, lantip, mahardika, pintar, ringan kepala, tajam , tahu, terang akal, terpelajar, berida , berpengalaman, cakap, campin, kawakan, kompeten, lihai, mahir, pacak, piawai, terampil, ulung, bisa, dapat, mampu, sanggup,
 pandai n ahli, empu, juru, pakar, spesialis, tukang
 pandak a pendek, senteng,
 pandang n penglihatan, tatapan, v cak
-paham, pemikiran, prinsip, opini, pendapat, pendirian, perasaan, pikiran, sentimen, suara, timbangan,
 pandemi n endemi, epidemi, hawar, pagebluk, taun, wabah
-pandir a andia, bambung, bebal, bego , bodoh, bongak, debil, dogol, domot, dongok, dungu, goblok, lompong , pilon, 1
-pongah, pusung, sementung, tolol, tongong
+pandir a andia, bambung, bebal, bego , bodoh, bongak, debil, dogol, domot, dongok, dungu, goblok, lompong , pilon, pongah, pusung, sementung, tolol, tongong
 pandu n mualim, penunjuk jalan, perintis
 pandu, memandu v membuktikan, memeriksa, memverifikasi, mencoba, mengecek, mengetes, menguji, menjajal
 panen n pengetaman, penuaian,
@@ -7119,7 +7092,6 @@ panitera n dabir, juru tulis, pencatat, penulis, sekretaris,
 panitia n badan, dewan, jawatankuasa, komisi, komite
 panjang a berjarak, jauh, n bujur, a jenjang, a lama,
 panjar n acaram, andalan, cagar, cengkeram, persekot, petaruh, sandar, tanda jadi, tandon, tempah, uang muka
-persekot, petaruh, sandar, tanda jadi, tandon, tempah, uang muka
 panjat, memanjat v menaiki, menanjak, mendaki, naik,
 panji-panji n alam, bendera, duaja, kalimantang, lencana, merawal, pataka, standard, tunggul, umbul-umbul, lindungan, naungan
 panjul a peyang 
@@ -7132,7 +7104,6 @@ pantang n haram, ifah, puasa, saum, tabu, terlarang,
 pantar, sepantar n sebanjar, sebaya
 pantas a labut, laik, layak, mustahak, patut, semenggah, senonoh, sumbut, surup, tampan, wajar, akseptabel, cukup, lumayan, memadai, sedang, sepadan, berpatutan, cocok, harmonis, mengena, selaras, serasi, sesuai,
 pantas a akas, bergas, cakap, campin, cekatan, cepat, cergas, galir, gancang, gapah, gesit, jeraus, langkas, lincah, sebat, sigap, tangkas, terampil, trengginas,
-pandai bicara, petah lidah, petes,
 pantat n birit, bokong, abaimana, anus, burit, dubur, pelepasan, dasar,
 pantau, memantau v memonitor, mengamati, mengawasi, mengecek, mengontrol,
 pantek n pasak,
@@ -7149,7 +7120,6 @@ papak, memapak v memapas, menentang, menyambut, menyongsong,
 papakerma a bengis, biadab, buas, durjana, jahat, kejam, keji, sadis, tebal hati , celaka, malang
 papan n kediaman, rumah, tempat tinggal,
 papar, memaparkan v membabarkan, membayankan, membeberkan, membentangkan, memerikan, mencuraikan, mengagak-agihkan, mengelaborasikan, menggambarkan, menghamparkan , menguraikan, menjelaskan, mensyarahkan
-pemerian, penggambaran, penjabaran, penjelasan, uraian, tuturan
 papar a dempak, leper, papak, pepat, repang, rata, demes, penyek, pipih, pesek,
 papas, memapas v menghadang, memapak, menyambut, menyongsong,
 papas, memapas v melepaskan, melucuti, menanggalkan, mencopoti, menurunkan,
@@ -7158,9 +7128,7 @@ para n getah perca, karet
 para, para-para n gayang-gayang, langgayan, palas-palas, panggar, rak
 parabel n alegori
 parade n ambalan, defile, karnaval, kirab, pawai, perarakan, prosesi,
-pawai, perarakan, prosesi,
 paradigma n arketipe, ideal, model, patron, pola
-pola
 paradigmatis a ideal, representatif
 paradoks n konflik, kontradiksi, inkonsistensi, pertentangan, polaritas
 paradoksal a bentrok, bertentangan, bertolak belakang, bersalahan, bertubrukan, inkonsisten, kontradiktif, kontras
@@ -7195,8 +7163,6 @@ paripurna a perfek, prima, sempurna, lengkap, penuh, pleno
 parit n comberan, got, jagang, kanal, lungkang, pelimbahan, riol, saluran, selokan, serokan, susukan, tali air, terusan, goronggorong, lorong, terowongan
 paritas n ekualitas, ekuivalensi, kesamaan, kesetaraan, paralelisme, analogi, kecocokan, kemiripan, kesamaan, kesepadanan, kesesuaian
 pariwara n advertensi, iklan, promosi, publisitas, reklame, embaran, maklumat, notifikasi, pemakluman, pemberitahuan, pengumuman
-publisitas, reklame, embaran, maklumat, notifikasi, pemakluman, pemberitahuan, pengumuman
-pengumuman
 pariwarta n warta berita
 pariwisata n pelancongan, turisme, wisata,
 parlemen n badan legislatif, dewan legislatif, dewan perwakilan rakyat, kongres
@@ -7208,11 +7174,9 @@ partikel n anasir, atom, bagian, elektron, elemen, komponen, konstituen, molekul
 partikelir a independen, preman, privat, swasta
 partisan n anggota, barisan, pengikut, pendukung, simpatisan, suporter
 partisi n alang, dinding, pembatas, pemisah, penghalang, sekat
-penghalang, sekat
 partisipan n kontestan, peserta
 partisipasi n kesertaan, keikutsertaan, keterlibatan, kontribusi, kerja sama, peran
 partner n kolega, konco, kroni, lawan, mitra, pasangan, rekan, relasi, sejawat, sekutu, teman, berkongsi, bermitra, berpasangan, bersekutu, berserikat, berteman
-pasangan, rekan, relasi, sejawat, sekutu, teman, berkongsi, bermitra, berpasangan, bersekutu, berserikat, berteman
 partus n persalinan
 paru-paru n alat pernapasan, peparu, rabu
 paruh n catok, cetok, cocor, congor, cotok, cucuk, moncong, muncung, patuk, sudu
@@ -7224,11 +7188,8 @@ pasah, terpasah v hanyut, menyasar, terdampar, tersesat
 pasai a bosan, jemu, jenuh, jelak, muak
 pasak n baji, paku kayu, susuh, susuk,
 pasal n artikel, bab, hal, ihwal, masalah, perkara, soal, urusan, alasan, gara-gara, kausa, lantaran, mula, pemicu, pencetus, penyebab
-perkara, soal, urusan, alasan, gara-gara, kausa, lantaran, mula, pemicu, pencetus, penyebab
-penyebab
 pasang n perangkat, set, setel,
 pasang v mematok
-penerapan, perakitan,
 pasang v menyundak, naik
 pasar n pekan, rekan,
 paseban n balai, selasar
@@ -7239,20 +7200,15 @@ pasifikasi n pengamanan
 pasilan n benalu, parasit, sakat
 pasir n ramal, batu halus, kersik halus
 pasok n pasokan
-penyuplai,
 pasrah a berserah, sadrah, sumarah,
 pasta n tapal,
 pasti a absolut, aman, benar, definit, jelas, kategoris, konstan, mantap, mesti, niscaya, nyata, persis , positif, puguh, sabit, sah, sip , tandas, tegas, tentu, terang,
-pemutusan, penentuan, penetapan,
 pastor n imam, padri, pater, pendeta
 pastura n padang rumput
 pasuk, berpasuk v bergerombol, berkawanan, berkelompok,
 pasung n belenggu, kungkung, kandang, sengkang kaki,
-penindasan, represi, restriksi, supresi,
 patah a bias, kupak, pukah, sempal, terpenggal, terpotong, ki bubar, kandas, terhenti,
-putus asa,
 pataka n bendera, duaja, kalimantang, liwa, panji-panji, tunggul, umbul-umbul
-panji-panji, tunggul, umbul-umbul
 patar n kikir, pangur,
 patek n frambusia, puru
 patela n tulang tempurung
@@ -7269,8 +7225,7 @@ patil n patik, sirip berbisa
 pating n baji, paku kayu, pasak, santung, susuh, susuk
 patogen n bakteri, basil, bibit penyakit, kuman, mikroba
 patok n pacak, pancang, rambu, tonggak, tunggak,
-pijakan, prinsip,
-patos n belas kasihan, iba, sayang, simpati,
+patos n belas kasihan, iba, sayang, simpati, kedukaan, kegetiran , kegundahan, kemasygulan, kepahitan, kepedihan, keperihan, kepiluan, kesedihan
 patri n solder,
 patriark n bapak, datuk, kamitua, kepala keluarga, ketua, pasak negeri, sesepuh, sintua, tetua
 patriarkat a kebapakan, paternalistis
@@ -7293,7 +7248,6 @@ paut, terpaut v berbeda, berjarak, berselisih,
 paviliun n anglung, anjungan
 pawai n ambalan, defile, karnaval, kirab, parade, perarakan,
 pawang n bomoh, cenayang, dukun, malim, paranormal, poyang,
-paranormal, poyang,
 paya n pandau, rawa
 payah a capek, lelah, letih, penat, akut, berat, biut, gawat, genting, keras, kritis, kronis, lasat, membandel, menahun, parah, sangat, serius, lambat, sendat, melempem, pelik, rumit, runyam, selit belit, sukar, sulit, susah, cengeng, lemah, lembek, rapuh, ringkih, soak ,
 payang n jala, jaring, pukat, rajut
@@ -7303,12 +7257,10 @@ payu a laku, laris, larap
 payudara n buah dada, susu, tetek
 payung n parasut, payung udara, ki patron, pelindung, pengayom,
 pecah v berantakan, berkecai-kecai, berkeping-keping, berketai-ketai, bersepai, berserakan, bersetai-setai, cerai berai, remuk, terbagi, terbelah, terpisah, terputus, terurai, ancai, bedah, binasa, bobol, ripuk, rusak, tengkarap, bercelah, betas, meregah, renggang, retak, retas, tetas, merebak, merewak, terbetik, terdengar, tersebar, tersiar, tertebar,  berkobar, meletus,  garau, parau, sember, serak, sumbang,  bubar, selesai, usai,
-pengurai,
 pecah belah v cerai berai, terpisah-pisah, terserak, n gerabah, keramik, porselen, tembikar, n beling, temberang,
 pecak a gepeng, linyak, penyek, penyok, pipih, cekung, jeluk, kempot
-pipih, cekung, jeluk, kempot
 pecal, memecal v memijat, memijit, mengurut
-pecat, memecat v melengserkan, melepas, memakzulkan, membebaskan, memberhentikan, mencabut, mencopot, mendaulat, mendepak , mengeluarkan, mengonslah
+pecat, memecat v melengserkan, melepas, memakzulkan, membebaskan, memberhentikan, mencabut, mencopot, mendaulat, mendepak , mengeluarkan, mengonslah , menurunkan, menyingkirkan, meritul, mengistirahatkan , menskors,
 peci n kopiah, songkok
 pecicilan adv jelalatan, kelayapan
 pecinan n kampung Cina
@@ -7328,17 +7280,14 @@ pedepokan n atelir, bengkel, sanggar, studio
 pedestrian n pejalan kaki
 pedet n anak sapi, ijil
 pedih a nyeri, perih, rodan, sakit, sembiluan, getir, sedih,
-patetis, tragis,
 pedoman n kompas, arahan, manual, panduan, petunjuk, tip, asas, dasar, kaidah, konvensi, norma, patokan, pegangan, pijakan, prinsip
 peduli v acuh, hirau, hisab, ingat, tahu,
-perhatian, menetapi, mengacuhkan, mengambil bena, mengasi, menggubris, menghiraukan, menghisab, mengindahkan, mengingat, menyibukkan, perdata,
 pegah, terpegah v beken , eminen, kenamaan, kondang, masyhur, populer, prominen, tenar, terkenal, ternama, tersohor
 pegal a kaku, ki jengkel
 pegan, terpegan a terpegun, tergegau, tercengut, tergamam
 pegang, memegang v mengacak, mengawai, mengawat, menggenggam, menggepit, menjawat, mematik, membekam, mencekal, mencekam, mencekau, mencengkam, mencengkau, mencengkeram, mencerkau, mengerkau, menjeramah, merangkam, memiliki, mempunyai, mengantongi, menyimpan, menyandang, melipat , membekuk, menangkap, mencekal, menciduk , mencomot , mengamankan, menyergap, meringkus, merejeng, memangku, menduduki, menempati,  mematuhi, menaati, mengacuhkan, mengikuti, mengindahkan, memakai,
 pegas n paha belalang, per,
 pegat, memegat v mencegat, menghadang, menyergap, mematahkan, memutuskan, menalak, menceraikan,
-penyergapan
 pegun, terpegun v tercengang, tercengung, tercengut, tercenung, tergemap, terjelengar, terpegan, tertegun
 pehong n cak abilah peringgi, bengang, kencing nanah, lues, raja singa, sifilis
 pejajaran n belis , dedemit, demon, hantu, iblis, lelembut, popokan, puaka, setan
@@ -7350,7 +7299,6 @@ peka a liabel, rawan, rentan, sensitif, suseptibel, terbuka, terdedah, kritis, p
 pekak a budek , congek , tekek, tuli, bengal, bengap, bising, pengang,
 pekan n pasar, rekan, minggu,
 pekasam n budu, cangkuk, gereh, ikan asin, peda
-peda
 pekat a bergelintin, jenuh, kental, medok, tumpat,
 pekau, memekau v berkoar, berseru, bertempik, berteriak, melaung, memekik, mengedau, menjerit
 pekerti n akhlak, etik, karakter, kepribadian, kesusilaan, moral, perangai, tabiat, tata susila, watak
@@ -7359,9 +7307,7 @@ peking, memeking v melengking, mendengking, menengking, meringking
 pekuk a bengkok, pengkar, peok, pitut
 pekung n cabuk, kelemayuh
 pel n selabar
-pel helai
 pelah lidah a cadel, dengkol , leper, pelat, pelo
-pelo
 pelak a keliru, luput, salah
 pelamin, pelaminan n pemajangan, peterana, pelampung n ambung-ambung, pelontang
 pelampung n ambung-ambung, pelontang
@@ -7373,7 +7319,6 @@ pelangi n benang raja, bianglala, keluwung, teja, ular mengiang , ular minum
 pelangkin n jempana, joli, mungkur, tandu, usungan
 pelanting, terpelanting v terpental
 pelat a cadel, dengkol , leper, pelah lidah, pelo, telor
-pelo, telor
 pelatuk n belatik, belatuk
 pelatuk n candit, picu
 pelawa, memelawa v mengajak, mengundang,
@@ -7385,14 +7330,12 @@ pelencit, terpelencit v melecit, melecut, melejit, melencit, melesit
 pelepah n petiolus, tangkai daun, tulang daun,
 pelesat, memelesat, terpelesat v melating, melejit, melenting, melesat, mencelat, terlontar, terpelanting, terpental
 peleset, memeleset a ajun, menceng, bergeser, lari, luncas, luput, melenceng, menyimpang, sipi, salah, v melincir, menggelincir, menggelingsir, menggelongsor, tergeluncur,
-pelesir, berpelesir v berdarmawisata, be
+pelesir, berpelesir v berdarmawisata, berekreasi, berkelah, berpesiar, bertamasya, jalan-jalan, melancong, piknik, berfoyafoya, bersenang-senang,
 pelesit n belalang bajang, hantu perempuan, langsuir, pelasik, puntianak, si ngiang-ngiang
 pelesit n peluit, semprit
 pelet n afsun, gendam, guna-guna, pekasih, perindu, pesona,
-perindu, pesona,
 pelihara v jaga, rawat,
 pelik a berat, canggih, elusif, kompleks, payah, rumit, rumpil, runyam, ruwet, selit belit, silang selimpat, sukar, sulit, susah, terik , abnormal, absurd, ajaib, aneh, asing, eksentrik, eksotis, gaib, ganjil, garib, luar biasa, jarang, langka,
-payah, rumit, rumpil, runyam, ruwet, selit belit, silang selimpat, sukar, sulit, susah, terik , abnormal, absurd, ajaib, aneh, asing, eksentrik, eksotis, gaib, ganjil, garib, luar biasa, jarang, langka,
 pelin, berpelin n berbelit, berlilit-lilit, berpusing-pusing, bersimpul, kelam kabut, tidak berketentuan, tidak keruan
 pelintir v puntir,
 pelipis n pelengan
@@ -7401,10 +7344,8 @@ pelit a bakhil, cekel, ceker, kedekut, kejai berlapis , kejam, kekel, kerekot, k
 pelita n corong, cublik, dian, kandil, lampu, lentera, misbah, penerang,
 pelitur n cat
 pelo a cadel, dengkol , leper, pelah lidah, pelat, telor
-pelat, telor
 peloh a impoten, kedi, lemah syahwat, lemah zakar, mati pucuk
 pelopor n jago, pembaharu, pemimpin, pemrakarsa, pendahulu, peneroka, pengambil inisiatif, penganjur, perintis, pionir, promotor,
-promotor,
 pelor n anak bedil, melinjo , peluru, timah panas
 pelosok n ceruk, penjuru, pojok, pelojok, sudut
 pelosot, terpelosot v anjlok, jatuh, merosot, turun
@@ -7430,7 +7371,6 @@ pencak n kuntau, silat, terlak,
 pencar, memencar v berpencar,
 pencet, memencet v memacul, memicit, memijat, memijit, memisit, menekan, mengalit, memitas, menggetu, menggites,
 pencil, memencil v berasing, bersunyi-sunyi, memisahkan diri, menyendiri, menyepi,
-pengucilan, penyendirian,
 pencoleng n pancalongok, pencuri, penyangak, perogoh
 pencong a bengot, benyot, berong, erot, genyot, kencong, mencong, mengot, mengsol, merot, miring, perot, pesong,
 pendahan n ganjur, lembing, seligi, tembiang, tombak
@@ -7438,22 +7378,16 @@ pendam, memendam v menanam, menguburkan , memangku, membatinkan, membekam, menar
 pendapa n balai, balairung
 pendar n binar, cahaya, kirana, kelip, kilau, nur, sinar,
 pendek a cepak, pandak, senteng, sebentar, sececah, sejemang, sejenak, sejurus, sekeceng, sekejap, sekelebat, sekilas, selincam, sepemakan sirih , sepintas, sesaat, kompak, ringkas, simpan, singkat, sontok, sumir ,
-pikir, parokial, pendek ingatan, pendek
-pendek kaji, ringkasnya
 pendekar n cempiang, jagoan, jawara, samseng, bahadur, hero, johan, pahlawan
 pendeta n ajar-ajar, begawan, petapa, resi, wiku, yogi, zahid, imam, padri, pastor, pater
-pater
 pendulum n anting, bandul, pemberat
 penetrasi n intrusi, penembusan, penerobosan, perembesan
 pengang a bengal, bengap, bising, budek, pekak
-pekak
 pengantin n kemantin, mempelai, merapulai, raja sehari
 pengap a sesak, sumpek,
 pengar a nanar, pening
 pengaruh n akibat, buah, buntut, cekaman, cengkeraman , dampak, efek, ekor, hasil, imbas, impak, impresi, karisma, kekuasaan, konsekuensi, kontrol, kuku , pamor, perbawa, terkaman, wibawa
-perbawa, terkaman, wibawa
 penggal v kabung, kerat, potong, tebas,
-putus, rantas, terpotong,
 penggawa n hulubalang kadi, ketua kampung, penghulu, penasihat,
 penghulu n imam, kepala, ketua, pemimpin, kadi
 pengkar a bengkok, pekuk, peok, pitut
@@ -7461,8 +7395,7 @@ pengki n bakul sampah, songkro
 pengkis, memengkis v membentak, menghardik, menengking
 pengkol a, memengkol v belengkok, berseluk, membelok, mengelok, menikung, menyelekoh,
 pengkor a dingklang, encot, gempor, incangincut, jengkot, kipa, pincang, timpang
-pening a berpendar, gayang, gering hulu, jangar, kliyengan , lengar, mabuk, mamang, mandam, merayang, mumet, pitam, pusing, puyeng, sakit kepala, berat otak
-pusing, puyeng, sakit kepala, berat otak
+pening a berpendar, gayang, gering hulu, jangar, kliyengan , lengar, mabuk, mamang, mandam, merayang, mumet, pitam, pusing, puyeng, sakit kepala, berat otak , bingung, rusuh hati, susah hati
 penis n burung , butuh , ceceh , kontol, pelir, titit, zakar
 peniti n jarum biku, paha belalang
 penjara n bui, hotel prodeo , interniran, kamp, kerangkeng, kurungan, lembaga pemasyarakatan, lokap, pengasingan, rumah pasung, rumah tahanan, sel, sengkeran, tangsi , terungku,
@@ -7475,22 +7408,15 @@ pentas n arena, forum, mimbar, panggung,
 pentil n puting susu, bakal buah, putik
 pentil, mementil v mengetis, menjentik, menyelentik, menyentil
 penting a esensial, istimewa, krusial, luar
-pengistimewaan, pengutamaan, penitikberatan,
 pentol n cembul, kenop, tombol,
-pengambil inisiatif, penggagas, penggerak, tokoh
 pentung, mementung v memangkung, memepah, memukul, mencemuk, mengetuk, menggetok, menokok, menutuk,
 penuh a asak, bernas, kancap, padat, peres, pudat, sebu, sesak, tumpat, banyak, ekstensif, inklusif, kaya, komprehensif, melimpah, sarat, cukup, memadai, maksimum, pol , bulat, genap, komplet, lengkap, paripurna, pepak, sempurna, tamam, utuh,  badar, purnama,
-pudat, sebu, sesak, tumpat, banyak, ekstensif, inklusif, kaya, komprehensif, melimpah, sarat, cukup, memadai, maksimum, pol , bulat, genap, komplet, lengkap, paripurna, pepak, sempurna, tamam, utuh,  badar, purnama,
-penuh ruah, penuh timpat
-pemuasan,
 penyek a linyak, penyok, demes,papar, pipih, pesek
-pipih, pesek
 penyok a gentat, melekuk, terpesuk, gepeng, linyak, pecak, penyek, pipih
 penyu n kambar, katung, kura-kura
 pepah n, memepah v memangkung, mementung, memukul, mencemuk, menggetok, menutuk, menyakal
 pepas n kail, mata kail, mata pancing,
 pepat a datar, dempak, papak, papar, papat, paras, rata, repang, tampas, tarah,
-paras, rata, repang, tampas, tarah,
 pepatah n adagium, aforisme, amsal, bidal, ibarat, maksim, misal, pengandaian, perbahasaan, peribahasa, perumpamaan, petitih, ungkapan
 pepaya n betik, kates, keliki, ketela gantung
 pepes n pais, palai
@@ -7518,16 +7444,12 @@ peranan n andil, kontribusi, rol,
 peran serta n keikutsertaan, keterlibatan, kontribusi, partisipasi,
 perang n bentrokan senjata, kontak senjata, pertempuran, yuda, konflik, permusuhan, perseteruan, pertikaian,
 perangai n kelakuan, korenah, perbuatan, perilaku, telatah, tingkah laku, afal, akhlak, budi pekerti, fiil, hati, integritas, karakter, kepribadian, sifat, tabiat, watak,
-perilaku, telatah, tingkah laku, afal, akhlak, budi pekerti, fiil, hati, integritas, karakter, kepribadian, sifat, tabiat, watak,
 peranggu n perangkat, satuan, set, setel, unit,
 perangkap n bantau, jebakan, jerat, kala, lapun, pancingan, pukat tanah, ranjau, simbat, tingkalak, muslihat, siasat, taktik, tipu daya,
 peranjat, memeranjatkan v memerangahkan, mengagetkan, mengejutkan
 perangkap n apit-apit, jebak, jerat, lapun, lapoi, sangkat, simbat,
 perangkat n abah-abah, alat, gawai, instrumen, perabot, peranti, perkakas, perlengkapan, radas, pasang, peranggu, satuan, set, setel, unit
 peras, memeras v memerah, memulas, menapus, menyerkai, meremas, menggiling, memaksakan, memforsir, memperbudak, memperkuda, mengeksploitasi, mengempa, menguras , menindas, memalak,
-pikiran,
-penodong, pencoleng, penjahat, preman, residivis,
-penindasan
 perawan n anak dara, bikir, cewek , dayang, gadis, kenya, kuntum , putri,
 perawis n bekal, perlengkapan
 perban n pembalut, pembebat,
@@ -7544,12 +7466,9 @@ perdata a awas, hati-hati, ingat-ingat, tangar, teliti, waspada, v membenakan, m
 perdu n kelompok, kumpulan, perindukan, rumpun, rungkun,
 peredus, terperedus a berdus, besar, boyas, buncit, buntal, busung, gembung, gendut, kembung, luncai
 perempuan n awewe, betina, cewek, dara, gadis, hawa , nisa, wanita, bini , dayang, ibu, induk beras, istri, nyonya, orang belakang , pedusi, puan,
-perempuan jalan, perempuan lacur, perempuan lecah, perempuan nakal,
 peres a kancap, penuh
 perewa a jantan, laki-laki , pelupuk
-perisau, preman, residivis
 perfek a bagus, baik, istimewa, paripurna, prima, sempurna
-prima, sempurna
 perforasi n pelubangan
 perforator n pelubang
 performa n penampilan, prestasi
@@ -7561,13 +7480,9 @@ peri n batari, bida, bidadari, dewi, haur
 peria n kambeh, pare
 perian n bumbung, gerigik, tabung
 peribahasa n adagium, aforisme, amsal, bidal, ibarat, maksim, misal, pemeo, pepatah, perbahasa, petitih, pengandaian, perumpamaan, ungkapan
-perbahasa, petitih, pengandaian, perumpamaan, ungkapan
 perigi n kolam, mata air, sendang, sumber, sumur, telaga
 perih a melilit, memilin mulas, nyeri, pedih, sakit, sembiluan,
-patetis, tragis,
-patos
 perihal n ahwal, keadaan, n kejadian, peristiwa, a mengenai, tentang
-peristiwa, a mengenai, tentang
 periksa n selidik, usut, cek, kontrol,
 perilaku n gajak, integritas, karakter, kelakuan, kepribadian, khuluk, korenah, lagak, perangai, perbuatan, sepak terjang, sifat, sikap, tabiat, telatah, temperamen, tindak-tanduk, tingkah laku, ulah, watak
 peringkat n kaliber , kelas, rangking, strata, status, tahapan, tingkatan, urutan,
@@ -7578,14 +7493,12 @@ periodisasi n pembabakan, pembagian, penahapan
 perisa a enak, lezat, nikmat, sedap
 perisai n dadap, jebang, telabang, tameng,
 peristiwa n afair, insiden, kasus, kejadian, peri, perihal, perkara
-peri, perihal, perkara
 peritonitis n radang selaput perut
 periuk n belanga, kendil, kuali, rawah, wajan
 perjaka n bujang, cowok , jejaka, pemuda, teruna
 perkakas n abah-abah, alat, gawai, instrumen, perabot, perangkat, peranti, perlengkapan, radas
 perkara n guam, kasus, kejadian, masalah, pasal, persoalan, sengketa, urusan, bab, ihwal, mengenai, tentang,
-pasal, persoalan, sengketa, urusan, bab, ihwal, mengenai, tentang,
-perkasa a bagak, bahadur, berani, jantan
+perkasa a bagak, bahadur, berani, jantan , kosen, perwira, bertenaga, energik, gagah, kuat, kukuh, tangguh,
 perkosa, memerkosa v mencabuli, menceroboh, menggagahi , menggauli , meniduri, menjamah, menjimak, menyetubuhi, melanggar, mencaring, menginjak-injak, mencemari, menodai
 perkutut n ketitir, merbuk, tekukur jarum
 perlahan-lahan a beroncet-roncet, bersilirsilir, lambat-lambat, pelan-pelan, sepoi-sepoi, silir-semilir, lembut, rendah
@@ -7596,7 +7509,7 @@ perlu adv harus, kudu, mesti, niscaya, usah, wajib, a krusial, mendesak, penting
 permadani n ambal, babut, karpet
 permai a cantik, elok, indah, majelis, menawan, rancak, syahda
 permaisuri n maharani, padmi, rani
-permak, memermak v cak membetulkan, memperbaiki, memugar, mendandani
+permak, memermak v cak membetulkan, memperbaiki, memugar, mendandani , mengubah, merapikan, merenovasi, merestorasi, memukuli, menganiaya, menyiksa
 permanen a ajek, konstan, kekal, langgeng, malar, mapan, persisten, stabil, tetap
 permata n adiratna, batu berharga, batu
 permen n gula-gula, kembang gula
@@ -7614,7 +7527,6 @@ perot a bengot, benyot, berong, erot, genyot, kencong, mencong, mengot, mengsol,
 persegi n bujur sangkar, empat persegi, kotak, petak
 persekot n acaram, agunan, cagar, cekrem, cengkeram, panjar, tanda jadi, tempah, uang muka
 persen n bayaran, bonus, komisi, obat jerih, pembasuh tangan, premi, tip, uang rokok, upah
-pembasuh tangan, premi, tip, uang rokok, upah
 persentase n bagian
 persepsi n apresiasi, cerapan, impresi, kesan, sensasi, tanggapan, pemahaman, pengenalan, pengertian, rekognisi
 perseptif a intuitif, lantip, peka, reaktif, reseptif, responsif, sensitif, tajam , tanggap
@@ -7626,10 +7538,8 @@ persneling n gigi , transmisi
 person n individu, insan, jiwa, manusia, orang, pribadi
 persona n manusia, orang, figur, potret, sosok, wajah
 personal n individual, orang per orang, perorangan
-perorangan
 personalitas n identitas, individualitas, jati
 personel n anak buah, anggota, awak, pemain, pegawai, petugas
-pemain, pegawai, petugas
 perspektif n prospek, sudut pandang, vista, kacamata 
 persuasi n bujukan
 pertal, memertal v menerjemahkan, mengalihbahasakan,
@@ -7642,7 +7552,6 @@ perut n alat pencernaan, lambung, tembolok, ki gua garba, kandungan, peranakan, 
 perwira n opsir, a bagak, bahadur, berani, kosen, perkasa, n hero, johan, pahlawan, satria, wira
 pes n ambah-ambah, sampar
 pesai, berpesai-pesai a acak-acakan, awutawutan, berantakan, berarakan, berberaian, berserakan, bertebaran, bongkar-bangkir, centang-perenang, cerai-berai, kacaubalau, kelut-melut, keruntang-pukang, kocar-kacir, lerak, morat-marit, porak-parik, porak-poranda, relai, rondah-randih, ropak-rapik, semrawut, tersara bara
-porak-poranda, relai, rondah-randih, ropak-rapik, semrawut, tersara bara
 pesam a hangat, panas kuku, suam
 pesan n catatan, memo, amaran, perintah, permintaan, suruhan, surat, amanat, petaruh, wasiat, weling, moral, nasihat, petuah, wejangan,
 pesanggrahan n penginapan, wisma
@@ -7655,10 +7564,8 @@ pesimisme n tasyaum, tasyalim
 pesiar, berpesiar v berdarmawisata, berekreasi, berkelah, berpelesir, bertamasya, berwisata, dolan, jalan-jalan, melancong, piknik
 pesing a aring, hancing, haring
 pesisir n pantai, rantau, tepi laut
-pesona n daya pikat, daya tarik, magnet
-pelet, penggering, perindu, restu, sihir, sirep,
+pesona n daya pikat, daya tarik, magnet , pukau, afsun, aji-aji, cuca, gendam, guna-guna, jampi-jampi, mantra, pekasih, pelet, penggering, perindu, restu, sihir, sirep,
 pesong a bengot, benyot, erot, genyot, kencong, mengot, mengsol, miring, pencong, perot, serong, v balik, putar,
-perot, serong, v balik, putar,
 pesta n acara, perayaan, perhelatan, perjamuan, resepsi,
 pestisida n racun hama
 peta n atlas, denah,
@@ -7680,12 +7587,9 @@ petinggi n ketua kampung, pemimpin, lurah
 petir n cemeti dewa, cemeti malaikat , geledek, guntur, guruh, halilintar, panah
 petisi n gugatan, permintaan, permohonan, tuntutan
 petitih n adagium, aforisme, amsal, bidal, ibarat, maksim, pepatah, perbahasaan, peribahasa, perumpamaan, ungkapan
-peribahasa, perumpamaan, ungkapan
 petroleum n minyak bumi
 petromaks n stromking
 petua n formula, kunci, nasihat, pitawat, pelajaran yang baik, keputusan mufti, pendapat mufti,
-pelajaran yang baik, keputusan mufti, pendapat mufti,
-pendapat mufti,
 petuah n advis, ajaran, amanat, fatwa, masukan, nasihat, pengarahan, pesan, petunjuk, pitawat, wejangan
 petus n cemeti dewa, cemeti malaikat , geledek, guntur, guruh, halilintar, panah
 petut a layuh, lumpuh, tepok
@@ -7700,8 +7604,7 @@ piara v pelihara
 pias n jalur, kolom, lajur, ruangan, batas, margin, tepi
 piawai a ahli, berida , berpengalaman, cakap, campin, kapabel, karatan , kawakan, kompeten, kuat, lihai, mahir, pacak, pandai, pintar, subtil, terampil, terlatih, ulung, benar, betul, cocok, tepat
 pica, memicakan v melalaikan, melengahkan, memasabodohkan, mempersetan, mencuaikan, mencupaikan, meneledorkan, mengabaikan,
-picik a bodoh, buta, cupet, dungu, kerdil, kurang pikir, parokial, pendek akal, pendek ingatan, pendek kira-kira, pendek
-pikiran , sektarian, sempit, singkat
+picik a bodoh, buta, cupet, dungu, kerdil, kurang pikir, parokial, pendek akal, pendek ingatan, pendek kira-kira, pendek pikiran , sektarian, sempit, singkat
 picing v merem, pejam,
 picis n ketip, sepuluh sen
 picu n candit, pelatuk,
@@ -7709,19 +7612,15 @@ pidana n kejahatan, kriminalitas,
 pidato n ceramah, khotbah, lektur, orasi, syarah
 pigura n gambar, lukisan, bingkai, birai, lis
 pihak n bagian, paksa, sayap, sebelah, sisi,
-partai, arah, aspek, jurusan, sudut,
 pijah, memijahkan v membiakkan, mengembangbiakkan, menangkarkan
 pijak v injak,
 pijar n marak, nyala, suar, bunga api, kilatan api, lelatu, pendar, percikan api,
 pijat, memijat v memecal, memicit, memijit, mengurut, meremas, memencet,
-pemijitan
 pijat-pijat n bangsat, kepinding, kutu busuk, tumbila
 pijit, memijit v memecal, memerah, memicit, memijat, mengurut, meremas, memacul, memencet, memisit, menekan, mengalit
 pikat, memikat v memulut , menaklukkan, menggaet, menundukkan, membujuk, mencumbu, merayu, memancing, memerangkap, menjebak, menjerat, a
 piket v jaga, kawal
-pikir n agak, akal, budi, intelek, kata hati,
-pendapat, pertimbangan,
-pendirian, perasaan, rasio, tilikan, jalan, kiat, solusi, angan-angan, bayangan, gagasan, ide, ingatan, memori, maksud, niat,  beban, ganjalan,
+pikir n agak, akal, budi, intelek, kata hati, pendapat, pertimbangan,
 piknik v berdarmawisata, berekreasi, berkelah, berpelesir, berpesiar, bertamasya, berwisata, jalan-jalan, melancong
 pikul n galas,
 pikun a kurang ingat, linglung, pelupa, terselap
@@ -7733,28 +7632,21 @@ pilih v seleksi,
 pilin n pintal, spiral,
 pilon n andia, bego , bodoh, dogol, dongok, dungu, goblok, lompong , pandir, tolol
 pilot n angkasawan, aviator, juru terbang, penerbang
-penerbang
 pilu a iba, larat, rawan, rayu, sayu, silu, terharu, trenyuh, duka, galabah, gobar hati, masygul, sedih, susah hati,
 pimpin, memimpin v membawahkan, memegang cempurit, mengepalai, mengetuai, mengomando, mengimami, mengatur, mengendalikan, mengoordinasikan, memelopori, mendahului, menganjuri, mengarak, menghulukan, memandu, membimbing, menuntun, memenangi, mendominasi, menjagoi, menjuarai, merajai, 
-panglima, pemuka, presiden, rais, zaim, pengurus , pelopor, penganjur, perintis, pionir ,
-pengurus , pelopor, penganjur, perintis, pionir ,
 pin n jarum semat, peniti, cogan, emblem, insinye, lencana, medali
 pinang n jambe, maman, pucang,
 pinang, meminang v melamar, meminta, mempersunting, menanyakan, menunangi
 pinang, meminang-minang v membuai, mengayun-ayunkan, menggayun, menimang-nimang
 pinar-pinar, berpinar-pinar v berkunangkunang, berpendar-pendar, berpinau-pinau
 pincang a berat sebelah, dingklang, encot, gempor, genjang, imbal, jengkot, kipa, pengkor, senjang, timpang,
-pengkor, senjang, timpang,
 pincut, memincut v memesona, memikat, menarik, menggiurkan,
 pinda, meminda v membetulkan, memperbaiki, mengoreksi, meralat, merevisi
 pindah v alih, tukar, bermigrasi, mengimbit, mengungsi,
-percakapan, menerjemahkan, mengalihbahasakan, mengopi, mentranskripsikan, menurun, menyalin, menjangkitkan, menularkan,
 pindai, memindai v memandangi, memperhatikan, mengamati, menjelang
 pinggan n basi, cambung, mangkuk, piring
 pinggir n bibir , gisik, rusuk, samping, sembir, sisi, susur, tepi, tubir,
-penyisihan,
-pinggul n bokong, kibul, panggul, pangkal
-paha, pantat, punggung, tongkeng
+pinggul n bokong, kibul, panggul, pangkal paha, pantat, punggung, tongkeng
 pingit, memingit v memeram, mengandam, menyengker, memasung, membelenggu, mengungkung, mengurung, menyekap, membatasi, menahan, mencegah, menegah, menghambat, menjangankan,
 pingkal, terpingkal-pingkal v berdekakdekak, berdengkang-dengkang, mengakak, menggelekek, mengilai-ilai, terbahakbahak, tergelak-gelak, terkakah-kakah, terkakak-kakak, terkekeh-kekeh, terkojol-kojol
 pingpong n tenis meja
@@ -7768,7 +7660,6 @@ pintu n bab, gapura, gerbang, portal, ki
 pinus n cemara, eru, saru, tusam
 pion n bidak, piadah, anak buah, antek, bawahan, begundal, kaki tangan, ki pionir
 pionir n cak jago, pelopor, pembaharu, pemimpin, pemrakarsa, penganjur, perintis, promotor
-promotor
 pipa n buluh-buluh, pembuluh, saluran, 2
 pipet n cak hisapan, sedotan, sesapan
 pipih a ceper, gepeng, layah, lempeng, leper, pecak, penyok, demes, papar, penyek, pesek, tepos, tipis,
@@ -7782,16 +7673,12 @@ pirau n abu-abu, kelabu, a balam-balam, baur, ilam-ilam, kabur, kabut, kelam, ke
 piring n ki bidang, lopak, petak
 pirsa v melihat, menonton, menyaksikan,
 pisah v belah, cerai, pecah, putus, sarak,
-pagar, partisi, pembatas, penyekat, pelerai, wasit
-peleraian, pemecahan, penceraian, penguraian, separasi, diferensiasi, diskriminasi, pembedaan, pemencilan, pengasingan, pengucilan, penyendirian,
 pisang n mauz,
-pisau n badik, belintan, dodong, jambiah, 
-pongia, sangkur, sikin,
+pisau n badik, belintan, dodong, jambiah, kerambit, lading, lawi ayam, nenram, pongia, sangkur, sikin,
 pistol n beceng 
 pit n besikal, kereta angin, roda angin, sepeda
 pita n ban, lin, reben, tali tap,
 pitam a gering hulu, jangar, lengar, pening, pusing, puyeng, teler ,
-pusing, puyeng, teler ,
 pitar, memitar v membidik, memidi, mengacu, mengarahkan, menjuju
 pitarah n kakek moyang, nenek moyang, karuhun, leluhur
 piting, memiting v mendekap, menyikap, mengapit, mengunci, menjepit,
@@ -7821,7 +7708,6 @@ plebisit n pemungutan suara
 pleidoi n pembelaan
 pleno a lengkap, paripurna
 plin-plin a cak main angin, mencla-mencle, plintat-plintut
-plintat-plintut
 plonco a baru, bau kencur, hijau , mentah, yunior
 plong a lega, pada, puas, sreg 
 plontos a botak, gundul, sulah
@@ -7833,26 +7719,19 @@ plus a berlebih, n dengan, pakai , tambah
 pneumonia n radang paru-paru
 poci n cerek, teko
 podium n mimbar, platform, tribune
-pohon n pokok kayu, tanaman, tumbuhan,
-pokok, sebab
+pohon n pokok kayu, tanaman, tumbuhan, ki asal mula, beberas, biang, pangkal, pokok, sebab
 poin n dot , titik, angka, biji, kredit, nilai, ponten , skor, artikel, ayat, bagian, butir, elemen, unsur, inti, pokok, subyek, tema, topik,  maksud, sasaran, target, tujuan
 pojok n ceruk, pelosok, penjuru, sudut,
 poket n cak kantong, kocek, saku
 pokok n pohon, pokok kayu, n modal,
-pohon , punca, sebab, tampang ,
-penting, primer, prinsipil, sentral, teras
-poin, pusat, sari, substansi, subjek, topik
 pokrol n advokat, ajuster, pembela, penasihat
 pol a cak penuh, sarat, maksimal, maksimum, mentok, suntuk, top, banter, banyak, impas, lunas
 pol n angket, jajak pendapat
 pola n arketipe, cermin, contoh, ideal, model, paradigma, prototipe, sablon, corak, desain, figur, motif, ornamen, patron, ragam, ragi, warna, organisasi, sistem, 4
 polah n kelakuan, perbuatan, ragam, ulah
 polarisasi n penghadapan, penentangan, pengutuban
-pengutuban
 polaritas n dikotomi, dualitas, kontradiksi, paradoks
-paradoks
 polemik n perang pena, diskusi, kontroversi, perbalahan, perbantahan, perdebatan, silang pendapat,
-perbalahan, perbantahan, perdebatan, silang pendapat,
 polemis a kontroversial
 poles n memoles v melicinkan, menggilapkan, menghaluskan, melumur, membalur, memulas, mengoles, ki membedaki, membesut, mempercantik, memperindah, mendandani, membarui, membenahi, memperbaiki, merehabilitasi, meremajakan, merenovasi, merestorasi, merombak
 poligami n permaduan
@@ -7865,12 +7744,11 @@ polos a blangko, kosong, konvensional, lugu, naif, sederhana, benar, jujur, luru
 polusi n kontaminasi, pencemaran, pengotoran
 pompa n, memompa v mengambil, menimba, menyedot, melembungkan, menggelembungkan, meniup
 pondok n barung-barung, dangau, gubuk, jambar, jerumun, sapau, saung, teratak, 2
-pesantren,
 pongah a aga, agul, anggak, angkuh, arogan, bengah, besar cakap, besar kecek, besar
 pongah a bambung, bebal, bongak, debil, dogol, domot, dongok, dungu, goblok, lompong , pandir, sementung, tolol,
 pongsu n anak bukit, bukit kecil, busut, pundung, pusu
 pontang-panting v berjempalitan, berlarian, bertemperasan, bertempiar, kocar-kacir, lintang-pukang, mengaprit, sungsang sumbal, terbirit-birit, tunggang-langgang, berceceran, berhamburan, berjebai, berlampar, bersebaran, berserakan, bertaburan, bertebaran, tergelebar
-ponten nangka, biji, kredit, nilai, poin, skor,
+ponten n angka, biji, kredit, nilai, poin, skor,
 popi n cak anak-anakan, boneka
 popok n ambet , bebat bayi, bedung, lampin
 popok, popokan n belis , dedemit, demon, hantu, iblis, lelembut, memedi, momok, pejajaran, puaka, setan
@@ -7887,11 +7765,8 @@ porot, memorot v mengerikit, mengerip, mengerumit, mengeret, menggerogoti, mengg
 porselen n beling, gerabah, keramik, pecah
 porsi n alokasi, bagian, catu, distribusi, habuan, jatah, kuota, paket, panggu, pangsa, ransum, ruji
 portal n gerbang, pintu, cak palang
-portir n bawah, penjaga pintu, penunggu
-pintu
-pos n balai madat, congkong, gardu, pos
-penjagaan, rumah jaga, kedudukan, posisi, basis, kantor, markas, pangkalan, sarang , stasiun, tempat
-posisi, basis, kantor, markas, pangkalan, sarang , stasiun, tempat
+portir n bawah, penjaga pintu, penunggu pintu
+pos n balai madat, congkong, gardu, pos penjagaan, rumah jaga, kedudukan, posisi, basis, kantor, markas, pangkalan, sarang , stasiun, tempat
 pos n mata anggaran
 pose n aksi, gaya, sikap
 posesif a pencemburu
@@ -7908,14 +7783,9 @@ potensi a daya, energi, kapasitas, kekuatan, kemampuan, kesanggupan
 potensial a laten, terpendam, tersembunyi,
 potlot n pensil
 potol v copot, melukat, menggelup, puput, rontok, tanggal, terlepas, terpacul, abtar, buntung, kotok, kotong, kudung, kutung, puntung, putus, rantas, terpenggal, terpotong
-puntung, putus, rantas, terpenggal, terpotong
 potong n biji, buah, keping, v cak kerat, penggal, sibir,
-penggal, sibir,
-penjagalan, penyembelihan, pemenggalan, mutilasi, pengeratan, pengurangan, penyunatan ,
-putus, rantas,
 potret n foto, gambar, bentuk, citra, figur, gambaran, lukisan, persona, profil, representasi, sosok, wajah,
 poyang n bibit buwit, cikal bakal, kakek
-pendahulu, pitarah, belian, bomoh, cenayang, dukun, pawang, syaman
 prabu n baginda, raja, syah
 praduga n bias, kecurigaan, prasangka, purbasangka, syak
 pragmatis a efisien, membumi, praktis, rasional, realistis, utilitarian
@@ -7923,14 +7793,11 @@ prahara n angin ribut, badai, topan, gelora,
 praja n kota, negeri
 prajurit n sena, serdadu, tentara, tamtama
 prakarsa n buah pikiran, gagasan, ide, ingatan, inisiatif, rintisan,
-penggerak, perintis
 prakarya n hasta karya, kerajinan tangan, pekerjaan tangan
-pekerjaan tangan
 prakata n alas kata, introduksi, kata pendahuluan, kata pengantar, mukadimah, pembukaan, pengantar, prawacana, preambul, sekapur sirih, prolog
 prakira, memprakirakan v mengestimasi, meramalkan
 prakondisi n keharusan, prasyarat
 praktik n aksi, aplikasi, implementasi, manifestasi, operasi, pelaksanaan, penerapan, pengamalan, pengerjaan, realisasi,
-pengamalan, pengerjaan, realisasi,
 praktis a berdaya guna, efektif, efisien, mangkus, membumi , positif, pragmatis, rasional, realistis, sensibel
 praktisi n pegiat, pekerja, pelaku
 prameswari n permaisuri
@@ -7938,7 +7805,6 @@ pramuniaga n pelayan toko
 pramuria n hostes
 pramuwisata n pemandu wisata
 pramuwisma n abdi, bibi, bedinde, pelayan, pembantu, pesuruh
-pembantu, pesuruh
 pranata n adat, institusi, konvensi, lembaga, tradisi
 pranatal a pralahir
 prasaja a bersahaja, sederhana, ugahari, wajar
@@ -7963,7 +7829,6 @@ preman n cak bajingan, bajul, bandit, bangsat, bromocorah, cecunguk, durjana, ga
 prematur a dini
 premi n bonus, insentif, komisi, persen,
 premis n asumsi, hipotesis, patokan duga, postulat, presumsi, proposisi, spekulasi, teori, tesis
-postulat, presumsi, proposisi, spekulasi, teori, tesis
 premium n premi, superior
 premolar n geraham depan
 preposisi n kata depan
@@ -7973,16 +7838,13 @@ preseden n anteseden, contoh, ikutan, model, teladan, terdahulu, turutan
 presensi n eksistensi, keberadaan, kehadiran
 presentasi n pengajuan, pengutaraan, penyajian, penyampaian, demonstrasi, peragaan, pertunjukan,
 preservasi n konservasi, pemeliharaan, penjagaan, perawatan, perlindungan, proteksi, pelestarian, pengawetan
-pelestarian, pengawetan
 presiden n kepala negara, kepala, ketua, pemimpin
-pemimpin
 presisi n akurasi, kecermatan, ketelitian, ketepatan
 preskripsi n aturan, petunjuk, resep
 preskriptif a dogmatis, kaku , normatif
 prestasi n hasil, kinerja, penampilan, performa
 prestise n gengsi, harga diri, kedudukan, kehormatan, martabat, pamor, posisi, status,
 prestisius a bergengsi, bermartabat, berpamor, impresif, megah, mengesankan, penggah, terhormat
-penggah, terhormat
 presumsi n asumsi, dugaan, hipotesis, postulat, premis
 pretel v copot, lerak, melukat, rontok,
 pretensi n ambisi, aspirasi, dorongan, hasrat, keinginan, kemauan, kepurapuraan,
@@ -7992,12 +7854,10 @@ preventif v melindungi, mencegah, n penangkalan, pencegahan
 pria n adam, laki-laki, lanang, lelaki, maskulin
 priayi n adiwangsa, aristokrat, bangsawan, darah biru, menak, ningrat, permasan,
 pribadi a awak, badan, batang tubuh, diri, individu, karakter, perseorangan, persona,
-pekerti, pembawaan, perilaku, sifat, tabiat, temperamen, watak, individualitas, jati
 pribumi n anak negeri, asli, bibit buwit, bumiputra,
 prigel a bijak, cakap, mahir, pandai
 prihatin a benguk, duka, galabah, gobar
 prima a paripurna, perfek, sempurna, superior, terbaik, tertinggi, top, perdana, pertama, primer
-pertama, primer
 primadona n adibintang, bintang pang
 primbon n kitab, pestaka, pustaka, sastra
 primer a elementer, esensial, fundamental, mendasar, penting, perdana, pertama, pokok, prima, prinsipil, radikal, teras , utama, vital,
@@ -8005,7 +7865,6 @@ primitif a kuno, sederhana, terbelakang, tertinggal, arkais, barbar, biadab, lia
 pringas-pringis v cengar-cengir, cengengesan, mengerenyot, mengereseng, mengernyih, menyerengeh, menyeringai, meringis
 prinsip n asas, dasar, etika, hakikat, pokok, rukun, sendi, filsafat, kepercayaan, keyakinan, kredo, mandu, opini, paham, pandangan, pendapat, pendirian, sikap, ajaran, diktum, dogma, doktrin, etik, hukum, kaidah, patokan, pedoman, pijakan,
 prinsipil a asasi, esensial, hakiki, mendasar, penting, pokok, primer, utama
-penting, pokok, primer, utama
 prioritas n pengutamaan, preferensi, prerogatif,
 privat a eksklusif, khusus, pribadi, tersendiri, rahasia, tertutup, tersembunyi, independen, partikelir, swasta
 privatisasi n swastanisasi
@@ -8018,8 +7877,7 @@ prodeo adv cuma-cuma, gratis, percuma
 produk n barang, buatan, ciptaan, komoditas, keluaran, kreasi, produksi, rakitan, 2
 produksi n pabrikasi, pembuatan, penerapan, perakitan, buatan, kreasi, produk,
 produktif a fertil, inventif, kaya , kreatif, subur, baik, berguna, bermanfaat, bernilai, menguntungkan, profitabel,
-produktivitas n daya produksi, kapasitas
-produksi, fertilitas, kesuburan, inventivitas, kreativitas
+produktivitas n daya produksi, kapasitas produksi, fertilitas, kesuburan, inventivitas, kreativitas
 produsen n pembuat, penghasil, produser
 produser n penghasil, produsen, pengusaha
 profan a duniawi, keduniaan, sekular
@@ -8030,15 +7888,12 @@ profetik a prediktif, prognostis
 profil n bentuk, figur, kontur, potret, raut, siluet, biografi, memoar, riwayat hidup
 profit n keuntungan, laba, margin, persentase, surplus, berguna, bermanfaat, bernilai, produktif
 prognosis n diagnosis, perkiraan, prediksi, proyeksi, ramalan
-proyeksi, ramalan
 program n acara, agenda, cadangan, kalender, skedul , rencana, tata olah
 programa n acara, program
 progres n kemajuan, perkembangan, pertambahan, pertumbuhan
 progresif a liberal, maju, radikal, reformis, revolusioner, toleran
 prohibisi n inhibisi, kekangan, larangan, pembatasan, supresi
-pembatasan, supresi
 proklamasi n deklarasi, embaran, maklumat, manifesto, notifikasi, pemakluman, pemberitahuan, pengumuman, pernyataan, persiaran, publikasi, wara-wara
-persiaran, publikasi, wara-wara
 proletariat n kaum buruh, kaum marhaen, kaum murba, kelas bawah, kelas pekerja, rakyat biasa, rakyat jelata, rakyat kebanyakan
 prolog n awal, introduksi, pembukaan, pendahuluan, pengantar, prelude, prakata
 prominen a beken , eminen, kenamaan, kondang, masyhur, populer, tenar, terkemuka, terkenal, ternama, terpegah, tersohor
@@ -8052,34 +7907,26 @@ proporsi n nisbah, perbandingan, perimbangan, rasio, skala, balans, harmoni, kes
 proporsional a harmonis, memadai, sama, sebanding, seimbang, sepadan, setakar, setara, simetris
 proposal n ide, proyek, proposisi, rencana, tawaran, usulan
 proposisi n prasaran, proposal, tawaran, usulan, asumsi, hipotesis, patokan duga, postulat, premis, teori
-postulat, premis, teori
 prosa n cerita, fiksi, gancaran, karangan
 prosais a banal, biasa, boyak, datar , kering , membosankan, literal, n pengarang, penulis
 prosedur n jalan, langkah, metode, modus
 proses n cara, jalan, metode, mode, operasi, prosedur, sistem, teknik, reaksi,
-prosedur, sistem, teknik, reaksi,
 prosesi n ambalan, arak-arakan, defile, iringiringan, kirab, parade, pawai, perarakan
 prospek n harapan, kans , kemungkinan, peluang, perspektif, sudut pandang, vista
 prospektif a menjanjikan
 prospektus n brosur, katalog, selebaran
 prostitusi n moler, pelacuran, pergonglian, persundalan
-persundalan
 protagonis n aditokoh, hero, pelaku utama, tokoh utama, eksponen, penganjur
 protein n zat putih telur
 proteksi n benteng, defensi, konservasi, pengamanan, pengayoman, penjagaan, perlindungan, pertahanan, preservasi
-pengamanan, pengayoman, penjagaan, perlindungan, pertahanan, preservasi
-perlindungan, pertahanan, preservasi
 protektif a defensif, melindungi, mencegah
 protektor n pamong, patron, pelindung, pengayom, penjaga
-pengayom, penjaga
-protes n keberatan, keluhan, penentangan, penolakan, sesalan, demonstrasi, unjuk
-penolakan, sesalan, demonstrasi, unjuk
+protes n keberatan, keluhan, penentangan, penolakan, sesalan, demonstrasi, unjuk rasa,
 protokol n aturan, adat, istiadat
 protoplasma n bioplasma
 prototipe n arketipe, purwarupa, moyang
 provinsi n daerah, teritori, wilayah
 provinsial a kedaerahan, regional, teritorial, cupet, kerdil, parokial, pendek akal, picik, sempit, terbatas
-picik, sempit, terbatas
 provinsialisme n kedaerahan
 provisional a kondisional, sementara, temporer, tentatif
 provokasi n acuman, agitasi, asungan, evokasi, gangguan, godaan, hasutan, pancingan , tantangan,
@@ -8093,7 +7940,6 @@ psike n arwah, jiwa, nyawa, roh, spirit, sukma, rohani
 psikis a kejiwaan, spiritual, intelektual, mental, psikologis, serebral
 psikologi n ilmu jiwa
 psikologis a intelektual, kognitif, mental, psikis, serebral
-psikis, serebral
 psikopat n maniak, orang gila, sosiopat
 psikosis n kegilaan, kelainan jiwa, psikopati
 puak n golongan, kalangan, kaum, kelompok, komunitas, lapisan, lingkungan, masyarakat, bangsa, keluarga, rumpun, suku, trah, wangsa, warga, organisasi politik, partai,
@@ -8101,7 +7947,6 @@ puaka n danyang, dedemit, hantu, lelembut, memedi, momok, pejajaran, popokan,
 pualam n marmer
 puan n hawa , perempuan, wanita, 2
 puas a jelak, kenyang, lugu, lega, pada, plong,
-plong,
 puasa n ifah, pantang, pertarakan, saum,
 pub n bar, kafe, kedai
 pubertas n adolesens, masa remaja
@@ -8109,10 +7954,9 @@ publik n jemaah, khalayak, komunitas, mahajana, massa, masyarakat, orang banyak,
 publikasi n embaran, notifikasi, permakluman, pengumuman, proklamasi, siaran,
 publisistik n jurnalistik
 publisitas n advertensi, iklan, pemberitaan, pengabaran, penyiaran, pewartaan, pariwara, propaganda, reklame
-pengabaran, penyiaran, pewartaan, pariwara, propaganda, reklame
 pucat a kucam, lesi, pudar, putih ,
 pucuk n punca, puncak, sanding, tampuk, ujung, daun muda, pupus
-pudar a awawarna, kepam, luntur, seput,
+pudar a awawarna, kepam, luntur, seput, buram, kabus, kalis, kucam, pucat, suram, berantakan, bubar, buyar, padam, pupus, putus, sirna, cair, kendur, lemah, melempem, reda, redup, surut, pulih,
 puder n bubuk, tepung, talk, bedak, perona pipi, pupur, amunisi, mesiu
 pugak, berpugak-pugak v bengoh, bekerja
 pugar, memugar v membarui, membenahi, memermak , memperbaiki, merehabilitasi, meremajakan, merenovasi, merestorasi, merombak, memoles, mempercantik
@@ -8121,13 +7965,10 @@ puguh adv mesti, niscaya, pasti, tentu, kukuh, teguh, tetap, tunak
 puing n reruntuhan, reruntuk, robohan
 puisi n kakawin, kidung, sajak, syair, tembang
 puja v sanjung
-penggemar, penyembah
-pendewaan, pengagungan, penghormatan, pengultusan, penyembahan,
 pujangga n bujangga, sastrawan, penulis,
 puji n, memuji v mengalem, menghargai, menyanjung, memuliakan, memuliamuliakan,
 pukal n bingkah, bongkah, briket, gumpal, ketul,
 pukang n paha, kangkang, kelangkang, kerampang, kerangkang, kunci paha, pangkal paha, selangkangan, bucu, siku, sudut,
-pangkal paha, selangkangan, bucu, siku, sudut,
 pukat n jala, jaring, pemayang, rajut,
 pukau n daya pikat, magnet , pesona,
 pukul n getok, ketuk, cak memukul,
@@ -8135,14 +7976,12 @@ pukul n jam
 pukul rata a biasanya, rata-rata, umumnya,
 pula a kembali, lagi, sekali lagi, juga, pun,
 pulang v berbalik, kembali,
-pulang-pergi, ulang-alik,
 pulang pergi v bolak-balik, tolak-balik, hilir
 pulas a cendera, enak , jenak, lelap, lena, lenyak, nyenyak, pules, renyap
 pulas, memulas v memutar, memelintir, memilin, memiuh, memuntir, memerah, memeras, menapus, menyerkai, meremas,
 pulas mata v alit, celak, palit, perona mata,
 pulau n daratan, tanah,
 pulih v membaik, sehat, sembuh, a cair, padam, pudar, reda, sirep, surut
-padam, pudar, reda, sirep, surut
 pulp n bubur kertas
 pulsa n debar, degub, denyut, detak, renyut, getaran, vibrasi
 puluh, persepuluhan n desimal
@@ -8162,16 +8001,14 @@ pundak n bahu
 pundi n dompet, guntil, kampil, kandi, kandung, kantong, kopek, pura, sitak
 pundi n junjungan,
 pundung n busut, gundukan, longgokan, pongsu, pusu
-pongsu, pusu
 punggah, memunggah v membongkaran
 pungguk n burung hantu, celepuk, elang
 punggung n belakang, burit, pungkur, buntut,
 punggung tangan n kura tangan, tapak tangan
 pungkas, memungkasi v mengakhiri, menutup, menyudahi,
 pungkur n belakang, buntut, buritan, punggung, ampas, cerih, cirit, endapendap, keladak, latak, sempelah, sempuras, sepah, sisa, tahi
-punggung, ampas, cerih, cirit, endapendap, keladak, latak, sempelah, sempuras, sepah, sisa, tahi
 pungtuasi n tanda baca
-pungut, memungut v mengambil, mengangkat, membangkit, menggali, memetik, memperoleh, mendapat, mengantongi,
+pungut, memungut v mengambil, mengangkat, membangkit, menggali, memetik, memperoleh, mendapat, mengantongi, menarik, mengenakan, mengutip, mencukil, mencuplik, menukil, menyitir,  menyerap,  mengadopsi, mengakui, menjadikan,
 punjung, memunjung v membusung, menganjur, menggembung,
 puntal, memuntal v membalun, menggulung, menggelendong, mengumpat, menyingkatkan, meringkaskan
 puntianak n kuntilanak, langsuir, sundal
@@ -8195,7 +8032,6 @@ purata a pukul rata, hitung panjang, ratarata
 purba a arkais, bahari, baheula, kuno, purwa, tua
 purbakala n dahulu kala, zaman kuno
 purbasangka n bias, kecurigaan, praduga, prasangka, syak, waham
-prasangka, syak, waham
 purbawara n drama satu babak
 purbawisesa n kekuasaan penuh
 purdah n cadar, kerudung, selir, selubung, tirai,
@@ -8217,34 +8053,25 @@ pusaka n peninggalan, warisan
 pusam a kabur, pudar
 pusang a gamam, gelebah, gelisah, khawatir, mamang, nyanyang, resah, risau, waswas, buncit, buntal, busung, gembung, kembung
 pusar, memusar v memesong, memutar, mengisarkan, mengolak, melinting, menggiling,
-putaran, gejolak, turbulensi,
 pusar n pusat, puser
 pusara n kober, kuburan, makam, peristirahatan terakhir, pesara, tanah tersirat
 pusat n kunci, pumpunan, senter, sentral, tengah, titik pusat, pusar, fokus, induk
 pusing v putar, a berpendar, gayang, jangar, kliyengan , lengar, mabuk, mamang, merayang, mumet, nanar, pening, pitam, puyeng, sakit kepala, teler, a bingung, ganar, mangut, pakau, teringainga, tersuntuk,
-pitam, puyeng, sakit kepala, teler, a bingung, ganar, mangut, pakau, teringainga, tersuntuk,
 puspa n bunga, kembang, kesuma, kujarat, puspita, sari, sekar
-puspita, sari, sekar
 puspa hati n buah hati, kekasih
 pusparagam a aneka macam, aneka ragam, aneka warna, serba-serbi, warnawarni, n analekta, antologi, bunga rampai, kumpulan, karangan, koleksi, kompilasi, potpuri, seleksi, warna sari
 puspawarna a berbagai rupa, bermacammacam, bermacam ragam, bermacam rupa, beroncet-roncet, bervariasi, bineka, heterogen, majemuk, plural
 pustaka n bacaan, buku, kitab, lektur, sastra, teks, wacana, pestaka, primbon
-pustaka acuan, referensi, kesusastraan,
 pustakawan n ahli perpustakaan
 pusung a andia, bego , bodoh, dogol, goblok, lompong , odoh, pandir, tolol
 pusut n pelubang, penggerek,
 putar v pusing,
-pikiran,
-perubahan, suksesi, aliran, arus, peredaran, perkisaran, revolusi, rotasi, sirkuit, sirkulasi,
 putar balik v berbalik, berputar,
 putar lidah v ki ingkar janji,
 putarwali n batang wali, gasing-gasing
 puter n balam, dederuk, tekukur
 puti n putri
 putih a bersih, ki murni, suci, ki kucam, pucat
-pucat
-pucat lesu, pucat manai, pucat pasi, pucat
-pudar,
 putih mata n, berputih mata a ki mendapat
 putih tulang n, berputih tulang v ki meninggal, wafat
 putik n bakal buah, pentil,
@@ -8254,7 +8081,6 @@ putranda n anak, ananda
 putri n puti, bikir, cewek , dara, dayang, gadis, kuntum , perawan, anak, ananda, darah daging,
 putri malu n daun hidup, kejut-kejut, rebah
 putus a buntung, kotok, kotong, kudung, kutung, potol, puntung, terpenggal, terpotong, v berakhir, beres , habis, rampung, selesai, tamam, tamat, tuntas, usai, v buyar, hilang, kandas, pudar, sirna, a amblas, bersih , habis, kikis, licin, ludes, tandas,  v cerai, pecah, pisah,
-penghentian, pemastian, penentuan, penetapan,
 puyeng a gayang, gering hulu, jangar, kliyengan , lengar, mabuk, mamang, mandam, mumet, pening, pitam, pusing, sakit kepala, teler
 puyuh n pikau
 qada n hukum , ketentuan,peraturan, takdir
@@ -8285,8 +8111,7 @@ racun n arsenik, bisa, ipuh, parakuat, santau, sengat, sianida, toksin, tuba, up
 rada, rada-rada v agak, hampir, mendekati
 radai n kepak, sirip,
 radak, beradak v berlawan, berperang, melanggar, menerobos, mendobrak menyerang
-radang, meradang a geram, jaki, marah, marah-marah, memberang, memberongsang, menyangkak hati, menyinga, merampang, meranyuk, murih, murka, naik
-radang, naik palak, nanar, palak, panas
+radang, meradang a geram, jaki, marah, marah-marah, memberang, memberongsang, menyangkak hati, menyinga, merampang, meranyuk, murih, murka, naik radang, naik palak, nanar, palak, panas
 radang n kerusakan, pembengkakan,
 radar n pencari, pengesan, peninjau
 radas n alat, perkakas
@@ -8306,7 +8131,7 @@ ragas, meragas v memangkas, memotong, menggunting, menyentak
 ragas, meragas v naik, memanjat
 ragi n fermen, ibu roti, kamir, penaik, yis,
 ragi n bunga-bunga, contoh, corak, model, motif, patrun, pola, ragam, suri, warna
-ragiln bontot, bungsu
+ragil n bontot, bungsu
 ragu-ragu a ayal, beragak-agak, sangsi, waswas, bimbang, bingung, curiga, gelisah, imbang-imbangan, khawatir, lalai, lengah, mundur maju, papah, ragu hati, skeptis, syak hati, terbata-bata, tergamam,
 ragut, meragut v merumput
 rahak n dahak, lendir, sputum
@@ -8333,12 +8158,10 @@ rakit n ancu, getek, jeriau, lanting, telatak, telatap,
 raksasa n bota, danawa, gergasi, manusia besar, rahu
 rakus a besar perut, bosor, buruk makan, caruk, celungap, cerbak, dahuk, demap, gelojoh, lahap, lalah, lapar, loba, majuh, muris, pajuh, serakah, tamak,
 rakyat n anak buah, bala tentara, kaum, orang
-rakyat biasa, rakyat gembel, rakyat kebanyakan, rakyat marhaen, rakyat murba,
 ralat n koreksi, pembetulan, perbaikan, pindaan, revisi
 ram n biku, bingkai, jendela, pemidang, tingkap
 ramah a renceng mulut, ringan lidah, ringan
 ramai a berisik, bising, dahsyat, gaduh, gembira, gempar, heboh, hingar, hiruk-pikuk, honar, huru-hara, meriah, recok, retok, rewel, riang gembira, ribut, riuhrendah, rusuh,
-retok, rewel, riang gembira, ribut, riuhrendah, rusuh,
 ramal, meramalkan v melihat, memberitahukan, memfaalkan, menceritakan, memprediksi, menduga, meneka, menelah, menengok nasib, menenung, mengadimkan, mengagak, menilik, menujumkan, menyangka, menyatakan, merasikan,
 ramanda n ayahanda
 rama-rama n kupu-kupu
@@ -8369,7 +8192,6 @@ rancu a campur aduk, campur baur, bercelaru, kacau, kalang-kabut,
 randa n balu, janda,
 randu n kapuk, kabu-kabu
 rang n bagan, buram rangka, draf, konsep, rancangan, rencana
-rancangan, rencana
 rang n bunyi gendang, derang
 rangah a agul, angkuh, bongkak, congkak, gaduk, jemawa, magrur, pondik, pongah, pongak, sombong, tinggi hati
 rangas n anai-anai, kelekati, kiyek, rayap, semut putih
@@ -8379,14 +8201,12 @@ ranggas v gugur, luruh, ringgis,
 ranggi a bergaya, elegan, elok, gagah, lagak, tampan,
 ranggit n kait,
 rangka n bagan, bentuk, buram, gambar, kerangka, lembaga, rajah, rancangan, rang, rencana, susuk, tulang beragangan, tulangtulangan,
-rencana, susuk, tulang beragangan, tulangtulangan,
 rangkai n anyam, berkas, gandengan, gugus, jalin, karangan, kelompok, kepang, susun, untai,
 rangkak, merangkak v melincir, meloso, meluas, membiawak, memborat, menggelangsar, menggelasar, menggelecek, menggelincir, menggelongsor, menggeluncur, menjalar, menjerangkak, menjulur, menular, menyelar, merambak, merambat, merangkang, merata, merebak, meresap, merewak, merewet, neniti, menyusup, menceledok, menyeronot, menyungkur, menjelenak, menjalar, melata, meranyap, menyulur,
 rangkap a dobel, dua kali, ganda, kembar, lipat dua,
 rangkul, merangkul v mendekap, memeluk, mengulit, memangku, merangkum,
 rangkum, merangkum v membawa, mengangkut, memiliki, menguasai, membolot, merangkul, memeluk, merangkup,
 rangkung n halkum, kerongkong, lekum, rongkong, tenggorok
-rongkong, tenggorok
 rangsang, merangsang v membangkitkan, memikat, memukau, menarik, menggairahkan, menggiurkan, mengundang,
 rangsang, merangsangkan v menggempur, meragang, membantah, menyangkal, menyanggah,
 rani n perempuan, putri, ratu, suri
@@ -8400,7 +8220,6 @@ rapat a beriringan, damping, dempet, dempit, erat, intim, karib, kerap, kuat, ku
 rapat n konferensi, kongres, majelis, muktamar, musyawarah, pembicaraan, perbincangan, perhimpunan, perjumpaan, persidangan, perundingan,
 rapi a apik, cermat, kemas, kerap, ketat, kukuh, majelis, rapat-rapat, saksama, siaga, siap sedia, teguh, teliti, teratur, tertib,
 rapuh a lemah, pohu, rangup, renyah, repas, repih, repui, reput
-repih, repui, reput
 rapun a hancur, pecah, remuk,
 rapung, merapung v mengapung
 ras n suku bangsa, etnis
@@ -8413,7 +8232,6 @@ rasional n logis, masuk akal
 rasionalitas n kerasionalan
 rasuk, merasuk, merasuki v mengganggu, menegur, menyelapi, menyelundupi, mendalam, menyerapi, meresap, memasuki, memegang, menggoda
 rata a ceper, dangkal, datar, dempak, latar, leper, licin, papak, papar, peras, pipih, repang, tarah,
-repang, tarah,
 ratna n ki gadis, putri, ki batu mulia, intan, permata
 ratu n istri raja, maharani, permaisuri, raja
 ratus n dupa
@@ -8476,7 +8294,6 @@ rejasa n timah
 reka, merekakan v menggambarkan, mengkhayalkan, mencita-citakan, membayangkan, mengangan-angan,
 reka cipta v invensi, penciptaan, penemuan, perancangan,
 rekah, merekah v bengkok, bentet, berbelah, kereseng, lekah, lekang, meletek, mencekah, merengkah, meretak, ngelotok, patah, pecah-pecah, pukah, rengkah, retak-retak, terbelah, terbuka,
-retakan
 rekam, merekam v mengekalkan, menekat, 
 rekan n handai, kawan, konco, sahabat, taulan, teman,
 rekan n pasar, pekan
