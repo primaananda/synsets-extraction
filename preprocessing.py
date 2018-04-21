@@ -42,21 +42,6 @@ def add_specific_text(dicts):
 def delete_specific_char(dicts):
     dicts2 = []
     temp = ''
-    '''
-    stopwords = ['  ',
-    '    ',
-    ' (cak)',
-    '1 ',
-    '2 ',
-    ' (ki)',
-    'pron ',
-    '(kan) ',
-    '(pen) ',
-    '(an)']
-    
-    print stopwords
-    
-    '''
     for k in dicts:
         k = re.sub('\(.*?\)','',k) #menghilangkan kata yang dalam '(kata)'
         for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', '7']:
