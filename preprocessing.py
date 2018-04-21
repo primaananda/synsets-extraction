@@ -112,7 +112,7 @@ def txt_to_csv(file, files):
         type = []
         for x in range(0, len(index_sequence)-1):
             type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-        print word
+        print type
         writer.writerow(dicts)
         
     
