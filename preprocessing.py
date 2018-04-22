@@ -17,31 +17,29 @@ def clear_tab(file):
     return dicts
 
 #merapikan text untuk yang kata"nya kepotong dan mengambil text yang diperlukan perulangan untung membaca dan menampung huruf sesuai yang di awali oleh kress(#) : contoh bila #A maka yang ditampung huruf awalny A
-def add_specific_text(dicts):
+#hapus whiespace yang berlebihan dan hapus kata kata yang tidak diperlukan seperti (cak), k, adv
+def preprocessing(data):
+    dicts = []
     dicts2 = []
     letter = '###'
-    for x in range(0,len(dicts)):
+    temp2 = ''
+    for x in range(0,len(data)):
         temp = ''
-        if(dicts[x].startswith('#')):
-            letter = dicts[x][1].lower() #.lower berfungsi untuk membuat huruf kapital menjadi kecil
-        if(dicts[x].startswith(letter)):
-            temp += dicts[x]
-            while(dicts[x].endswith(',')) or (dicts[x].endswith('-')):
-                if(dicts[x].endswith(',')): #kalau diakhiri ',' maka kata/kalimat digabung dengan kata/kalimat berikutnya
+        if(data[x].startswith('#')):
+            letter = data[x][1].lower() #.lower berfungsi untuk membuat huruf kapital menjadi kecil
+        if(data[x].startswith(letter)):
+            temp += data[x]
+            while(data[x].endswith(',')) or (data[x].endswith('-')):
+                if(data[x].endswith(',')): #kalau diakhiri ',' maka kata/kalimat digabung dengan kata/kalimat berikutnya
                     temp = temp + ' '
-                    temp += dicts[x+1]
+                    temp += data[x+1]
                     x =  x+1
-                elif(dicts[x].endswith('-')): #kalau diakhiri '-' maka huruf terakhir yaitu - dihilangkan lalu digabungkan dengan kata berikutnya
+                elif(data[x].endswith('-')): #kalau diakhiri '-' maka huruf terakhir yaitu - dihilangkan lalu digabungkan dengan kata berikutnya
                     temp = temp[:-1]
-                    temp += dicts[x+1]
+                    temp += data[x+1]
                     x = x+1
-            dicts2.append(temp)
-    return dicts2
-
-#hapus whiespace yang berlebihan dan hapus kata kata yang tidak diperlukan seperti (cak), k, adv
-def delete_specific_char(dicts):
-    dicts2 = []
-    temp = ''
+            dicts.append(temp)
+    
     for k in dicts:
         k = re.sub('\(.*?\)','',k) #menghilangkan kata yang dalam '(kata)'
         for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', '7']:
@@ -55,14 +53,13 @@ def delete_specific_char(dicts):
             else:
                 k = k.replace(ch2,',')
             '''
-        temp = k
-        dicts2.append(temp)
-    
+        temp2 = k
+        dicts2.append(temp2)
     return dicts2
-    
+
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
-def add_file(dicts2, files):
-    for x in dicts2:
+def add_file(data, files):
+    for x in data:
         files.write(x+'\n')
 
 def get_lowest_type_index(line):
@@ -91,29 +88,32 @@ def txt_to_csv(file, files):
     writer = csv.writer(files)
     writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
     for line in file:
-        #if len(line) >= 1
-        dicts = [x.rstrip(',') for x in line.split()]
-        #print dicts
-        #####
-        '''
-        for x in range(0, len(dicts)):
-            if dicts[x] == 0:
-                word = dicts[0:get_lowest_type_index(dicts)]
-            elif dicts[x] == types:
-                dicts = dicts[get_lowest_type_index(dicts):]
-        '''
-        #####
-        #edit wordnya
-        word = dicts[0:get_lowest_type_index(dicts)]
-        dicts = dicts[get_lowest_type_index(dicts):]
-        sequence = get_type_sequence(dicts)
-        index_sequence = get_type_index(sequence, dicts)
-        index_sequence.append(len(dicts))
-        type = []
-        for x in range(0, len(index_sequence)-1):
-            type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-        print type
-        writer.writerow(dicts)
+        if len(line) >= 1:
+            dicts = [x.rstrip(',') for x in line.split()]
+            #edit wordnya
+            word = dicts[0:get_lowest_type_index(dicts)]
+            dicts = dicts[get_lowest_type_index(dicts):]
+            sequence = get_type_sequence(dicts)
+            index_sequence = get_type_index(sequence, dicts)
+            index_sequence.append(len(dicts))
+            type = []
+            for x in range(0, len(index_sequence)-1):
+                type.append(dicts[index_sequence[x]:index_sequence[x+1]])
+            print type
+            kata = word[0:1]
+            '''
+            if type[0] == 'v':
+                verb = type[1:]
+            elif type[0] == 'n':
+                noun = type[1:]
+            elif type[0] == 'a':
+                adjektiva = type[1:]
+            elif type[0] == 'adv':
+                adverb = type[1:]
+            '''
+            row = kata
+            writer.writerow(row)
+        
         
     
 def main():
@@ -122,14 +122,13 @@ def main():
     file_csv = open('hasil/final/tesaurus.csv','w')
     
     d_clear = clear_tab(file)
-    d_add = add_specific_text(d_clear)
-    d_specific = delete_specific_char(d_add)
+    dpro = preprocessing(d_clear)
     
     #import to txt
-    add_file(d_specific, file_text_write)
+    add_file(dpro, file_text_write)
     
     #txt to csv
-    txt_to_csv(d_specific, file_csv)
+    txt_to_csv(dpro, file_csv)
     
     file.close()
     file_text_write.close()
