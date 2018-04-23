@@ -5,57 +5,51 @@ import csv
 types = ['v','a','n','adv', 'p', 'pron', 'num']
 
 #perulangan untuk menghilangkan baris tab dan hanya mengambil yang tidak ada tabnya dan dimasukan kedalam tampungan dicts
-def clear_tab(file):
-    dicts = []
-    lines = file.readline()
-    while lines:
-        if(not lines.startswith('\t')):
-            dicts.append(lines.rstrip())
-        lines = file.readline()
-        if not lines:
-            break
-    return dicts
-
-#merapikan text untuk yang kata"nya kepotong dan mengambil text yang diperlukan perulangan untung membaca dan menampung huruf sesuai yang di awali oleh kress(#) : contoh bila #A maka yang ditampung huruf awalny A
-#hapus whiespace yang berlebihan dan hapus kata kata yang tidak diperlukan seperti (cak), k, adv
-def preprocessing(data):
-    dicts = []
-    dicts2 = []
-    letter = '###'
-    temp2 = ''
-    for x in range(0,len(data)):
-        temp = ''
-        if(data[x].startswith('#')):
-            letter = data[x][1].lower() #.lower berfungsi untuk membuat huruf kapital menjadi kecil
-        if(data[x].startswith(letter)):
-            temp += data[x]
-            while(data[x].endswith(',')) or (data[x].endswith('-')):
-                if(data[x].endswith(',')): #kalau diakhiri ',' maka kata/kalimat digabung dengan kata/kalimat berikutnya
-                    temp = temp + ' '
-                    temp += data[x+1]
-                    x =  x+1
-                elif(data[x].endswith('-')): #kalau diakhiri '-' maka huruf terakhir yaitu - dihilangkan lalu digabungkan dengan kata berikutnya
-                    temp = temp[:-1]
-                    temp += data[x+1]
-                    x = x+1
-            dicts.append(temp)
-    
-    for k in dicts:
-        k = re.sub('\(.*?\)','',k) #menghilangkan kata yang dalam '(kata)'
-        for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', '7']:
-            if ch in k:
-                k = k.replace(ch,'')
-        for ch2 in [';']:
-            k = re.sub(';',',',k)
-            '''
-            if k.endswith(ch2):
-                k = k.replace(ch2,'')
-            else:
-                k = k.replace(ch2,',')
-            '''
-        temp2 = k
-        dicts2.append(temp2)
-    return dicts2
+def preprocessing(file):
+	data = []
+	dicts = []
+	dicts2 = []
+	letter = '###'
+	temp2 = ''
+	lines = file.readline()
+	while lines:
+		if(not lines.startswith('\t')):
+			data.append(lines.rstrip())
+		lines = file.readline()
+		if not lines:
+			break
+	###
+	#merapikan text untuk yang kata"nya kepotong dan mengambil text yang diperlukan perulangan untung membaca dan menampung huruf sesuai yang di awali oleh kress(#) : contoh bila #A maka yang ditampung huruf awalny A
+	for x in range(0,len(data)):
+		temp = ''
+		if(data[x].startswith('#')):
+			letter = data[x][1].lower() #.lower berfungsi untuk membuat huruf kapital menjadi kecil
+		if(data[x].startswith(letter)):
+			temp += data[x]
+			while(data[x].endswith(',')) or (data[x].endswith('-')):
+				if(data[x].endswith(',')): #kalau diakhiri ',' maka kata/kalimat digabung dengan kata/kalimat berikutnya
+					temp = temp + ' '
+					temp += data[x+1]
+					x =  x+1
+				elif(data[x].endswith('-')): #kalau diakhiri '-' maka huruf terakhir yaitu - dihilangkan lalu digabungkan dengan kata berikutnya
+					temp = temp[:-1]
+					temp += data[x+1]
+					x = x+1
+			dicts.append(temp)
+	###
+	#hapus whiespace yang berlebihan dan hapus kata kata yang tidak diperlukan seperti (cak), k, adv
+	for k in dicts:
+		k = re.sub('\(.*?\)','',k) #menghilangkan kata yang dalam '(kata)'
+		for ch in ['  ','	 ', '1 ', '2 ', '3 ', '4 ', '5', '6', '7']:
+			if ch in k:
+				k = k.replace(ch,'')
+		for ch2 in [';']:
+			k = re.sub(';',',',k)
+		temp2 = k
+		dicts2.append(temp2)
+	#deleting empty list
+	#list1 = [x for x in dicts2 if x]
+	return dicts2
 
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
 def add_file(data, files):
@@ -84,45 +78,34 @@ def get_type_index(types, line):
 
 #merubah ke csv
 def txt_to_csv(file, files):
-    dicts = []
-    writer = csv.writer(files)
-    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
-    for line in file:
-        if len(line) >= 1:
-            dicts = [x.rstrip(',') for x in line.split()]
-            #edit wordnya
-            word = dicts[0:get_lowest_type_index(dicts)]
-            dicts = dicts[get_lowest_type_index(dicts):]
-            sequence = get_type_sequence(dicts)
-            index_sequence = get_type_index(sequence, dicts)
-            index_sequence.append(len(dicts))
-            type = []
-            for x in range(0, len(index_sequence)-1):
-                type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-            print type
-            kata = word[0:1]
-            '''
-            if type[0] == 'v':
-                verb = type[1:]
-            elif type[0] == 'n':
-                noun = type[1:]
-            elif type[0] == 'a':
-                adjektiva = type[1:]
-            elif type[0] == 'adv':
-                adverb = type[1:]
-            '''
-            row = kata
-            writer.writerow(row)
-        
-        
-    
+	dicts = []
+	writer = csv.writer(files)
+	writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
+	for line in file:
+		if len(line) >= 2:
+			dicts = [x.rstrip(',') for x in line.split()]
+			#edit wordnya
+			word = dicts[0:get_lowest_type_index(dicts)]
+			dicts = dicts[get_lowest_type_index(dicts):]
+			sequence = get_type_sequence(dicts)
+			index_sequence = get_type_index(sequence, dicts)
+			index_sequence.append(len(dicts))
+			type = []
+			for x in range(0, len(index_sequence)-1):
+				type.append(dicts[index_sequence[x]:index_sequence[x+1]])
+			print type
+			kata = word[0:1]
+			##if type[0] == n:
+			##	noun = type[1:]
+			row = kata
+			writer.writerow(row)
+
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
     file_text_write = open('hasil/final/tesaurus_clear_text.txt','w')
     file_csv = open('hasil/final/tesaurus.csv','w')
-    
-    d_clear = clear_tab(file)
-    dpro = preprocessing(d_clear)
+	
+    dpro = preprocessing(file)
     
     #import to txt
     add_file(dpro, file_text_write)
@@ -133,13 +116,4 @@ def main():
     file.close()
     file_text_write.close()
 
-    #testing
-    '''
-    s = 'abcd (aaaa) efgh'
-    abcd = re.sub(r'\(.+\)','',s)
-    print abcd
-    x='dasdasdsafs[image : image name : image]vvfd gvdfvg dfvgd'
-    hsak = re.sub(r'\[.+\]','',x)
-    print hsak
-    '''
 main()
