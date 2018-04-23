@@ -66,7 +66,7 @@ def get_lowest_type_index(line):
 def get_type_sequence(line):
     sequence = []
     for word in line:
-        if(len(word) == 1):
+        if word in types:
             sequence.append(word)
     return sequence
 
@@ -78,31 +78,71 @@ def get_type_index(types, line):
 
 #merubah ke csv
 def txt_to_csv(file, files):
-	dicts = []
-	writer = csv.writer(files)
-	writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
-	for line in file:
-		dicts = [x.rstrip(',') for x in line.split()]
-		#edit wordnya
-		word = dicts[0:get_lowest_type_index(dicts)]
-		dicts = dicts[get_lowest_type_index(dicts):]
-		sequence = get_type_sequence(dicts)
-		index_sequence = get_type_index(sequence, dicts)
-		index_sequence.append(len(dicts))
-		type = []
-		for x in range(0, len(index_sequence)-1):
-			type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-		print type
-		kata = word[0:1]
-		##if type[0] == n:
-		##	noun = type[1:]
-		row = kata
-		writer.writerow(row)
+    dicts = []
+    writer = csv.writer(files, delimiter=',')
+    writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
+    for line in file:
+        noun = []
+        verb = []
+        adv = []
+        adj = []
+        tempword = ''
+        dicts = [x.rstrip(',') for x in line.split()]
+        #edit wordnya
+        word = dicts[0:get_lowest_type_index(dicts)]
+        dicts = dicts[get_lowest_type_index(dicts):]
+        sequence = get_type_sequence(dicts)
+        index_sequence = get_type_index(sequence, dicts)
+        index_sequence.append(len(dicts))
+        type = []
+        for x in range(0, len(index_sequence)-1):
+        	type.append(dicts[index_sequence[x]:index_sequence[x+1]])
+        #print type
+        kata = word[0:1]
+        #print kata
+        try:
+            if type[0][0] in types:
+                if type[0][0] == 'n':
+            	    noun = type[0][1:]
+                elif type[0][0] == 'v':
+                    verb = type[0][1:]
+                elif type[0][0] == 'adv':
+                    adv = type[0][1:]
+                elif type[0][0] == 'a':
+                    adj = type[0][1:]
+                else:
+                    tempword = type[0][1:]
+            elif type[1][0] in types:
+                if type[0][0] == 'n':
+            	    noun = type[0][1:]
+                elif type[0][0] == 'v':
+                    verb = type[0][1:]
+                elif type[0][0] == 'adv':
+                    adv = type[0][1:]
+                elif type[0][0] == 'a':
+                    adj = type[0][1:]
+                else:
+                    tempword = type[0][1:]
+            elif type[2][0] in types:
+                if type[0][0] == 'n':
+            	    noun = type[0][1:]
+                elif type[0][0] == 'v':
+                    verb = type[0][1:]
+                elif type[0][0] == 'adv':
+                    adv = type[0][1:]
+                elif type[0][0] == 'a':
+                    adj = type[0][1:]
+                else:
+                    tempword = type[0][1:]
+        except IndexError:
+            print
+        writer.writerow([kata[0],','.join(noun),','.join(verb),','.join(adj),','.join(adv)])
 
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
     file_text_write = open('hasil/final/tesaurus_clear_text.txt','w')
     file_csv = open('hasil/final/tesaurus.csv','w')
+    open_csv = open('hasil/final/tesaurus.csv','r')
 	
     dpro = preprocessing(file)
     
