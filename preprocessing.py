@@ -57,11 +57,11 @@ def add_file(data, files):
         files.write(x+'\n')
 
 def get_lowest_type_index(line):
-    value = []
-    for type in types :
-        if(type in line):
-            value.append(line.index(type))
-    return min(value)
+	value = []
+	for type in types :
+		if(type in line):
+			value.append(line.index(type))
+	return min(value)
 
 def get_type_sequence(line):
     sequence = []
@@ -82,23 +82,22 @@ def txt_to_csv(file, files):
 	writer = csv.writer(files)
 	writer.writerow(["Kata","Noun","Verb","Adjektiva","Adverb"])
 	for line in file:
-		if len(line) >= 2:
-			dicts = [x.rstrip(',') for x in line.split()]
-			#edit wordnya
-			word = dicts[0:get_lowest_type_index(dicts)]
-			dicts = dicts[get_lowest_type_index(dicts):]
-			sequence = get_type_sequence(dicts)
-			index_sequence = get_type_index(sequence, dicts)
-			index_sequence.append(len(dicts))
-			type = []
-			for x in range(0, len(index_sequence)-1):
-				type.append(dicts[index_sequence[x]:index_sequence[x+1]])
-			print type
-			kata = word[0:1]
-			##if type[0] == n:
-			##	noun = type[1:]
-			row = kata
-			writer.writerow(row)
+		dicts = [x.rstrip(',') for x in line.split()]
+		#edit wordnya
+		word = dicts[0:get_lowest_type_index(dicts)]
+		dicts = dicts[get_lowest_type_index(dicts):]
+		sequence = get_type_sequence(dicts)
+		index_sequence = get_type_index(sequence, dicts)
+		index_sequence.append(len(dicts))
+		type = []
+		for x in range(0, len(index_sequence)-1):
+			type.append(dicts[index_sequence[x]:index_sequence[x+1]])
+		print type
+		kata = word[0:1]
+		##if type[0] == n:
+		##	noun = type[1:]
+		row = kata
+		writer.writerow(row)
 
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
