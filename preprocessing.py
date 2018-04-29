@@ -135,14 +135,13 @@ def txt_to_csv(file, files):
                 else:
                     tempword = type[0][1:]
         except IndexError:
-            print
+            print 'index'
         writer.writerow([kata[0],','.join(noun),','.join(verb),','.join(adj),','.join(adv)])
 
 def main():
     file = open('hasil/final/tesaurus_hasil_convert_from_pdf.txt','r')
     file_text_write = open('hasil/final/tesaurus_clear_text.txt','w')
     file_csv = open('hasil/final/tesaurus.csv','w')
-    open_csv = open('hasil/final/tesaurus.csv','r')
 	
     dpro = preprocessing(file)
     
