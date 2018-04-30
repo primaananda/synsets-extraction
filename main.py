@@ -1,36 +1,87 @@
 #created by primaananda
 import csv
-import pandas as pd
-from collections import defaultdict
 
-def cari_pasangan(file_csv):
+#berisi list noun
+def get_noun():
     noun = []
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            noun.append(row[1])
+    return noun
+
+#berisi list verb
+def get_verb():
     verb = []
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            verb.append(row[2])
+    return verb
+
+#berisi list adjektiva
+def get_adje():
     adje = []
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            adje.append(row[3])
+    return adje
+
+#berisi list adverb
+def get_adve():
     adve = []
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            adve.append(row[4])
+    return adve
+
+#berisi list gabungan antara noun, verb, adjektiva, dan adverb
+def get_pasangan(kata):
     pasangan = []
-    reader = csv.reader(file_csv, delimiter=',')
-    for row in reader:
-        noun.append(row[1])
-        verb.append(row[2])
-        adje.append(row[3])
-        adve.append(row[4])
-        pasangan.append(row[1]+row[2]+row[3]+row[4])
-        #pasangan.append(row[2])
-        #pasangan.append(row[3])
-        #pasangan.append(row[4])
-        #pasangan.append([row[1],row[2],row[3],row[4]])
-    for x in pasangan:
-        print x
-    #    line = x.split(',')
-    #print line
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            pasangan.append(row[1]+row[2]+row[3]+row[4])
     return pasangan
 
-#def ekstraksi_synset_indonesia():
+#berisi list kata pertama
+def get_kata():
+    kata = []
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            kata.append(row[0])
+    return kata
+
+def ekstraksi_synset_indonesia():
+    daftar_pasangan = []
+    daftar_pasangan_tesaurus = []
+    calon_synset_tesaurus = []
+    count = 0
+    with open('hasil/final/tesaurus.csv') as file:
+        reader = csv.reader(file, delimiter=',')
+        for row in reader:
+            daftar_pasangan.append(row[1]+row[2]+row[3]+row[4])
+            for kata_pasangan in daftar_pasangan:
+                count += 1
+                print count
+                if kata_pasangan in row[0]:
+                    daftar_pasangan_tesaurus.append(kata_pasangan)
+                    if row[0] in daftar_pasangan_tesaurus:
+                        calon_synset_tesaurus.append((row[0], kata_pasangan))
+                    else:
+                        calon_synset_tesaurus.append(row[0])
+    print calon_synset_tesaurus
 
 def main():
-    open_csv = open('hasil/final/tesaurus.csv','r')
     
-    cari_pasangan(open_csv)
+    noun = get_noun()
+    #for x in noun:
+    #    print x
+    verb = get_kata()
+    for x in verb:
+        print x
     
-main()
+ekstraksi_synset_indonesia()
