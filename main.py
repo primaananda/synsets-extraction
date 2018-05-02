@@ -38,7 +38,7 @@ def get_adve():
     return adve
 
 #berisi list gabungan antara noun, verb, adjektiva, dan adverb
-def get_pasangan(kata):
+def get_pasangan():
     pasangan = []
     with open('hasil/final/tesaurus.csv') as file:
         reader = csv.reader(file, delimiter=',')
@@ -59,29 +59,28 @@ def ekstraksi_synset_indonesia():
     daftar_pasangan = []
     daftar_pasangan_tesaurus = []
     calon_synset_tesaurus = []
-    count = 0
+    tesa = get_kata()
     with open('hasil/final/tesaurus.csv') as file:
-        reader = csv.reader(file, delimiter=',')
-        for row in reader:
-            daftar_pasangan.append(row[1]+row[2]+row[3]+row[4])
+        tesaurus = csv.reader(file, delimiter=',')
+        
+        for kata in tesaurus:
+            daftar_pasangan.append(kata[1]+kata[2]+kata[3]+kata[4])
             for kata_pasangan in daftar_pasangan:
-                count += 1
-                print count
-                if kata_pasangan in row[0]:
+                if kata_pasangan in tesa:
                     daftar_pasangan_tesaurus.append(kata_pasangan)
-                    if row[0] in daftar_pasangan_tesaurus:
-                        calon_synset_tesaurus.append((row[0], kata_pasangan))
+                    if kata in daftar_pasangan_tesaurus:
+                        calon_synset_tesaurus.append((kata, kata_pasangan))
                     else:
-                        calon_synset_tesaurus.append(row[0])
+                        calon_synset_tesaurus.append(kata)
     print calon_synset_tesaurus
 
+def save_to_txt(data):
+    with open('hasil/final/calon_synset_tesaurus.txt','w') as file:
+        for x in data:
+            file.write(x)
+
 def main():
+    data = ekstraksi_synset_indonesia()
+    #save_to_txt(data)
     
-    noun = get_noun()
-    #for x in noun:
-    #    print x
-    verb = get_kata()
-    for x in verb:
-        print x
-    
-ekstraksi_synset_indonesia()
+main()
