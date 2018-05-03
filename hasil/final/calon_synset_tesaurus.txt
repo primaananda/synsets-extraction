@@ -6123,6 +6123,7 @@ panji-panji
 ('panji-panji', 'tunggul')
 ('panji-panji', 'umbul-umbul')
 ('mandat', 'amanat')
+('mandat', 'arahan')
 ('mandat', 'delegasi')
 ('mandat', 'instruksi')
 ('mandat', 'perintah')
@@ -8075,11 +8076,12 @@ habitat
 habitat
 habitat
 ('habitat', 'teritori')
-sabda
-sabda
-sabda
-sabda
-sabda
+('sabda', 'arahan')
+('sabda', 'bicara')
+('sabda', 'cakap')
+('sabda', 'ceramah')
+('sabda', 'cerita')
+('sabda', 'fatwa')
 ('sabda', 'firman')
 ('sabda', 'janji')
 ('sabda', 'kata')
@@ -8812,6 +8814,7 @@ budayawan
 budayawan
 budayawan
 budayawan
+saran
 saran
 saran
 saran
@@ -10533,6 +10536,7 @@ pose
 montase
 ('instruksi', 'aba-aba')
 ('instruksi', 'amanat')
+('instruksi', 'arahan')
 ('instruksi', 'komando')
 ('instruksi', 'nasihat')
 ('instruksi', 'perintah')
@@ -11079,6 +11083,7 @@ imut-imut
 ('periuk', 'kendil')
 ('periuk', 'kuali')
 ('periuk', 'wajan')
+warta
 ('warta', 'berita')
 ('warta', 'cerita')
 ('warta', 'informasi')
@@ -18943,6 +18948,7 @@ sikejut
 ('pelebaya', 'sinyal')
 lapor
 pedoman
+('pedoman', 'arahan')
 ('pedoman', 'manual')
 ('pedoman', 'tip')
 ('pedoman', 'asas')
@@ -19662,6 +19668,7 @@ cepol
 cepol
 ('perintah', 'aba-aba')
 ('perintah', 'amanat')
+('perintah', 'arahan')
 ('perintah', 'instruksi')
 ('perintah', 'komando')
 ('perintah', 'mandat')
@@ -21039,6 +21046,14 @@ upacara
 teoretis
 teoretis
 ('teoretis', 'spekulatif')
+arahan
+('arahan', 'pedoman')
+('arahan', 'perintah')
+('arahan', 'sabda')
+('arahan', 'aba-aba')
+('arahan', 'amanat')
+('arahan', 'mandat')
+('arahan', 'titah')
 mak
 ('mak', 'emak')
 ('mak', 'ibu')
@@ -32388,6 +32403,7 @@ jangak
 jangak
 jangak
 jangak
+taklimat
 ('taklimat', 'santiaji')
 ('tampah', 'badang')
 ('tampah', 'indang')
@@ -33004,6 +33020,7 @@ nazar
 ('nazar', 'padan')
 ('nazar', 'sumpah')
 ('nazar', 'tekad')
+('amanat', 'arahan')
 ('amanat', 'instruksi')
 ('amanat', 'mandat')
 ('amanat', 'nasihat')
@@ -36020,6 +36037,7 @@ utilitas
 ('utilitas', 'manfaat')
 ('dedes', 'musang')
 ('dedes', 'kesturi')
+('aba-aba', 'arahan')
 ('aba-aba', 'instruksi')
 ('aba-aba', 'isyarat')
 ('aba-aba', 'kode')

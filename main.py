@@ -58,17 +58,15 @@ def get_kata():
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = []
     tesa = get_kata()
-    with open('hasil/final/tesaurus.csv') as file:
-        tesaurus = csv.reader(file, delimiter=',')
-        for kata in tesa:
-            daftar_pasangan_tesaurus = []
-            for kata_pasangan in tesa[kata]:
-                if kata_pasangan in tesa:
-                    daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
-                    if kata in daftar_pasangan_tesaurus:
-                        calon_synset_tesaurus.append((kata, kata_pasangan))
-                    else:
-                        calon_synset_tesaurus.append(kata)
+    for kata in tesa:
+        daftar_pasangan_tesaurus = []
+        for kata_pasangan in tesa[kata]:
+            if kata_pasangan in tesa:
+                daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
+                if kata in daftar_pasangan_tesaurus:
+                    calon_synset_tesaurus.append((kata, kata_pasangan))
+                else:
+                    calon_synset_tesaurus.append(kata)
     return calon_synset_tesaurus
 
 def save_to_txt(data):
