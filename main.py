@@ -57,7 +57,7 @@ def get_kata():
 
 def ekstraksi_synset_indonesia():
     daftar_pasangan = []
-    daftar_pasangan_tesaurus = []
+    #daftar_pasangan_tesaurus = []
     calon_synset_tesaurus = []
     tesa = get_kata()
     count = 0
@@ -74,12 +74,13 @@ def ekstraksi_synset_indonesia():
                         calon_synset_tesaurus.append((kata, kata_pasangan))
                     else:
                         calon_synset_tesaurus.append(kata)
+    print calon_synset_tesaurus
     return calon_synset_tesaurus
 
 def save_to_txt(data):
     with open('hasil/final/calon_synset_tesaurus.txt','w') as file:
         for x in data:
-            file.write(str(x))
+            file.write(str(x) + '\n')
 
 def main():
     data = ekstraksi_synset_indonesia()
