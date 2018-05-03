@@ -1870,7 +1870,7 @@ pengurus, penuntun, penyelia;
 	 pengarahan n 1 advis, ajaran, amanat, bimbingan, fatwa, masukan, nasihat, petuah,
 petunjuk, taklimat, wejangan 2 konseling,
 penyuluhan
-	 arahan n 1 bimbingan, firman, panduan,
+arahan n 1 bimbingan, firman, panduan,
 pedoman, pengarahan, pengawalan, perintah, petunjuk, pimpinan, sabda, suruhan, tuntunan; 2 aba-aba, amanat,
 mandat, titah
 	 terarah a apik, beres, rapi, teratur, terencana, terkendali, terorganisasi, terpimpin,
@@ -38245,9 +38245,7 @@ mengindikasikan, mengisyaratkan, menyiratkan; 3 memberitahukan, menerangkan;
 	 ~ jalan mahdi, malim, pemimpin; pemandu;
 	 penunjukan n 1 penudingan; 2 pemilihan,
 penentuan, penetapan, pengangkatan, pelantikan
-	 petunjuk n 1 alamat, bakat, gejala, gelagat, indikasi, isyarat, pertanda, sinyal;
-2 atribut, markah, rambu-rambu, tanda;
-aba-aba; 3 bukti, bahan, ciri, data, fakta,
+	 petunjuk n 1 alamat, bakat, gejala, gelagat, indikasi, isyarat, pertanda, sinyal; 2 atribut, markah, rambu-rambu, tanda; aba-aba; 3 bukti, bahan, ciri, data, fakta,
 informasi, keterangan, masukan; 4 arah,
 kaidah, patokan, peraturan, preskripsi;
 arah, kompas; 5 manual, panduan, pedoman, resep, tip; 6 advis, ajaran, amanat,
