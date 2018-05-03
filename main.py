@@ -60,6 +60,9 @@ def ekstraksi_synset_indonesia():
     daftar_pasangan_tesaurus = []
     calon_synset_tesaurus = []
     tesa = get_kata()
+    
+    for kata in tesa:
+        
     with open('hasil/final/tesaurus.csv') as file:
         tesaurus = csv.reader(file, delimiter=',')
         
