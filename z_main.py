@@ -55,6 +55,11 @@ def get_kata():
             kata[row[0]] = (row[1]+row[2]+row[3]+row[4]).split(',')
     return kata
 
+def tambah_calon_synset(kata_utama, kata_pasangan):
+    calon_kata = {}
+    calon_kata[kata_utama] = (kata_pasangan)
+    return calon_kata
+
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = []
     tesa = get_kata()
@@ -65,8 +70,10 @@ def ekstraksi_synset_indonesia():
                 daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
                 if kata in daftar_pasangan_tesaurus:
                     calon_synset_tesaurus.append((kata, kata_pasangan))
+                    #calon_synset_tesaurus.append(tambah_calon_synset(kata, kata_pasangan))
                 else:
                     calon_synset_tesaurus.append(kata)
+                    #calon_synset_tesaurus.append(tambah_calon_synset(kata, kata_pasangan))
     return calon_synset_tesaurus
 
 def save_to_txt(data):
