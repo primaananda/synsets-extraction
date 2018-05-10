@@ -1,0 +1,12 @@
+aba-aba n arahan, instruksi, isyarat, kode, komando, perintah, petunjuk, seruan, suruhan, tanda, titah
+arahan n 1 bimbingan, firman, panduan, pedoman, pengarahan, pengawalan, perintah, petunjuk, pimpinan, sabda, suruhan, tuntunan; 2 aba-aba, amanat, mandat, titah
+instruksi n 1 aba-aba, ajaran, amanat, amaran, arahan, komando, nasihat, perintah, pesan, titah, tugas; 2 pedoman, pelatihan, pendidikan, petunjuk
+isyarat n 1 aba-aba, duaja, gestur, kode, sandi, sein (cak), semboyan, sinyal, tanda; 2 alamat, gejala, gelagat, indikasi, pelebaya, pertanda, petunjuk, sasmita,  semboyan, simtom, tanda-tanda, tengara
+kode n 1 aba-aba, duaja, isyarat, petunjuk, sandi, tanda; 2 asas, aturan, etik, hukum, kaidah, ketentuan, norma, peraturan
+komando n aba-aba, instruksi, perintah, suruhan, titah; mandat, order
+perintah n aba-aba, amanat, amaran, arahan, instruksi, komando, mandat, order, rodi, suruhan, titah, tugas
+petunjuk n 1 alamat, bakat, gejala, gelagat, indikasi, isyarat, pertanda, sinyal; 2 atribut, markah, rambu-rambu, tanda; aba-aba; 3 bukti, bahan, ciri, data, fakta, informasi, keterangan, masukan; 4 arah, kaidah, patokan, peraturan, preskripsi; arah, kompas; 5 manual, panduan, pedoman, resep, tip; 6 advis, ajaran, amanat, bimbingan, fatwa, nasihat, pengarahan, petuah, tuntunan, wejangan; 7 bisikan, ilham, wahyu, wangsit
+seruan n 1 jeritan, laung, pekik, teriakan; 2 ajakan, anjuran, imbauan, lambaian (ki), panggilan, permintaan, undangan
+suruhan n 1 aba-aba, amanat, amar(an), instruksi, komando, mandat, perintah, pesan, titah, tugas; 2 cak pesuruh
+tanda n 1 atribut, cap, ciri, ikon, karakter, kualitas, lambang, logo, markah, pengenal, rambu-rambu, sebut-sebutan, semboyan, simbol, semboyan; 2 alamat, anggai, faal, fenomena, firasat, gejala, gelagat, indikasi, isyarat, petunjuk, pertanda, sem-boyan, sinyal, tengara; aba-aba, kode, sasmita; 3 alasan, alibi, bukti, burhan, dalil, hujah, jejak, kesaksian, kesan, keterangan, trek (cak)
+titah n amanat, amar(an), firman, kata, perintah, sabda
