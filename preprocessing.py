@@ -2,7 +2,7 @@
 import re
 import csv
 
-types = ['v','a','n','adv']
+types = ['v','n']
 
 def preprocessing(file):
     dicts = []
@@ -97,11 +97,11 @@ def txt_to_csv(file, files):
                     tempword = type[0][1:]
         except IndexError:
             print 'index zero'
-        writer.writerow([kata[0],','.join(noun),','.join(verb),','.join(adj),','.join(adv)])
+        writer.writerow([kata[0],','.join(noun),','.join(verb)])
 
 def main():
     text = open('src/tesaurus.txt','r')
-    file_text = open('hasil/tesaurus_hasil.txt','w')
+    file_text = open('hasil/cleartesaurus.txt','w')
     file_csv = open('hasil/tesaurus_hasil.csv','w')
     
     pre = preprocessing(text)
