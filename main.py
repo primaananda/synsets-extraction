@@ -50,10 +50,10 @@ def get_pasangan():
 def get_kata():
     kata = {}
     with open('hasil/tesaurus_hasil.csv') as file:
-        reader = csv.reader(file, delimiter=',')
+        reader = csv.reader(file)
         next(reader)
         for row in reader:
-            kata[row[0]] = (row[1]+row[2]+row[3]+row[4]).split(',')
+            kata[row[0]] = (row[1]+row[2]).split(',')
     return kata
 
 def tambah_calon_synset(kata_utama, kata_pasangan):
@@ -61,20 +61,28 @@ def tambah_calon_synset(kata_utama, kata_pasangan):
     calon_kata[kata_utama] = (kata_pasangan)
     return calon_kata
 
+def get_synset_final(calon_synset):
+    daftar_synset = {}
+    for synset in calon_synset:
+        for kata in calon_synset[synset]:
+            if synset == synset+1:
+                daftar_synset[synset] = update(kata)
+    return daftar_synset
+
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = []
     tesa = get_kata()
     for kata in tesa:
-        daftar_pasangan_tesaurus = []
         for kata_pasangan in tesa[kata]:
+            daftar_pasangan_tesaurus = []
             if kata_pasangan in tesa:
                 daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
                 if kata in daftar_pasangan_tesaurus:
-                    calon_synset_tesaurus.append((kata, kata_pasangan))
-                    #calon_synset_tesaurus.append(tambah_calon_synset(kata, kata_pasangan))
+                    #calon_synset_tesaurus.append((kata,kata_pasangan))
+                    calon_synset_tesaurus.append(tambah_calon_synset(kata, kata_pasangan))
                 else:
-                    calon_synset_tesaurus.append((kata))
-                    #calon_synset_tesaurus.append(tambah_calon_synset(kata, kata_pasangan))
+                    #calon_synset_tesaurus.append((kata))
+                    calon_synset_tesaurus.append(tambah_calon_synset(kata, ''))
     return calon_synset_tesaurus
 
 def save_to_txt(data):
@@ -84,6 +92,8 @@ def save_to_txt(data):
 
 def main():
     data = ekstraksi_synset_indonesia()
+    hasil = get_synset_final(data)
     save_to_txt(data)
+    
     
 main()
