@@ -46,6 +46,8 @@ def get_pasangan():
             pasangan.append(row[1]+row[2]+row[3]+row[4])
     return pasangan
 
+index = []
+
 #berisi dict kata pertama
 def get_kata():
     kata = {}
@@ -53,23 +55,9 @@ def get_kata():
         reader = csv.reader(file)
         next(reader)
         for row in reader:
+            index.append(row[0])
             kata[row[0]] = (row[1]+row[2]).split(',')
     return kata
-
-def tambah_calon_synset(kata_utama, kata_pasangan):
-    calon_kata = {}
-    calon_kata[kata_utama] = (kata_pasangan)
-    return calon_kata
-
-#new
-def get_synset_final(kata, pasangan):
-    data = []
-    for x in range(0, len(data)):
-        if kata != data[x][0]:
-            data.append(kata)
-        elif kata == data[x][0]:
-            data.append(pasangan)
-    return data
 
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = {}
@@ -82,23 +70,19 @@ def ekstraksi_synset_indonesia():
             if kata_pasangan in tesa:
                 daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
                 if kata in daftar_pasangan_tesaurus:
-                    #synset = get_synset_final(kata,kata_pasangan)
                     calon_synset_tesaurus[kata].append(kata_pasangan)
     return calon_synset_tesaurus
 
 def save_to_txt(data):
     with open('hasil/final.txt','w') as file:
-        for x in data:
-            file.write(str(x) + ': ')
+        for x in index:
+            file.write(str(x))
             for y in data[x] :
-                file.write(str(y) + ', ')
+                file.write(', ' + str(y))
             file.write('\n')
 
 def main():
     data = ekstraksi_synset_indonesia()
-    #hasil = get_synset_final(data)
-    #for x in hasil:
-    #    print x
     save_to_txt(data)
     
     
