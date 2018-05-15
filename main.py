@@ -64,9 +64,9 @@ def tambah_calon_synset(kata_utama, kata_pasangan):
 def get_synset_final(calon_synset):
     daftar_synset = {}
     for synset in calon_synset:
-        for kata in calon_synset[synset]:
-            if synset == synset+1:
-                daftar_synset[synset] = update(kata)
+        if synset == synset+1:
+            synset.update(synset+1)
+        print synset
     return daftar_synset
 
 def ekstraksi_synset_indonesia():
