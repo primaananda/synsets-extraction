@@ -72,26 +72,27 @@ def get_synset_final(kata, pasangan):
     return data
 
 def ekstraksi_synset_indonesia():
-    calon_synset_tesaurus = []
+    calon_synset_tesaurus = {}
     tesa = get_kata()
     temp = ''
     for kata in tesa:
+        calon_synset_tesaurus[kata] = []
         for kata_pasangan in tesa[kata]:
             daftar_pasangan_tesaurus = []
             if kata_pasangan in tesa:
                 daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
                 if kata in daftar_pasangan_tesaurus:
-                    synset = get_synset_final(kata,kata_pasangan)
-                    #calon_synset_tesaurus.append((kata,kata_pasangan))
-                else:
-                    synset = get_synset_final(kata,temp)
-                    #calon_synset_tesaurus.append((kata,temp))
-    return synset
+                    #synset = get_synset_final(kata,kata_pasangan)
+                    calon_synset_tesaurus[kata].append(kata_pasangan)
+    return calon_synset_tesaurus
 
 def save_to_txt(data):
     with open('hasil/final.txt','w') as file:
         for x in data:
-            file.write(str(x) + '\n')
+            file.write(str(x) + ': ')
+            for y in data[x] :
+                file.write(str(y) + ', ')
+            file.write('\n')
 
 def main():
     data = ekstraksi_synset_indonesia()
