@@ -56,7 +56,7 @@ def get_kata():
         next(reader)
         for row in reader:
             index.append(row[0])
-            kata[row[0]] = (row[1]+row[2]).split(',')
+            kata[row[0]] = (row[1]+row[2]+row[3]).split(',')
     return kata
 
 def ekstraksi_synset_indonesia():

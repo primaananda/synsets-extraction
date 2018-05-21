@@ -2,7 +2,7 @@
 import re
 import csv
 
-types = ['v','n']
+types = ['v','n', 'a','adv','p','num']
 
 def preprocessing(file):
     dicts = []
@@ -15,9 +15,9 @@ def preprocessing(file):
     
     for k in dicts:
         k = re.sub('\(.*?\)','',k) #hapus kata yang berada dalam kurung
-        for character in ['1', '2 ', '3 ', '4 ', '5', '6', '7']:
+        for character in ['1 ', '2 ', '3 ', '4 ', '5 ', '6 ', '7 ']:
             if character in k:
-                k = k.replace(character,'')
+                k = k.replace(character,' ')
         for chara in [';']:
             k = re.sub(';',',',k)
         temp2 = k
@@ -97,14 +97,15 @@ def txt_to_csv(file, files):
                     tempword = type[0][1:]
         except IndexError:
             print 'index zero'
-        writer.writerow([kata[0],','.join(noun),','.join(verb)])
+        writer.writerow([kata[0],','.join(noun),','.join(verb),','.join(tempword)])
 
 def main():
-    text = open('src/tesaurus.txt','r')
+    text = open('src/contoh.txt','r')
     file_text = open('hasil/cleartesaurus.txt','w')
     file_csv = open('hasil/tesaurus_hasil.csv','w')
     
     pre = preprocessing(text)
+    
     #import to txt
     add_file(pre, file_text)
     #import to csv
