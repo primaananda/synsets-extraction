@@ -2,7 +2,7 @@
 import re
 import csv
 
-types = ['v','n', 'a','adv','p','num']
+types = ['1','2', '3','4','5','6']
 
 def preprocessing(file):
     dicts = []
@@ -15,13 +15,14 @@ def preprocessing(file):
     
     for k in dicts:
         k = re.sub('\(.*?\)','',k) #hapus kata yang berada dalam kurung
-        for character in ['1 ', '2 ', '3 ', '4 ', '5 ', '6 ', '7 ']:
+        for character in ['n ', 'v ', 'a ', 'adv ', 'p ', 'num ', '  ']:
             if character in k:
                 k = k.replace(character,' ')
         for chara in [';']:
             k = re.sub(';',',',k)
         temp2 = k
         dicts2.append(temp2)
+    print str(dicts2) + '\n'
     return dicts2
 
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
@@ -53,7 +54,7 @@ def get_type_index(types, line):
 def txt_to_csv(file, files):
     dicts = []
     writer = csv.writer(files, delimiter=',')
-    writer.writerow(["Kata","Noun","Verb"])
+    writer.writerow(["Kata","sense-1","sense-2","sense-3","sense-4","sense-5"])
     for line in file:
         noun = []
         verb = []
@@ -75,29 +76,29 @@ def txt_to_csv(file, files):
         #print kata
         try:
             if type[0][0] in types:
-                if type[0][0] == 'n':
-            	    noun = type[0][1:]
-                elif type[0][0] == 'v':
-                    verb = type[0][1:]
+                if type[0][0] == '1':
+            	    sense1 = type[0][1:]
+                elif type[0][0] == '2':
+                    sense2 = type[0][1:]
                 else:
                     tempword = type[0][1:]
             elif type[1][0] in types:
-                if type[0][0] == 'n':
-            	    noun = type[0][1:]
-                elif type[0][0] == 'v':
-                    verb = type[0][1:]
+                if type[0][0] == '1':
+            	    sense1 = type[0][1:]
+                elif type[0][0] == '2':
+                    sense2 = type[0][1:]
                 else:
                     tempword = type[0][1:]
             elif type[2][0] in types:
-                if type[0][0] == 'n':
-            	    noun = type[0][1:]
-                elif type[0][0] == 'v':
-                    verb = type[0][1:]
+                if type[0][0] == '1':
+            	    sense1 = type[0][1:]
+                elif type[0][0] == '2':
+                    sense2 = type[0][1:]
                 else:
                     tempword = type[0][1:]
         except IndexError:
             print 'index zero'
-        writer.writerow([kata[0],','.join(noun),','.join(verb),','.join(tempword)])
+        writer.writerow([kata[0],','.join(sense1),','.join(sense2),','.join(tempword)])
 
 def main():
     text = open('src/contoh.txt','r')
