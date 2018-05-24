@@ -1,5 +1,5 @@
-ahad n  minggu,  esa, tunggal, satu
-minggu n ahad, pekan
-tunggal  n ahad, esa, satu,  a sendiri, singu-lar, individual, perorangan, solo,  num satu-satunya, semata  wayang,, wahid,  abulat, utuh
-esa n ahad, satu, tunggal,
-satu num ahad, eka, esa, homo-, iso-, mono-, se-, suatu, tunggal, uni, unik, wahid
+ahad 1 minggu, 2 esa, tunggal, satu
+minggu ahad, pekan
+tunggal 1 ahad, esa, satu, 2 sendiri, singular, individual, perorangan, solo, 3 satu-satunya, semat wayang,, wahid, 4 abulat, utuh
+es ahad, satu, tunggal,
+satu ahad, eka, esa, homo-, iso-, mono-, se-, suatu, tunggal, uni, unik, wahid
