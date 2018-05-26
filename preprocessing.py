@@ -2,7 +2,7 @@
 import re
 import csv
 
-types = ['1','2', '3','4','5','6']
+types = ['1','2','3','4','5','6']
 
 def preprocessing(file):
     dicts = []
@@ -15,7 +15,7 @@ def preprocessing(file):
     
     for k in dicts:
         k = re.sub('\(.*?\)','',k) #hapus kata yang berada dalam kurung
-        for character in ['n ', 'v ', 'a ', 'adv ', 'p ', 'num ', '  ']:
+        for character in [' n ', ' v ', ' a ', ' adv ', ' p ', ' num ', '  ']:
             if character in k:
                 k = k.replace(character,' ')
         for chara in [';']:
@@ -74,6 +74,8 @@ def txt_to_csv(file, files):
         #print type
         kata = word[0:1]
         #print kata
+        sense1 = ''
+        sense2 = ''
         try:
             if type[0][0] in types:
                 if type[0][0] == '1':
