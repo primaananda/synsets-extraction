@@ -1,5 +1,5 @@
-ahad, minggu, esa, tunggal, satu
-minggu, ahad
-tunggal, ahad, esa, satu
-esa, ahad, satu, tunggal
-satu, ahad, esa, tunggal
+ahad, tunggal, satu
+minggu
+tunggal, ahad, esa
+esa, satu, tunggal
+satu, ahad, esa

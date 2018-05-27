@@ -58,6 +58,9 @@ def txt_to_csv(file, files):
     for line in file:
         sense1 = []
         sense2 = []
+        sense3 = []
+        sense4 = []
+        sense5 = []
         tempword = ''
         dicts = [x.rstrip(',') for x in line.split()]
         #edit wordnya
@@ -75,8 +78,12 @@ def txt_to_csv(file, files):
         	kata = word[0:1]
         	sense1 = type[0][1:]
         	sense2 = type[1][1:]
+        	sense3 = type[2][1:]
+        	sense4 = type[3][1:]
+        	sense5 = type[4][1:]
         except IndexError:
-        	print "baris " + str(count) + " terdapat indeks kosong"
+        	pass
+        	#print "terdapat indeks kosong pada baris : " + str(count)
         #print kata
         '''
         try:
@@ -106,7 +113,7 @@ def txt_to_csv(file, files):
         except IndexError:
             print 'index zero'
         '''
-        writer.writerow([kata[0],','.join(sense1),','.join(sense2),','.join(tempword)])
+        writer.writerow([kata[0],','.join(sense1),','.join(sense2),','.join(sense3),','.join(sense4),','.join(sense5)])
 
 def main():
     text = open('src/contoh.txt','r')
