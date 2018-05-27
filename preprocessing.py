@@ -22,7 +22,6 @@ def preprocessing(file):
             k = re.sub(';',',',k)
         temp2 = k
         dicts2.append(temp2)
-    print str(dicts2) + '\n'
     return dicts2
 
 #perulangan untuk menulis hasil yang ada di dicts2 kedalam file txt bernama tesaurus_clear_text.txt
@@ -55,11 +54,10 @@ def txt_to_csv(file, files):
     dicts = []
     writer = csv.writer(files, delimiter=',')
     writer.writerow(["Kata","sense-1","sense-2","sense-3","sense-4","sense-5"])
+    count = 0
     for line in file:
-        noun = []
-        verb = []
-        adv = []
-        adj = []
+        sense1 = []
+        sense2 = []
         tempword = ''
         dicts = [x.rstrip(',') for x in line.split()]
         #edit wordnya
@@ -72,13 +70,19 @@ def txt_to_csv(file, files):
         for x in range(0, len(index_sequence)-1):
         	type.append(dicts[index_sequence[x]:index_sequence[x+1]])
         #print type
-        kata = word[0:1]
-        #print kata
-        sense1 = ''
-        sense2 = ''
+        count += 1
         try:
-            if type[0][0] in types:
+        	kata = word[0:1]
+        	sense1 = type[0][1:]
+        	sense2 = type[1][1:]
+        except IndexError:
+        	print "baris " + str(count) + " terdapat indeks kosong"
+        #print kata
+        '''
+        try:
+            if str(type[0][0]) in types:
                 if type[0][0] == '1':
+            	    print type[0][1]
             	    sense1 = type[0][1:]
                 elif type[0][0] == '2':
                     sense2 = type[0][1:]
@@ -89,6 +93,7 @@ def txt_to_csv(file, files):
             	    sense1 = type[0][1:]
                 elif type[0][0] == '2':
                     sense2 = type[0][1:]
+                    print type[1][1]
                 else:
                     tempword = type[0][1:]
             elif type[2][0] in types:
@@ -100,6 +105,7 @@ def txt_to_csv(file, files):
                     tempword = type[0][1:]
         except IndexError:
             print 'index zero'
+        '''
         writer.writerow([kata[0],','.join(sense1),','.join(sense2),','.join(tempword)])
 
 def main():
