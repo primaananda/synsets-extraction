@@ -61,7 +61,6 @@ def txt_to_csv(file, files):
         sense3 = []
         sense4 = []
         sense5 = []
-        tempword = ''
         dicts = [x.rstrip(',') for x in line.split()]
         #edit wordnya
         word = dicts[0:get_lowest_type_index(dicts)]
