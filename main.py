@@ -59,6 +59,21 @@ def get_kata():
             kata[row[0]] = (row[1]+row[2]+row[3]).split(',')
     return kata
 
+def ekstraksi():
+    calon_synset_tesaurus = {}
+    tesa = get_kata()
+    temp = ''
+    for kata in tesa:
+        calon_synset_tesaurus[kata] = []
+        for kata_pasangan in tesa[kata]:
+            daftar_pasangan_tesaurus = []
+            if kata_pasangan in tesa:
+                daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
+                if kata in daftar_pasangan_tesaurus:
+                    calon_synset_tesaurus[kata].append(kata_pasangan)
+    return calon_synset_tesaurus
+
+#main func
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = {}
     tesa = get_kata()
