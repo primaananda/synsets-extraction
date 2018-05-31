@@ -56,7 +56,11 @@ def get_kata():
         next(reader)
         for row in reader:
             index.append(row[0])
-            kata[row[0]] = (row[1]+row[2]+row[3]).split(',')
+            kata[row[0]] = []
+            kata[row[0]].extend(row[1].split(','))
+            kata[row[0]].extend(row[2].split(','))
+            kata[row[0]].extend(row[3].split(','))
+            kata[row[0]].extend(row[4].split(','))
     return kata
 
 def ekstraksi():
@@ -73,29 +77,50 @@ def ekstraksi():
                     calon_synset_tesaurus[kata].append(kata_pasangan)
     return calon_synset_tesaurus
 
+def cek_pasangan(key, value, tesa) :
+    if(value in tesa[key]) and (key in tesa[value]) :
+        return True
+    else:
+        return False
+
 #main func
 def ekstraksi_synset_indonesia():
     calon_synset_tesaurus = {}
+    pasangan = []
     tesa = get_kata()
     temp = ''
-    for kata in tesa:
-        calon_synset_tesaurus[kata] = []
+    print tesa
+    for key, value in tesa.items():
+        '''calon_synset_tesaurus[kata] = []
         for kata_pasangan in tesa[kata]:
             daftar_pasangan_tesaurus = []
             if kata_pasangan in tesa:
                 daftar_pasangan_tesaurus.extend(tesa[kata_pasangan])
                 if kata in daftar_pasangan_tesaurus:
                     calon_synset_tesaurus[kata].append(kata_pasangan)
-    return calon_synset_tesaurus
+        '''
+        for v in value :
+            try :
+                if (v in tesa[key]) and (key in tesa[v]) :
+                    calon = [key,v]
+                    if not (([key,v] in pasangan) or ([v,key] in pasangan)):
+                        pasangan.append(calon)
+            except:
+                pass
+    print pasangan
+    return pasangan
 
 def save_to_txt(data):
     with open('hasil/final.txt','w') as file:
+        '''
         for x in index:
             file.write(str(x))
             for y in data[x] :
                 file.write(', ' + str(y))
             file.write('\n')
-
+        '''
+        for x in data:
+            file.write(str(x)+'\n')
 def main():
     data = ekstraksi_synset_indonesia()
     save_to_txt(data)
