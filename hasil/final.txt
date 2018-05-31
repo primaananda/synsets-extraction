@@ -1,5 +1,7 @@
-ahad, tunggal, satu
-minggu
-tunggal, ahad, esa
-esa, satu, tunggal
-satu, ahad, esa
+['ahad', 'minggu']
+['ahad', 'esa']
+['ahad', 'tunggal']
+['ahad', 'satu']
+['satu', 'esa']
+['satu', 'tunggal']
+['esa', 'tunggal']
