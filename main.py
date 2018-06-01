@@ -89,7 +89,7 @@ def ekstraksi_synset_indonesia():
     pasangan = []
     tesa = get_kata()
     temp = ''
-    print tesa
+    #print tesa
     for key, value in tesa.items():
         '''calon_synset_tesaurus[kata] = []
         for kata_pasangan in tesa[kata]:
