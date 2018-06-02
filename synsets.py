@@ -1,11 +1,8 @@
 import json
 
-file_data = open('sample.json')
-data = json.load(file_data)
-# print(data)
-
-def synsets_gen(word):
-    lines = data[word]
+def synsets_gen(word, thesa):
+    thesaurus = json.load(thesa)
+    lines = thesaurus[word]
     output = []
     for line in lines: #[ ["minggu"], ["esa", "tunggal", "satu"] ]
         
@@ -13,8 +10,8 @@ def synsets_gen(word):
         
         for sense in line: # "minggu" / "esa", "tunggal", "satu"
             check_inner_senses = False
-            if data.get(sense) != None:
-                for inner_senses in data[sense]:
+            if thesaurus.get(sense) != None:
+                for inner_senses in thesaurus[sense]:
                     if word in inner_senses:
                         synsets.add(sense)
                         check_inner_senses = True
@@ -24,12 +21,3 @@ def synsets_gen(word):
                 synsets.add(word)
         output.append(sorted(synsets))
     return output
-
-
-def main():
-    for x in data:
-        print synsets_gen(x)
-
-main()
-
-print(synsets_gen("ahad"))

@@ -3,27 +3,11 @@
     ["minggu"],
     ["esa", "tunggal", "satu"]
   ],
-  "setanggi": [
-    ["kemenyan"]
-  ],
-  "aborsi": [
-    ["pengguguran"]
-  ],
   "minggu": [
     ["ahad", "pekan"]
   ],
-  "pekan": [
-    ["pasar", "rekan"],
-    ["minggu"]
-  ],
-  "pasar": [
-    ["pekan", "rekan"]
-  ],
-  "rekan": [
-    ["pasar", "pekan"]
-  ],
   "tunggal": [
-    ["ahad", "satu"],
+    ["ahad", "esa", "satu"],
     ["sendiri", "singular", "individual", "perorangn", "solo"],
     ["satu-satunya", "semata wayang", "wahid"],
     ["abulat", "utuh"]
@@ -33,20 +17,5 @@
   ],
   "satu": [
     ["ahad", "eka", "esa", "homo-", "iso-", "mono-", "se-", "suatu", "tunggal", "uni", "unik", "wahid"]
-  ],
-  "pengguguran": [
-    ["aborsi"]
-  ],
-  "a": [
-    ["b", "c", "d"]
-  ],
-  "b": [
-    ["a", "c", "d"]
-  ],
-  "c": [
-    ["a", "b", "d"]
-  ],
-  "d": [
-    ["a", "b"]
   ]
 }
