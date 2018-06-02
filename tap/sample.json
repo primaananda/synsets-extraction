@@ -23,7 +23,7 @@
     ["pasar", "pekan"]
   ],
   "tunggal": [
-    ["ahad", "esa", "satu"],
+    ["ahad", "satu"],
     ["sendiri", "singular", "individual", "perorangn", "solo"],
     ["satu-satunya", "semata wayang", "wahid"],
     ["abulat", "utuh"]
@@ -36,5 +36,17 @@
   ],
   "pengguguran": [
     ["aborsi"]
+  ],
+  "a": [
+    ["b", "c", "d"]
+  ],
+  "b": [
+    ["a", "c", "d"]
+  ],
+  "c": [
+    ["a", "b", "d"]
+  ],
+  "d": [
+    ["a", "b"]
   ]
 }

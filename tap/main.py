@@ -22,14 +22,14 @@ def synsets_gen(word):
             # add word itself
             if check_inner_senses == True:
                 synsets.add(word)
-        output.append(synsets)
+        output.append(sorted(synsets))
     return output
 
 
-#def main():
-#    for x in data:
-#        print synsets_gen(x)
+def main():
+    for x in data:
+        print synsets_gen(x)
 
-#main()
+main()
 
 print(synsets_gen("ahad"))
