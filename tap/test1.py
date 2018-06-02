@@ -7,7 +7,7 @@ class SyncSetTest(unittest.TestCase):
     
     def test_sample(self):
         input = synsets_gen('ahad')
-        output = [['ahad', 'minggu'], ['ahad', 'esa', 'satu', 'tunggal']]
+        output = [['ahad', 'minggu'], ['ahad', 'satu', 'tunggal']]
         self.assertEqual(input, output, 'first test case pass')
     
     def test_sample2(self):
@@ -24,6 +24,11 @@ class SyncSetTest(unittest.TestCase):
         input = synsets_gen('minggu')
         output = [['ahad','minggu', 'pekan']]
         self.assertEqual(input, output, '4rd test case pass')
-
+    '''
+    def test_sample5(self):
+        input = synsets_gen('a')
+        output = [['a','b', 'd']]
+        self.assertEqual(input, output, '5rd test case pass')
+    '''
 if __name__ == '__main__':
     unittest.main()
