@@ -6,10 +6,10 @@ from synsets import synsets_gen
 
 class SyncSetTest(unittest.TestCase):
     
-    # def test_sample(self):
-    #     input = synsets_gen('ahad', open('datatest/1.json'))
-    #     output = [['ahad', 'minggu'], ['ahad', 'esa', 'satu', 'tunggal']]
-    #     self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
+    def test_sample(self):
+        input = synsets_gen('ahad', open('datatest/1.json'))
+        output = [['ahad', 'minggu'], ['ahad', 'esa', 'satu', 'tunggal']]
+        self.assertEqual(input, output, '\nresult: {}\nexpected: {}'.format(input, output))
     #
     # def test_sample2(self):
     #     input = synsets_gen('setanggi', open('datatest/2.json'))
