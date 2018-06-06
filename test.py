@@ -1,7 +1,7 @@
 import unittest
 import json
 
-from alt_gen import alt_gen
+from synsets_extraction import alt_gen
 from synsets import synsets_gen
  
 

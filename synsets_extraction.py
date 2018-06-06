@@ -2,8 +2,7 @@ import json
 import pandas as pd
 import numpy as np
 
-
-def synsets_extraction(word, thesa):
+def synsets_to_dataframe(word, thesa):
     list_set = []
     for val in thesa[word]:
         word_set = set(val)
@@ -21,7 +20,7 @@ def synsets_extraction(word, thesa):
 def check_validation(word, thesa):
     lines = thesa[word]
     output = []
-    matriks_synset = synsets_extraction(word, thesa)
+    matriks_synset = synsets_to_dataframe(word, thesa)
     for matrik in matriks_synset:
         for line in lines:
             for sense in line:
@@ -47,3 +46,40 @@ def alt_gen(word, file):
         synset = evaluate_synsets(matrix)
         sets_list.append(synset)
     return sets_list
+
+#ekstraksi synset
+def synsets_extraction(file):
+    print('Proses ekstraksi synset')
+    thesa = json.load(file)
+    calon_synsets = []
+    count_synset = 0
+    for word in thesa:
+        output = alt_gen(word, open('datatest/1.json'))
+        for synsets in output:
+            calon_synsets.append(synsets)
+            count_synset += 1
+    file.close()
+    print('done\n'+'Terdapat : ' + str(count_synset) + ' synsets yang berhasil di ekstrak')
+
+    #delete redundant data
+    synsets = calon_synsets
+    print('Menghapus data redundant')
+    new_synset = []
+    count_synset_after = 0
+    for synset in synsets:
+        #print(len(synset))
+        #remove zero synset in list
+        if len(synset) != 0:
+            new_synset.append(synset)
+
+    #remove duplicate synsets
+    new_set = set(tuple(syns) for syns in new_synset)
+    new_synset = [list(syns) for syns in new_set]
+
+    #sum synset after delete redundant and zero list
+    for x in new_synset:
+        count_synset_after += 1
+    print('done\nBerhasil menghapus ' + str(count_synset - count_synset_after) + ' synsets duplikat')
+    print('Terdapat : ' + str(count_synset_after) + ' synsets setelah menghapus data duplikat')
+
+    return new_synset
