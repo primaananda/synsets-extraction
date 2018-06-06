@@ -1,3 +1,4 @@
+from alt_gen import alt_gen
 from synsets import synsets_gen
 
 # def main():
@@ -17,7 +18,5 @@ from synsets import synsets_gen
 #
 # testcase(aa,bb)
 
-synsets_gen('ahad', open('datatest/1.json'))
-
-# input ahad
-# output: []
+input = alt_gen('ahad', open('datatest/1.json'))
+print(input)
