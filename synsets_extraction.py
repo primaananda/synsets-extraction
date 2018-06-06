@@ -58,7 +58,6 @@ def synsets_extraction(file):
         for synsets in output:
             calon_synsets.append(synsets)
             count_synset += 1
-    file.close()
     print('done\n'+'Terdapat : ' + str(count_synset) + ' synsets yang berhasil di ekstrak')
 
     #delete redundant data
