@@ -1,4 +1,3 @@
-import json
 from synsets_extraction import synsets_extraction
 
 if __name__ == '__main__':
