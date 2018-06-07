@@ -49,7 +49,7 @@ def alt_gen(word, file):
 
 #ekstraksi synset
 def synsets_extraction(file):
-    print('Proses ekstraksi synset')
+    #print('Proses ekstraksi synset')
     thesa = json.load(file)
     calon_synsets = []
     count_synset = 0
@@ -58,11 +58,11 @@ def synsets_extraction(file):
         for synsets in output:
             calon_synsets.append(synsets)
             count_synset += 1
-    print('done\n'+'Terdapat : ' + str(count_synset) + ' synsets yang berhasil di ekstrak')
+    #print('done\n'+'Terdapat : ' + str(count_synset) + ' synsets yang berhasil di ekstrak')
 
     #delete redundant data
     synsets = calon_synsets
-    print('Menghapus data redundant')
+    #print('Menghapus data redundant')
     new_synset = []
     count_synset_after = 0
     for synset in synsets:
@@ -78,7 +78,7 @@ def synsets_extraction(file):
     #sum synset after delete redundant and zero list
     for x in new_synset:
         count_synset_after += 1
-    print('done\nBerhasil menghapus ' + str(count_synset - count_synset_after) + ' synsets duplikat')
-    print('Terdapat : ' + str(count_synset_after) + ' synsets setelah menghapus data duplikat')
+    #print('done\nBerhasil menghapus ' + str(count_synset - count_synset_after) + ' synsets duplikat')
+    #print('Terdapat : ' + str(count_synset_after) + ' synsets setelah menghapus data duplikat')
 
     return new_synset
